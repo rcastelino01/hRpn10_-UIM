@@ -1,0 +1,877 @@
+﻿Checked,Protein FDR Confidence: Combined,Master,Accession,Description,Exp. q-value: Combined,Sum PEP Score,Coverage [%],# Peptides,# PSMs,# Unique Peptides,# AAs,MW [kDa],calc. pI,Score Sequest HT: Sequest HT,# Peptides (by Search Engine): Sequest HT,# Razor Peptides,Abundance: F1: Sample,Found in Sample: [S1] F1: Sample,# Protein Groups,Modifications
+FALSE,High,Master Protein,Q99460,26S proteasome non-ATPase regulatory subunit 1 OS=Homo sapiens OX=9606 GN=PSMD1 PE=1 SV=2,0,1386.291,83,80,2723,80,953,105.8,5.39,9107.59,80,0,10696161395,High,1,Acetyl [N-Term]; Methyl [K20; R649; K799; K807]; Phospho [T273; T282; T284; T286; S290; S296; S305; T311; S315; S804]; Acetyl [K310]
+FALSE,High,Master Protein,Q13200,26S proteasome non-ATPase regulatory subunit 2 OS=Homo sapiens OX=9606 GN=PSMD2 PE=1 SV=3,0,1506.73,89,91,2351,91,908,100.1,5.2,7767.79,91,0,15346397865,High,1,Phospho [S16; S46; S361; S367]; Acetyl [K8; K41]; Methyl [K50; R160; R357; R369]; Acetyl [N-Term]
+FALSE,High,Master Protein,Q5VYK3,Proteasome adapter and scaffold protein ECM29 OS=Homo sapiens OX=9606 GN=ECPAS PE=1 SV=2,0,1580.283,78,120,1846,120,1845,204.2,7.12,5875.38,120,0,6067572403,High,1,Methyl [K856; K858]; Met-loss+Acetyl [N-Term]; Phospho [S833]
+FALSE,High,Master Protein,P43686,26S proteasome regulatory subunit 6B OS=Homo sapiens OX=9606 GN=PSMC4 PE=1 SV=2,0,921.929,93,51,1581,50,418,47.3,5.21,5330.36,51,2,9008794331,High,1,Phospho [S19; S21; T25; S28]; Acetyl [K159; K174; K409]; Methyl [K159]; Acetyl [N-Term]
+FALSE,High,Master Protein,O00231,26S proteasome non-ATPase regulatory subunit 11 OS=Homo sapiens OX=9606 GN=PSMD11 PE=1 SV=3,0,459.636,78,41,1467,41,422,47.4,6.48,4364.83,41,0,7431525216,High,1,Acetyl [K159; K163; K252; K258]; Phospho [S14]; Methyl [K159; K163]; Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,O00232,26S proteasome non-ATPase regulatory subunit 12 OS=Homo sapiens OX=9606 GN=PSMD12 PE=1 SV=3,0,550.433,79,44,1341,44,456,52.9,7.65,4031.71,44,0,6005913463,High,1,Methyl [K147; K153; K431]; Phospho [T146; T148; T151]
+FALSE,High,Master Protein,O43242,26S proteasome non-ATPase regulatory subunit 3 OS=Homo sapiens OX=9606 GN=PSMD3 PE=1 SV=2,0,597.434,75,54,1302,54,534,60.9,8.44,3924.82,54,0,8246914465,High,1,Acetyl [K14; K38]; Methyl [R287]; Phospho [T369]
+FALSE,High,Master Protein,P62195,26S proteasome regulatory subunit 8 OS=Homo sapiens OX=9606 GN=PSMC5 PE=1 SV=1,0,493.38,81,43,1285,40,406,45.6,7.55,4088.73,43,1,8015037081,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P62191,26S proteasome regulatory subunit 4 OS=Homo sapiens OX=9606 GN=PSMC1 PE=1 SV=1,0,609.615,86,48,1208,46,440,49.2,6.21,4293.12,48,1,9839647599,High,1,Phospho [T53]
+FALSE,High,Master Protein,P17980,26S proteasome regulatory subunit 6A OS=Homo sapiens OX=9606 GN=PSMC3 PE=1 SV=3,0,648.482,83,38,1188,38,439,49.2,5.24,3717.79,38,0,8809993115,High,1,Methyl [R13; K16; R180]; Acetyl [N-Term]; Phospho [S9; T12; T19]
+FALSE,High,Master Protein,P35998,26S proteasome regulatory subunit 7 OS=Homo sapiens OX=9606 GN=PSMC2 PE=1 SV=3,0,468.896,82,46,1094,44,433,48.6,5.95,3113.82,46,2,12430545963,High,1,Methyl [K169]; Acetyl [K169]; Met-loss [N-Term]
+FALSE,High,Master Protein,P62333,26S proteasome regulatory subunit 10B OS=Homo sapiens OX=9606 GN=PSMC6 PE=1 SV=1,0,437.245,79,34,1070,33,389,44.1,7.49,3339.15,34,0,7338596718,High,1,Acetyl [K42]; Phospho [T37; Y40]; Methyl [K48]
+FALSE,High,Master Protein,Q15008,26S proteasome non-ATPase regulatory subunit 6 OS=Homo sapiens OX=9606 GN=PSMD6 PE=1 SV=1,0,410.326,87,43,958,43,389,45.5,5.62,2645.14,43,0,5300211511,High,1,Met-loss [N-Term]
+FALSE,High,Master Protein,Q9UNM6,26S proteasome non-ATPase regulatory subunit 13 OS=Homo sapiens OX=9606 GN=PSMD13 PE=1 SV=2,0,459.973,80,34,957,34,376,42.9,5.81,3261.56,34,0,6587652673,High,1,
+FALSE,High,Master Protein,Q16401,26S proteasome non-ATPase regulatory subunit 5 OS=Homo sapiens OX=9606 GN=PSMD5 PE=1 SV=3,0,554.697,84,39,868,39,504,56.2,5.48,2883.58,39,0,7043996447,High,1,Acetyl [K100]; Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P51665,26S proteasome non-ATPase regulatory subunit 7 OS=Homo sapiens OX=9606 GN=PSMD7 PE=1 SV=2,0,373.076,79,26,791,26,324,37,6.77,2776.32,26,0,3452450002,High,1,Met-loss [N-Term]
+FALSE,High,Master Protein,P54578,Ubiquitin carboxyl-terminal hydrolase 14 OS=Homo sapiens OX=9606 GN=USP14 PE=1 SV=3,0,672.31,87,42,716,42,494,56,5.3,2504.52,42,0,2549264823,High,1,Acetyl [K345; K348]; Met-loss [N-Term]
+FALSE,High,Master Protein,P55036,26S proteasome non-ATPase regulatory subunit 4 OS=Homo sapiens OX=9606 GN=PSMD4 PE=1 SV=1,0,339.894,61,20,632,20,377,40.7,4.79,2200.62,20,0,3331505469,High,1,Phospho [S266]; Met-loss [N-Term]
+FALSE,High,Master Protein,Q9Y5K5,Ubiquitin carboxyl-terminal hydrolase isozyme L5 OS=Homo sapiens OX=9606 GN=UCHL5 PE=1 SV=3,0,529.962,92,28,625,28,329,37.6,5.33,1998.9,28,0,2276473630,High,1,Phospho [Y231; T250]; Met-loss [N-Term]; Met-loss+Acetyl [N-Term]; Acetyl [N-Term]; Acetyl [K158]
+FALSE,High,Master Protein,O00487,26S proteasome non-ATPase regulatory subunit 14 OS=Homo sapiens OX=9606 GN=PSMD14 PE=1 SV=1,0,480.758,81,21,586,21,310,34.6,6.52,1848.95,21,0,5347935689,High,1,Methyl [K222; K223]
+FALSE,High,Master Protein,P25786,Proteasome subunit alpha type-1 OS=Homo sapiens OX=9606 GN=PSMA1 PE=1 SV=1,0,311.954,93,27,551,27,263,29.5,6.61,1646.36,27,0,2454240273,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,P48556,26S proteasome non-ATPase regulatory subunit 8 OS=Homo sapiens OX=9606 GN=PSMD8 PE=1 SV=2,0,308.445,68,24,529,24,350,39.6,9.7,1646.74,24,0,2983984054,High,1,Methyl [K63; K243; K324]; Phospho [S76; Y315; Y316]; Acetyl [K63]
+FALSE,High,Master Protein,P25787,Proteasome subunit alpha type-2 OS=Homo sapiens OX=9606 GN=PSMA2 PE=1 SV=2,0,280.847,84,22,518,22,234,25.9,7.43,1755.56,22,0,1493385841,High,1,Met-loss+Acetyl [N-Term]; Phospho [S16]
+FALSE,High,Master Protein,P28066,Proteasome subunit alpha type-5 OS=Homo sapiens OX=9606 GN=PSMA5 PE=1 SV=3,0,279.772,71,16,471,16,241,26.4,4.79,1530.64,16,0,1964510661,High,1,
+FALSE,High,Master Protein,P28074,Proteasome subunit beta type-5 OS=Homo sapiens OX=9606 GN=PSMB5 PE=1 SV=3,0,243.592,65,19,459,19,263,28.5,6.92,1545.24,19,0,2063957695,High,1,
+FALSE,High,Master Protein,P20618,Proteasome subunit beta type-1 OS=Homo sapiens OX=9606 GN=PSMB1 PE=1 SV=2,0,272.875,75,18,451,18,241,26.5,8.13,1439.91,18,0,1848487524,High,1,
+FALSE,High,Master Protein,P49720,Proteasome subunit beta type-3 OS=Homo sapiens OX=9606 GN=PSMB3 PE=1 SV=2,0,168.751,61,17,448,17,205,22.9,6.55,1290.96,17,0,1235617611,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,O43396,Thioredoxin-like protein 1 OS=Homo sapiens OX=9606 GN=TXNL1 PE=1 SV=3,0,492.773,90,25,446,25,289,32.2,4.96,1668.04,25,0,2389183343,High,1,Met-loss [N-Term]; Met-loss+Acetyl [N-Term]; Acetyl [N-Term]
+FALSE,High,Master Protein,P49721,Proteasome subunit beta type-2 OS=Homo sapiens OX=9606 GN=PSMB2 PE=1 SV=1,0,241.569,95,24,411,23,201,22.8,7.02,1288.19,24,0,1514992672,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,P60900,Proteasome subunit alpha type-6 OS=Homo sapiens OX=9606 GN=PSMA6 PE=1 SV=1,0,207.499,73,20,399,20,246,27.4,6.76,1346.15,20,0,2426473958,High,1,
+FALSE,High,Master Protein,O14818,Proteasome subunit alpha type-7 OS=Homo sapiens OX=9606 GN=PSMA7 PE=1 SV=1,0,243.241,70,20,385,19,248,27.9,8.46,1308.79,20,1,3058000822,High,1,
+FALSE,High,Master Protein,Q16186,Proteasomal ubiquitin receptor ADRM1 OS=Homo sapiens OX=9606 GN=ADRM1 PE=1 SV=2,0,163.208,31,15,381,15,407,42.1,5.07,1173.18,15,0,1217148409,High,1,Met-loss+Acetyl [N-Term]; Phospho [S211; T225]
+FALSE,High,Master Protein,P25788,Proteasome subunit alpha type-3 OS=Homo sapiens OX=9606 GN=PSMA3 PE=1 SV=2,0,118.155,62,19,309,19,255,28.4,5.33,786.19,19,0,1814621007,High,1,Phospho [S250]; Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,O75832,26S proteasome non-ATPase regulatory subunit 10 OS=Homo sapiens OX=9606 GN=PSMD10 PE=1 SV=1,0,248.551,75,17,299,17,226,24.4,6.1,888.81,17,0,711822385.9,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,P25789,Proteasome subunit alpha type-4 OS=Homo sapiens OX=9606 GN=PSMA4 PE=1 SV=1,0,314.913,76,19,298,19,261,29.5,7.72,1112.3,19,0,2230543580,High,1,Phospho [S62; S75]
+FALSE,High,Master Protein,P28072,Proteasome subunit beta type-6 OS=Homo sapiens OX=9606 GN=PSMB6 PE=1 SV=4,0,159.653,65,10,293,10,239,25.3,4.92,1010.34,10,0,1098442999,High,1,
+FALSE,High,Master Protein,Q99436,Proteasome subunit beta type-7 OS=Homo sapiens OX=9606 GN=PSMB7 PE=1 SV=1,0,259.08,61,14,277,14,277,29.9,7.68,869.46,14,0,1174498723,High,1,
+FALSE,High,Master Protein,P28070,Proteasome subunit beta type-4 OS=Homo sapiens OX=9606 GN=PSMB4 PE=1 SV=4,0,201.934,52,10,274,10,264,29.2,5.97,1040.75,10,0,1629638467,High,1,
+FALSE,High,Master Protein,P62979,Ubiquitin-40S ribosomal protein S27a OS=Homo sapiens OX=9606 GN=RPS27A PE=1 SV=2,0,104.545,65,14,268,14,156,18,9.64,612.16,14,0,2105559918,High,1,Phospho [T9]
+FALSE,High,Master Protein,Q15386,Ubiquitin-protein ligase E3C OS=Homo sapiens OX=9606 GN=UBE3C PE=1 SV=3,0,306.141,50,46,223,46,1083,123.8,6.71,609.13,46,0,400659392.2,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,Q05086,Ubiquitin-protein ligase E3A OS=Homo sapiens OX=9606 GN=UBE3A PE=1 SV=4,0,271.394,59,40,197,40,875,100.6,5.22,601.15,40,0,294576232.2,High,1,Phospho [S217; S218]
+FALSE,High,Master Protein,P07900,Heat shock protein HSP 90-alpha OS=Homo sapiens OX=9606 GN=HSP90AA1 PE=1 SV=5,0,200.486,58,36,170,25,732,84.6,5.02,468.7,36,11,342049668.3,High,1,Phospho [S231; S263; T594]
+FALSE,High,Master Protein,Q00610,Clathrin heavy chain 1 OS=Homo sapiens OX=9606 GN=CLTC PE=1 SV=5,0,308.329,39,52,170,52,1675,191.5,5.69,514.92,52,0,200846747.6,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P08238,Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4,0,180.86,53,33,151,22,724,83.2,5.03,433.7,33,0,109646774.4,High,1,Phospho [S255]
+FALSE,High,Master Protein,P54727,UV excision repair protein RAD23 homolog B OS=Homo sapiens OX=9606 GN=RAD23B PE=1 SV=1,0,231.152,59,20,134,16,409,43.1,4.84,412.98,20,4,602589799.1,High,1,Phospho [T159; S160; T162]
+FALSE,High,Master Protein,P68104,Elongation factor 1-alpha 1 OS=Homo sapiens OX=9606 GN=EEF1A1 PE=1 SV=1,0,187.213,52,20,120,13,462,50.1,9.01,429.95,20,7,383631242.1,High,1,Methyl [K165; R166]
+FALSE,High,Master Protein,P07437,Tubulin beta chain OS=Homo sapiens OX=9606 GN=TUBB PE=1 SV=2,0,157.291,66,21,114,5,444,49.6,4.89,351.78,21,17,421512525.4,High,1,
+FALSE,High,Master Protein,Q02952,A-kinase anchor protein 12 OS=Homo sapiens OX=9606 GN=AKAP12 PE=1 SV=4,0,259.524,40,44,99,44,1782,191.4,4.41,290.8,44,0,70040549.2,High,1,Phospho [S371]
+FALSE,High,Master Protein,P68371,Tubulin beta-4B chain OS=Homo sapiens OX=9606 GN=TUBB4B PE=1 SV=1,0,129.392,57,18,98,3,445,49.8,4.89,297.29,18,0,5378476.125,High,1,
+FALSE,High,Master Protein,P62701,"40S ribosomal protein S4, X isoform OS=Homo sapiens OX=9606 GN=RPS4X PE=1 SV=2",0,78.689,66,20,96,20,263,29.6,10.15,230.68,20,0,331853819.5,High,1,
+FALSE,High,Master Protein,Q14997,Proteasome activator complex subunit 4 OS=Homo sapiens OX=9606 GN=PSME4 PE=1 SV=2,0,202.759,31,41,95,41,1843,211.2,6.9,246.73,41,0,98495141.88,High,1,
+FALSE,High,Master Protein,P68363,Tubulin alpha-1B chain OS=Homo sapiens OX=9606 GN=TUBA1B PE=1 SV=1,0,114.925,50,17,93,10,451,50.1,5.06,256.1,17,7,139944897.3,High,1,
+FALSE,High,Master Protein,Q14152,Eukaryotic translation initiation factor 3 subunit A OS=Homo sapiens OX=9606 GN=EIF3A PE=1 SV=1,0,121.003,27,35,86,35,1382,166.5,6.79,187.27,35,0,75018735.94,High,1,
+FALSE,High,Master Protein,P46379,Large proline-rich protein BAG6 OS=Homo sapiens OX=9606 GN=BAG6 PE=1 SV=2,0,176.038,37,26,84,26,1132,119.3,5.6,248.9,26,0,83423997.38,High,1,Phospho [S113; S973]; Acetyl [N-Term]
+FALSE,High,Master Protein,Q5TDH0,Protein DDI1 homolog 2 OS=Homo sapiens OX=9606 GN=DDI2 PE=1 SV=1,0,136.414,56,16,81,16,399,44.5,5.05,280.07,16,0,93584572.5,High,1,
+FALSE,High,Master Protein,P63244,Receptor of activated protein C kinase 1 OS=Homo sapiens OX=9606 GN=RACK1 PE=1 SV=3,0,137.328,66,18,79,18,317,35.1,7.69,227.14,18,0,99258231.88,High,1,
+FALSE,High,Master Protein,P23396,40S ribosomal protein S3 OS=Homo sapiens OX=9606 GN=RPS3 PE=1 SV=2,0,83.743,81,21,78,21,243,26.7,9.66,202.67,21,0,148997143,High,1,
+FALSE,High,Master Protein,Q8WVY7,Ubiquitin-like domain-containing CTD phosphatase 1 OS=Homo sapiens OX=9606 GN=UBLCP1 PE=1 SV=2,0,67.481,43,16,73,16,318,36.8,6.46,179.07,16,0,114936695.9,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P26641,Elongation factor 1-gamma OS=Homo sapiens OX=9606 GN=EEF1G PE=1 SV=3,0,124.079,41,18,70,18,437,50.1,6.67,201.89,18,0,637091115.3,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q9UMX0,Ubiquilin-1 OS=Homo sapiens OX=9606 GN=UBQLN1 PE=1 SV=2,0,195.075,44,13,67,7,589,62.5,5.11,267.56,13,7,91049796.25,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P04264,"Keratin, type II cytoskeletal 1 OS=Homo sapiens OX=9606 GN=KRT1 PE=1 SV=6",0,102.599,40,22,67,19,644,66,8.12,170.58,22,3,121715772.4,High,1,
+FALSE,High,Master Protein,P29692,Elongation factor 1-delta OS=Homo sapiens OX=9606 GN=EEF1D PE=1 SV=5,0,93.558,59,14,66,12,281,31.1,5.01,180.69,14,1,86372691.94,High,1,Phospho [S133; S162]; Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P22061,Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Homo sapiens OX=9606 GN=PCMT1 PE=1 SV=4,0,90.334,62,13,63,13,227,24.6,7.21,205.94,13,0,72727478.31,High,1,Methyl [R124]
+FALSE,High,Master Protein,Q05639,Elongation factor 1-alpha 2 OS=Homo sapiens OX=9606 GN=EEF1A2 PE=1 SV=1,0,81.609,42,12,62,5,463,50.4,9.03,164.71,12,0,5103590.656,High,1,Methyl [K165; R166]
+FALSE,High,Master Protein,Q99613,Eukaryotic translation initiation factor 3 subunit C OS=Homo sapiens OX=9606 GN=EIF3C PE=1 SV=1,0,102.717,27,21,61,21,913,105.3,5.68,148.32,21,0,55866353.47,High,1,
+FALSE,High,Master Protein,P61247,40S ribosomal protein S3a OS=Homo sapiens OX=9606 GN=RPS3A PE=1 SV=2,0,71.204,52,14,60,14,264,29.9,9.73,149.88,14,0,119290541.6,High,1,
+FALSE,High,Master Protein,Q9BRP4,Proteasomal ATPase-associated factor 1 OS=Homo sapiens OX=9606 GN=PAAF1 PE=1 SV=2,0,54.566,41,15,57,15,392,42.2,6.32,135.19,15,0,85784918.5,High,1,
+FALSE,High,Master Protein,P62269,40S ribosomal protein S18 OS=Homo sapiens OX=9606 GN=RPS18 PE=1 SV=3,0,39.003,51,10,57,10,152,17.7,10.99,118.16,10,0,98219901.63,High,1,
+FALSE,High,Master Protein,P55072,Transitional endoplasmic reticulum ATPase OS=Homo sapiens OX=9606 GN=VCP PE=1 SV=4,0,161.474,43,24,56,24,806,89.3,5.26,182.49,24,0,66895904.88,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P06748,Nucleophosmin OS=Homo sapiens OX=9606 GN=NPM1 PE=1 SV=2,0,116.701,55,12,56,12,294,32.6,4.78,169.61,12,0,135619805.8,High,1,Acetyl [N-Term]; Phospho [S4]
+FALSE,High,Master Protein,P62241,40S ribosomal protein S8 OS=Homo sapiens OX=9606 GN=RPS8 PE=1 SV=2,0,49.979,53,10,54,10,208,24.2,10.32,158.57,10,0,92369924.38,High,1,
+FALSE,High,Master Protein,O60664,Perilipin-3 OS=Homo sapiens OX=9606 GN=PLIN3 PE=1 SV=3,0,118.172,56,15,54,15,434,47,5.44,175.7,15,0,56224814.69,High,1,
+FALSE,High,Master Protein,P55884,Eukaryotic translation initiation factor 3 subunit B OS=Homo sapiens OX=9606 GN=EIF3B PE=1 SV=3,0,91.228,39,23,54,23,814,92.4,5,125.87,23,0,105185541.9,High,1,Acetyl [N-Term]; Phospho [S119]
+FALSE,High,Master Protein,P13639,Elongation factor 2 OS=Homo sapiens OX=9606 GN=EEF2 PE=1 SV=4,0,128.525,34,22,53,22,858,95.3,6.83,141.5,22,0,46833044.38,High,1,
+FALSE,High,Master Protein,Q5T4S7,E3 ubiquitin-protein ligase UBR4 OS=Homo sapiens OX=9606 GN=UBR4 PE=1 SV=1,0,125.779,10,35,53,34,5183,573.5,6.04,122.36,35,1,68177945.47,High,1,
+FALSE,High,Master Protein,P49327,Fatty acid synthase OS=Homo sapiens OX=9606 GN=FASN PE=1 SV=3,0,116.232,19,33,50,33,2511,273.3,6.44,116.61,33,0,71159048.19,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,P49748,"Very long-chain specific acyl-CoA dehydrogenase, mitochondrial OS=Homo sapiens OX=9606 GN=ACADVL PE=1 SV=1",0,108.078,41,18,50,18,655,70.3,8.75,124.85,18,0,113432750.9,High,1,
+FALSE,High,Master Protein,P60228,Eukaryotic translation initiation factor 3 subunit E OS=Homo sapiens OX=9606 GN=EIF3E PE=1 SV=1,0,68.58,46,18,49,18,445,52.2,6.04,111.26,18,0,51895092.38,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P35527,"Keratin, type I cytoskeletal 9 OS=Homo sapiens OX=9606 GN=KRT9 PE=1 SV=3",0,98.127,40,16,48,15,623,62,5.24,131.36,16,1,55818792.88,High,1,
+FALSE,High,Master Protein,O14562,Ubiquitin domain-containing protein UBFD1 OS=Homo sapiens OX=9606 GN=UBFD1 PE=1 SV=2,0,75.908,56,10,47,10,309,33.4,5.77,131.44,10,0,59630210,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P60709,"Actin, cytoplasmic 1 OS=Homo sapiens OX=9606 GN=ACTB PE=1 SV=1",0,91.832,63,16,47,16,375,41.7,5.48,129.87,16,0,79648209,High,1,
+FALSE,High,Master Protein,P26640,Valine--tRNA ligase OS=Homo sapiens OX=9606 GN=VARS1 PE=1 SV=4,0,97.475,24,18,45,18,1264,140.4,7.59,128.21,18,0,25905425.88,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q00839,Heterogeneous nuclear ribonucleoprotein U OS=Homo sapiens OX=9606 GN=HNRNPU PE=1 SV=6,0,68.387,22,14,45,14,825,90.5,6,97.38,14,0,54405906.5,High,1,Phospho [S59]
+FALSE,High,Master Protein,Q9NY65,Tubulin alpha-8 chain OS=Homo sapiens OX=9606 GN=TUBA8 PE=1 SV=1,0,65.745,26,8,45,1,449,50.1,5.06,130.5,8,0,,High,1,Methyl [R79]
+FALSE,High,Master Protein,P08865,40S ribosomal protein SA OS=Homo sapiens OX=9606 GN=RPSA PE=1 SV=4,0,62.634,38,9,44,9,295,32.8,4.87,154.79,9,0,123750213.5,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q02878,60S ribosomal protein L6 OS=Homo sapiens OX=9606 GN=RPL6 PE=1 SV=3,0,63.007,41,13,44,13,288,32.7,10.58,102.39,13,0,61525290.5,High,1,
+FALSE,High,Master Protein,P62249,40S ribosomal protein S16 OS=Homo sapiens OX=9606 GN=RPS16 PE=1 SV=2,0,24.33,47,7,44,7,146,16.4,10.21,111.29,7,0,103329097.9,High,1,
+FALSE,High,Master Protein,P24534,Elongation factor 1-beta OS=Homo sapiens OX=9606 GN=EEF1B2 PE=1 SV=3,0,71.146,64,10,43,8,225,24.7,4.67,148.46,10,0,84998949.13,High,1,Met-loss [N-Term]; Phospho [S106]
+FALSE,High,Master Protein,Q9Y262,Eukaryotic translation initiation factor 3 subunit L OS=Homo sapiens OX=9606 GN=EIF3L PE=1 SV=1,0,63.465,31,16,43,16,564,66.7,6.34,108.04,16,0,45687958.72,High,1,
+FALSE,High,Master Protein,Q9Y230,RuvB-like 2 OS=Homo sapiens OX=9606 GN=RUVBL2 PE=1 SV=3,0,56.064,35,14,42,14,463,51.1,5.64,114.72,14,0,44158210.63,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P11142,Heat shock cognate 71 kDa protein OS=Homo sapiens OX=9606 GN=HSPA8 PE=1 SV=1,0,79.696,28,16,42,13,646,70.9,5.52,110.75,16,2,46814429.69,High,1,
+FALSE,High,Master Protein,P15880,40S ribosomal protein S2 OS=Homo sapiens OX=9606 GN=RPS2 PE=1 SV=2,0,31.834,33,9,42,9,293,31.3,10.24,106.42,9,0,91102185.25,High,1,
+FALSE,High,Master Protein,P49368,T-complex protein 1 subunit gamma OS=Homo sapiens OX=9606 GN=CCT3 PE=1 SV=4,0,66.502,38,15,42,15,545,60.5,6.49,123.02,15,0,147971703.6,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,P39019,40S ribosomal protein S19 OS=Homo sapiens OX=9606 GN=RPS19 PE=1 SV=2,0,32.222,51,9,40,9,145,16.1,10.32,77.98,9,0,83979276.59,High,1,
+FALSE,High,Master Protein,Q9UQ80,Proliferation-associated protein 2G4 OS=Homo sapiens OX=9606 GN=PA2G4 PE=1 SV=3,0,78.432,47,17,40,17,394,43.8,6.55,103.13,17,0,45965716.63,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P25398,40S ribosomal protein S12 OS=Homo sapiens OX=9606 GN=RPS12 PE=1 SV=3,0,65.6,72,9,40,9,132,14.5,7.21,102.15,9,0,73258499.13,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P63104,14-3-3 protein zeta/delta OS=Homo sapiens OX=9606 GN=YWHAZ PE=1 SV=1,0,60.778,49,11,39,9,245,27.7,4.79,115.88,11,0,49925056.88,High,1,
+FALSE,High,Master Protein,O15371,Eukaryotic translation initiation factor 3 subunit D OS=Homo sapiens OX=9606 GN=EIF3D PE=1 SV=1,0,106,41,16,38,16,548,63.9,6.05,106.84,16,0,23069676.38,High,1,
+FALSE,High,Master Protein,P02538,"Keratin, type II cytoskeletal 6A OS=Homo sapiens OX=9606 GN=KRT6A PE=1 SV=3",0,45.002,27,15,38,2,564,60,8,88.23,15,11,37679781.13,High,1,
+FALSE,High,Master Protein,P62280,40S ribosomal protein S11 OS=Homo sapiens OX=9606 GN=RPS11 PE=1 SV=3,0,37.215,56,10,36,10,158,18.4,10.3,62.9,10,0,69650804.5,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P40429,60S ribosomal protein L13a OS=Homo sapiens OX=9606 GN=RPL13A PE=1 SV=2,0,25.635,33,9,36,9,203,23.6,10.93,56.38,9,0,51825306.81,High,1,
+FALSE,High,Master Protein,P15311,Ezrin OS=Homo sapiens OX=9606 GN=EZR PE=1 SV=4,0,61.172,33,19,36,14,586,69.4,6.27,56.13,19,4,28354867.55,High,1,Acetyl [K412]
+FALSE,High,Master Protein,P40939,"Trifunctional enzyme subunit alpha, mitochondrial OS=Homo sapiens OX=9606 GN=HADHA PE=1 SV=2",0,89.68,30,16,36,16,763,82.9,9.04,100.69,16,0,48273860.08,High,1,
+FALSE,High,Master Protein,Q9Y265,RuvB-like 1 OS=Homo sapiens OX=9606 GN=RUVBL1 PE=1 SV=1,0,66.951,31,11,36,11,456,50.2,6.42,99.51,11,0,66378919.81,High,1,
+FALSE,High,Master Protein,P0DP25,Calmodulin-3 OS=Homo sapiens OX=9606 GN=CALM3 PE=1 SV=1,0,56.215,60,8,36,8,149,16.8,4.22,94.67,8,0,70072960.31,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P19338,Nucleolin OS=Homo sapiens OX=9606 GN=NCL PE=1 SV=3,0,68.764,18,11,36,11,710,76.6,4.7,100.42,11,0,44966477.56,High,1,
+FALSE,High,Master Protein,P62258,14-3-3 protein epsilon OS=Homo sapiens OX=9606 GN=YWHAE PE=1 SV=1,0,49.716,47,11,36,9,255,29.2,4.74,92.17,11,2,65577072,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,P62263,40S ribosomal protein S14 OS=Homo sapiens OX=9606 GN=RPS14 PE=1 SV=3,0,41.505,39,7,35,7,151,16.3,10.05,85.88,7,0,62438735.88,High,1,
+FALSE,High,Master Protein,Q14204,Cytoplasmic dynein 1 heavy chain 1 OS=Homo sapiens OX=9606 GN=DYNC1H1 PE=1 SV=5,0,68.04,6,24,34,24,4646,532.1,6.4,67.94,24,0,11797295.31,High,1,
+FALSE,High,Master Protein,P07814,Bifunctional glutamate/proline--tRNA ligase OS=Homo sapiens OX=9606 GN=EPRS1 PE=1 SV=5,0,60.964,15,20,34,19,1512,170.5,7.33,65.07,20,1,35803859.47,High,1,
+FALSE,High,Master Protein,P62424,60S ribosomal protein L7a OS=Homo sapiens OX=9606 GN=RPL7A PE=1 SV=2,0,49.437,40,11,34,11,266,30,10.61,92.73,11,0,56149911.19,High,1,
+FALSE,High,Master Protein,P18124,60S ribosomal protein L7 OS=Homo sapiens OX=9606 GN=RPL7 PE=1 SV=1,0,29.737,34,10,34,10,248,29.2,10.65,67.59,10,0,58535213.59,High,1,
+FALSE,High,Master Protein,P12268,Inosine-5'-monophosphate dehydrogenase 2 OS=Homo sapiens OX=9606 GN=IMPDH2 PE=1 SV=2,0,65.985,44,13,34,13,514,55.8,6.9,103.45,13,0,34754740.81,High,1,
+FALSE,High,Master Protein,Q99832,T-complex protein 1 subunit eta OS=Homo sapiens OX=9606 GN=CCT7 PE=1 SV=2,0,53.231,36,17,33,17,543,59.3,7.65,59.66,17,0,31491064.09,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,Q13347,Eukaryotic translation initiation factor 3 subunit I OS=Homo sapiens OX=9606 GN=EIF3I PE=1 SV=1,0,45.803,35,9,33,9,325,36.5,5.64,81.65,9,0,24894426.75,High,1,
+FALSE,High,Master Protein,P62753,40S ribosomal protein S6 OS=Homo sapiens OX=9606 GN=RPS6 PE=1 SV=1,0,32.179,27,8,32,8,249,28.7,10.84,79.29,8,0,80239438.88,High,1,
+FALSE,High,Master Protein,P62081,40S ribosomal protein S7 OS=Homo sapiens OX=9606 GN=RPS7 PE=1 SV=1,0,48.476,48,7,32,7,194,22.1,10.1,129.66,7,0,50454352.5,High,1,
+FALSE,High,Master Protein,P11021,Endoplasmic reticulum chaperone BiP OS=Homo sapiens OX=9606 GN=HSPA5 PE=1 SV=2,0,66.033,26,15,32,13,654,72.3,5.16,83.91,15,0,23127391.19,High,1,
+FALSE,High,Master Protein,P46782,40S ribosomal protein S5 OS=Homo sapiens OX=9606 GN=RPS5 PE=1 SV=4,0,50.535,51,10,32,10,204,22.9,9.72,100.36,10,0,69985932.23,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P27708,CAD protein OS=Homo sapiens OX=9606 GN=CAD PE=1 SV=3,0,89.895,13,22,31,22,2225,242.8,6.46,78.42,22,0,30548299.56,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P04259,"Keratin, type II cytoskeletal 6B OS=Homo sapiens OX=9606 GN=KRT6B PE=1 SV=5",0,44.816,26,14,31,2,564,60,8,68.62,14,0,2614723.625,High,1,
+FALSE,High,Master Protein,P50990,T-complex protein 1 subunit theta OS=Homo sapiens OX=9606 GN=CCT8 PE=1 SV=4,0,46.897,29,14,31,14,548,59.6,5.6,67.71,14,0,30731435.13,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P12956,X-ray repair cross-complementing protein 6 OS=Homo sapiens OX=9606 GN=XRCC6 PE=1 SV=2,0,71.184,30,13,31,13,609,69.8,6.64,85.52,13,0,21884945.19,High,1,
+FALSE,High,Master Protein,P31948,Stress-induced-phosphoprotein 1 OS=Homo sapiens OX=9606 GN=STIP1 PE=1 SV=1,0,69.036,30,14,31,14,543,62.6,6.8,84.66,14,0,33323600.72,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,P08708,40S ribosomal protein S17 OS=Homo sapiens OX=9606 GN=RPS17 PE=1 SV=2,0,61.885,49,5,31,5,135,15.5,9.85,93.92,5,0,53375287.75,High,1,
+FALSE,High,Master Protein,P39023,60S ribosomal protein L3 OS=Homo sapiens OX=9606 GN=RPL3 PE=1 SV=2,0,52.13,33,14,30,14,403,46.1,10.18,63.23,14,0,43565320.25,High,1,
+FALSE,High,Master Protein,P36578,60S ribosomal protein L4 OS=Homo sapiens OX=9606 GN=RPL4 PE=1 SV=5,0,44.697,37,14,30,13,427,47.7,11.06,62.68,14,1,495159378.8,High,1,
+FALSE,High,Master Protein,Q9Y4E8,Ubiquitin carboxyl-terminal hydrolase 15 OS=Homo sapiens OX=9606 GN=USP15 PE=1 SV=3,0,76.492,25,17,30,17,981,112.3,5.22,80.64,17,0,14504432.5,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P46781,40S ribosomal protein S9 OS=Homo sapiens OX=9606 GN=RPS9 PE=1 SV=3,0,26.699,43,11,30,11,194,22.6,10.65,59.71,11,0,85162268.88,High,1,
+FALSE,High,Master Protein,Q7L2H7,Eukaryotic translation initiation factor 3 subunit M OS=Homo sapiens OX=9606 GN=EIF3M PE=1 SV=1,0,48.427,30,9,29,9,374,42.5,5.63,77.99,9,0,15511666.74,High,1,
+FALSE,High,Master Protein,P35579,Myosin-9 OS=Homo sapiens OX=9606 GN=MYH9 PE=1 SV=4,0,89.852,13,19,29,19,1960,226.4,5.6,72.22,19,0,17764601.41,High,1,
+FALSE,High,Master Protein,Q58FF6,Putative heat shock protein HSP 90-beta 4 OS=Homo sapiens OX=9606 GN=HSP90AB4P PE=5 SV=1,0,23.524,9,5,28,1,505,58.2,4.73,75.83,5,0,4638641.5,High,1,Met-loss [N-Term]
+FALSE,High,Master Protein,P54725,UV excision repair protein RAD23 homolog A OS=Homo sapiens OX=9606 GN=RAD23A PE=1 SV=1,0,34.587,20,6,28,2,363,39.6,4.58,56.66,6,0,3694639.5,High,1,
+FALSE,High,Master Protein,O00303,Eukaryotic translation initiation factor 3 subunit F OS=Homo sapiens OX=9606 GN=EIF3F PE=1 SV=1,0,35.479,31,9,28,9,357,37.5,5.45,70.16,9,0,17246662.38,High,1,
+FALSE,High,Master Protein,P78371,T-complex protein 1 subunit beta OS=Homo sapiens OX=9606 GN=CCT2 PE=1 SV=4,0,81.283,34,11,27,11,535,57.5,6.46,86.62,11,0,26614536.63,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P08779,"Keratin, type I cytoskeletal 16 OS=Homo sapiens OX=9606 GN=KRT16 PE=1 SV=4",0,54.758,35,14,27,8,473,51.2,5.05,63.04,14,4,41941678.13,High,1,
+FALSE,High,Master Protein,P05387,60S acidic ribosomal protein P2 OS=Homo sapiens OX=9606 GN=RPLP2 PE=1 SV=1,0,62.17,77,5,27,5,115,11.7,4.54,97.11,5,0,617341856.6,High,1,
+FALSE,High,Master Protein,P13010,X-ray repair cross-complementing protein 5 OS=Homo sapiens OX=9606 GN=XRCC5 PE=1 SV=3,0,49.869,23,12,26,12,732,82.7,5.81,55.96,12,0,12372177.72,High,1,
+FALSE,High,Master Protein,Q13509,Tubulin beta-3 chain OS=Homo sapiens OX=9606 GN=TUBB3 PE=1 SV=2,0,40.079,21,9,26,1,450,50.4,4.93,64.39,9,0,792599.8125,High,1,Methyl [R156]
+FALSE,High,Master Protein,Q7L5D6,Golgi to ER traffic protein 4 homolog OS=Homo sapiens OX=9606 GN=GET4 PE=1 SV=1,0,30.892,24,7,26,7,327,36.5,5.41,54.34,7,0,28498530.75,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,O43399,Tumor protein D54 OS=Homo sapiens OX=9606 GN=TPD52L2 PE=1 SV=2,0,55.622,62,8,26,8,206,22.2,5.36,91.43,8,0,28581625.34,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,P62841,40S ribosomal protein S15 OS=Homo sapiens OX=9606 GN=RPS15 PE=1 SV=2,0,67.173,46,4,26,4,145,17,10.39,83.17,4,0,35251608.31,High,1,
+FALSE,High,Master Protein,P46777,60S ribosomal protein L5 OS=Homo sapiens OX=9606 GN=RPL5 PE=1 SV=3,0,33.364,31,9,26,9,297,34.3,9.72,66.08,9,0,20298567.91,High,1,
+FALSE,High,Master Protein,Q13616,Cullin-1 OS=Homo sapiens OX=9606 GN=CUL1 PE=1 SV=2,0,55.142,25,17,26,17,776,89.6,8,57.16,17,0,15823753.41,High,1,
+FALSE,High,Master Protein,P05388,60S acidic ribosomal protein P0 OS=Homo sapiens OX=9606 GN=RPLP0 PE=1 SV=1,0,47.689,38,8,25,8,317,34.3,5.97,81.53,8,0,39275096.63,High,1,
+FALSE,High,Master Protein,Q9UHD9,Ubiquilin-2 OS=Homo sapiens OX=9606 GN=UBQLN2 PE=1 SV=2,0,43.873,16,6,25,2,624,65.7,5.22,77.56,6,0,2028732,High,1,
+FALSE,High,Master Protein,O60506,Heterogeneous nuclear ribonucleoprotein Q OS=Homo sapiens OX=9606 GN=SYNCRIP PE=1 SV=2,0,44.935,22,12,25,12,623,69.6,8.59,52.99,12,0,28225818.75,High,1,
+FALSE,High,Master Protein,P04406,Glyceraldehyde-3-phosphate dehydrogenase OS=Homo sapiens OX=9606 GN=GAPDH PE=1 SV=3,0,46.494,26,6,25,6,335,36,8.46,76.45,6,0,22700336.88,High,1,
+FALSE,High,Master Protein,P61353,60S ribosomal protein L27 OS=Homo sapiens OX=9606 GN=RPL27 PE=1 SV=2,0,16.07,31,5,25,5,136,15.8,10.56,40.89,5,0,23742933.25,High,1,
+FALSE,High,Master Protein,P35908,"Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens OX=9606 GN=KRT2 PE=1 SV=2",0,37.081,19,9,24,4,639,65.4,8,59.67,9,0,1091665.125,High,1,
+FALSE,High,Master Protein,P62851,40S ribosomal protein S25 OS=Homo sapiens OX=9606 GN=RPS25 PE=1 SV=1,0,14.588,28,4,24,4,125,13.7,10.11,62.95,4,0,77300210.25,High,1,
+FALSE,High,Master Protein,P55084,"Trifunctional enzyme subunit beta, mitochondrial OS=Homo sapiens OX=9606 GN=HADHB PE=1 SV=3",0,41.212,30,12,24,12,474,51.3,9.41,41.91,12,0,22518048.19,High,1,
+FALSE,High,Master Protein,P36957,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial OS=Homo sapiens OX=9606 GN=DLST PE=1 SV=4",0,55.307,36,10,23,10,453,48.7,8.95,61.36,10,0,26406198.06,High,1,
+FALSE,High,Master Protein,P18621,60S ribosomal protein L17 OS=Homo sapiens OX=9606 GN=RPL17 PE=1 SV=3,0,16.878,31,6,23,6,184,21.4,10.17,30.17,6,0,25036020.5,High,1,
+FALSE,High,Master Protein,P40227,T-complex protein 1 subunit zeta OS=Homo sapiens OX=9606 GN=CCT6A PE=1 SV=3,0,43.744,27,11,23,11,531,58,6.68,57.39,11,0,24791310.25,High,1,
+FALSE,High,Master Protein,P48643,T-complex protein 1 subunit epsilon OS=Homo sapiens OX=9606 GN=CCT5 PE=1 SV=1,0,42.765,27,11,23,11,541,59.6,5.66,58.62,11,0,13231598.25,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,O95714,E3 ubiquitin-protein ligase HERC2 OS=Homo sapiens OX=9606 GN=HERC2 PE=1 SV=2,0,55.001,5,19,22,18,4834,526.9,6.28,47.69,19,1,8846775.5,High,1,
+FALSE,High,Master Protein,P17987,T-complex protein 1 subunit alpha OS=Homo sapiens OX=9606 GN=TCP1 PE=1 SV=1,0,58.179,34,13,22,13,556,60.3,6.11,58.77,13,0,21636483.5,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,P27635,60S ribosomal protein L10 OS=Homo sapiens OX=9606 GN=RPL10 PE=1 SV=4,0,31.058,36,7,22,7,214,24.6,10.08,49.25,7,0,28127169.63,High,1,
+FALSE,High,Master Protein,Q15046,Lysine--tRNA ligase OS=Homo sapiens OX=9606 GN=KARS1 PE=1 SV=3,0,39.453,21,11,21,11,597,68,6.35,48.34,11,0,16377479.94,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P62277,40S ribosomal protein S13 OS=Homo sapiens OX=9606 GN=RPS13 PE=1 SV=2,0,18.297,34,6,21,6,151,17.2,10.54,46.42,6,0,59375934,High,1,
+FALSE,High,Master Protein,Q02543,60S ribosomal protein L18a OS=Homo sapiens OX=9606 GN=RPL18A PE=1 SV=2,0,21.782,34,6,21,6,176,20.7,10.71,37.88,6,0,21091102.94,High,1,
+FALSE,High,Master Protein,Q9NRR5,Ubiquilin-4 OS=Homo sapiens OX=9606 GN=UBQLN4 PE=1 SV=2,0,41.974,15,6,21,3,601,63.8,5.22,70.22,6,0,2893052,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P67809,Y-box-binding protein 1 OS=Homo sapiens OX=9606 GN=YBX1 PE=1 SV=3,0,53.517,60,10,21,7,324,35.9,9.88,43.6,10,1,21009894.13,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P50991,T-complex protein 1 subunit delta OS=Homo sapiens OX=9606 GN=CCT4 PE=1 SV=4,0,54.258,23,9,20,9,539,57.9,7.83,58.82,9,0,20446157.44,High,1,
+FALSE,High,Master Protein,P02533,"Keratin, type I cytoskeletal 14 OS=Homo sapiens OX=9606 GN=KRT14 PE=1 SV=4",0,40.543,24,11,20,5,472,51.5,5.16,49.81,11,0,5664501.25,High,1,
+FALSE,High,Master Protein,P60866,40S ribosomal protein S20 OS=Homo sapiens OX=9606 GN=RPS20 PE=1 SV=1,0,25.372,29,5,20,5,119,13.4,9.94,50.33,5,0,64118031.63,High,1,
+FALSE,High,Master Protein,P84098,60S ribosomal protein L19 OS=Homo sapiens OX=9606 GN=RPL19 PE=1 SV=1,0,23.427,19,5,20,5,196,23.5,11.47,48.75,5,0,25288195,High,1,
+FALSE,High,Master Protein,Q07020,60S ribosomal protein L18 OS=Homo sapiens OX=9606 GN=RPL18 PE=1 SV=2,0,24.715,31,6,20,6,188,21.6,11.72,61.96,6,0,49932345,High,1,
+FALSE,High,Master Protein,P07195,L-lactate dehydrogenase B chain OS=Homo sapiens OX=9606 GN=LDHB PE=1 SV=2,0,32.111,28,9,20,7,334,36.6,6.05,44.63,9,2,37492200.75,High,1,
+FALSE,High,Master Protein,O75821,Eukaryotic translation initiation factor 3 subunit G OS=Homo sapiens OX=9606 GN=EIF3G PE=1 SV=2,0,34.248,30,6,20,6,320,35.6,6.13,57.24,6,0,17330505.13,High,1,Met-loss [N-Term]
+FALSE,High,Master Protein,P41252,"Isoleucine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=IARS1 PE=1 SV=2",0,28.279,11,12,20,11,1262,144.4,6.15,41.23,12,0,11299245.13,High,1,
+FALSE,High,Master Protein,P13647,"Keratin, type II cytoskeletal 5 OS=Homo sapiens OX=9606 GN=KRT5 PE=1 SV=3",0,20.176,13,9,20,1,590,62.3,7.74,41.05,9,0,1804004.25,High,1,
+FALSE,High,Master Protein,P61026,Ras-related protein Rab-10 OS=Homo sapiens OX=9606 GN=RAB10 PE=1 SV=1,0,22.819,34,6,19,5,200,22.5,8.38,41.53,6,1,15278971.53,High,1,
+FALSE,High,Master Protein,P26373,60S ribosomal protein L13 OS=Homo sapiens OX=9606 GN=RPL13 PE=1 SV=4,0,18.256,30,6,19,6,211,24.2,11.65,37.29,6,0,43162599.94,High,1,
+FALSE,High,Master Protein,P14625,Endoplasmin OS=Homo sapiens OX=9606 GN=HSP90B1 PE=1 SV=1,0,30.62,13,8,19,8,803,92.4,4.84,44.27,8,0,9213250.75,High,1,
+FALSE,High,Master Protein,P50914,60S ribosomal protein L14 OS=Homo sapiens OX=9606 GN=RPL14 PE=1 SV=4,0,17.673,22,6,19,6,215,23.4,10.93,34.55,6,0,31646317.25,High,1,
+FALSE,High,Master Protein,P62906,60S ribosomal protein L10a OS=Homo sapiens OX=9606 GN=RPL10A PE=1 SV=2,0,33.887,34,6,19,6,217,24.8,9.94,40.28,6,0,27920402.5,High,1,
+FALSE,High,Master Protein,Q9P2J5,"Leucine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=LARS1 PE=1 SV=2",0,47.312,11,11,19,11,1176,134.4,7.3,41.34,11,0,13813614.09,High,1,
+FALSE,High,Master Protein,Q8N163,Cell cycle and apoptosis regulator protein 2 OS=Homo sapiens OX=9606 GN=CCAR2 PE=1 SV=2,0,38.178,19,11,18,11,923,102.8,5.22,37.93,11,0,6888369.5,High,1,
+FALSE,High,Master Protein,P61981,14-3-3 protein gamma OS=Homo sapiens OX=9606 GN=YWHAG PE=1 SV=2,0,21.797,24,6,18,2,247,28.3,4.89,43.35,6,1,4539706.875,High,1,
+FALSE,High,Master Protein,P62266,40S ribosomal protein S23 OS=Homo sapiens OX=9606 GN=RPS23 PE=1 SV=3,0,29.511,48,5,18,5,143,15.8,10.49,36.19,5,0,11215008.25,High,1,
+FALSE,High,Master Protein,O15372,Eukaryotic translation initiation factor 3 subunit H OS=Homo sapiens OX=9606 GN=EIF3H PE=1 SV=1,0,20.139,24,10,18,10,352,39.9,6.54,37.66,10,0,22232465.25,High,1,
+FALSE,High,Master Protein,Q9UL46,Proteasome activator complex subunit 2 OS=Homo sapiens OX=9606 GN=PSME2 PE=1 SV=4,0,46.475,46,8,18,8,239,27.4,5.73,41.87,8,0,7556935.125,High,1,
+FALSE,High,Master Protein,P62750,60S ribosomal protein L23a OS=Homo sapiens OX=9606 GN=RPL23A PE=1 SV=1,0,22.322,36,6,18,6,156,17.7,10.45,38.38,6,0,41367546.44,High,1,
+FALSE,High,Master Protein,P11940,Polyadenylate-binding protein 1 OS=Homo sapiens OX=9606 GN=PABPC1 PE=1 SV=2,0,29.477,16,7,18,3,636,70.6,9.5,51.56,7,0,6020594.25,High,1,Methyl [R493; R506]
+FALSE,High,Master Protein,P31946,14-3-3 protein beta/alpha OS=Homo sapiens OX=9606 GN=YWHAB PE=1 SV=3,0,16.97,25,6,17,2,246,28.1,4.83,40.59,6,0,2007173.125,High,1,
+FALSE,High,Master Protein,P13645,"Keratin, type I cytoskeletal 10 OS=Homo sapiens OX=9606 GN=KRT10 PE=1 SV=6",0,40.365,22,11,17,8,584,58.8,5.21,42.82,11,0,10019436.75,High,1,
+FALSE,High,Master Protein,Q04917,14-3-3 protein eta OS=Homo sapiens OX=9606 GN=YWHAH PE=1 SV=4,0,19.605,30,7,17,4,246,28.2,4.84,39.14,7,1,2591005.906,High,1,
+FALSE,High,Master Protein,Q13310,Polyadenylate-binding protein 4 OS=Homo sapiens OX=9606 GN=PABPC4 PE=1 SV=1,0,26.744,15,8,17,4,644,70.7,9.26,45.18,8,4,13252951.44,High,1,
+FALSE,High,Master Protein,P26038,Moesin OS=Homo sapiens OX=9606 GN=MSN PE=1 SV=3,0,18.792,13,7,17,2,577,67.8,6.4,23.41,7,0,1118432,High,1,
+FALSE,High,Master Protein,P46779,60S ribosomal protein L28 OS=Homo sapiens OX=9606 GN=RPL28 PE=1 SV=3,0,19.239,40,6,17,6,137,15.7,12.02,30.84,6,0,20489859.56,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P61313,60S ribosomal protein L15 OS=Homo sapiens OX=9606 GN=RPL15 PE=1 SV=2,0,18.045,27,6,17,6,204,24.1,11.62,28.48,6,0,7891803.43,High,1,
+FALSE,High,Master Protein,P27348,14-3-3 protein theta OS=Homo sapiens OX=9606 GN=YWHAQ PE=1 SV=1,0,17.58,21,5,17,2,245,27.7,4.78,43.92,5,0,3861091.5,High,1,
+FALSE,High,Master Protein,P61289,Proteasome activator complex subunit 3 OS=Homo sapiens OX=9606 GN=PSME3 PE=1 SV=1,0,34.83,29,6,17,6,254,29.5,5.95,43.98,6,0,9435101.5,High,1,
+FALSE,High,Master Protein,Q13148,TAR DNA-binding protein 43 OS=Homo sapiens OX=9606 GN=TARDBP PE=1 SV=1,0,58.581,32,8,17,8,414,44.7,6.19,55.93,8,0,16003547.19,High,1,
+FALSE,High,Master Protein,P62820,Ras-related protein Rab-1A OS=Homo sapiens OX=9606 GN=RAB1A PE=1 SV=3,0,23.644,34,6,16,2,205,22.7,6.21,42.4,6,3,9185263.563,High,1,
+FALSE,High,Master Protein,P62829,60S ribosomal protein L23 OS=Homo sapiens OX=9606 GN=RPL23 PE=1 SV=1,0,20.907,36,4,16,4,140,14.9,10.51,41.96,4,0,15091726.25,High,1,
+FALSE,High,Master Protein,P62888,60S ribosomal protein L30 OS=Homo sapiens OX=9606 GN=RPL30 PE=1 SV=2,0,22.51,53,5,16,5,115,12.8,9.63,50.19,5,0,24067364,High,1,
+FALSE,High,Master Protein,P00338,L-lactate dehydrogenase A chain OS=Homo sapiens OX=9606 GN=LDHA PE=1 SV=2,0,27.399,23,8,16,6,332,36.7,8.27,25.92,8,0,11491160.5,High,1,
+FALSE,High,Master Protein,P17706,Tyrosine-protein phosphatase non-receptor type 2 OS=Homo sapiens OX=9606 GN=PTPN2 PE=1 SV=2,0,33.334,17,5,16,5,415,48.4,8.29,35.08,5,0,11331986.56,High,1,
+FALSE,High,Master Protein,Q9H0U4,Ras-related protein Rab-1B OS=Homo sapiens OX=9606 GN=RAB1B PE=1 SV=1,0,24.447,36,6,16,2,201,22.2,5.73,45.57,6,0,2930966.25,High,1,
+FALSE,High,Master Protein,P05386,60S acidic ribosomal protein P1 OS=Homo sapiens OX=9606 GN=RPLP1 PE=1 SV=1,0,55.536,81,4,15,4,114,11.5,4.32,83.6,4,0,28975775.75,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P41091,Eukaryotic translation initiation factor 2 subunit 3 OS=Homo sapiens OX=9606 GN=EIF2S3 PE=1 SV=3,0,29.778,23,9,15,9,472,51.1,8.4,36.98,9,0,17995678.88,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P0DMV9,Heat shock 70 kDa protein 1B OS=Homo sapiens OX=9606 GN=HSPA1B PE=1 SV=1,0,40.605,15,6,15,4,641,70,5.66,46.28,6,0,2996695.625,High,1,
+FALSE,High,Master Protein,P62826,GTP-binding nuclear protein Ran OS=Homo sapiens OX=9606 GN=RAN PE=1 SV=3,0,12,24,5,15,5,216,24.4,7.49,29.04,5,0,9310929.75,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q06323,Proteasome activator complex subunit 1 OS=Homo sapiens OX=9606 GN=PSME1 PE=1 SV=1,0,13.57,22,5,15,5,249,28.7,6.02,21.67,5,0,13294963.03,High,1,
+FALSE,High,Master Protein,Q14974,Importin subunit beta-1 OS=Homo sapiens OX=9606 GN=KPNB1 PE=1 SV=2,0,30.332,11,8,14,8,876,97.1,4.78,27.52,8,0,9071047.156,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,P63220,40S ribosomal protein S21 OS=Homo sapiens OX=9606 GN=RPS21 PE=1 SV=1,0,25.102,43,5,14,5,83,9.1,8.5,34.56,5,0,21878086.56,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,P31947,14-3-3 protein sigma OS=Homo sapiens OX=9606 GN=SFN PE=1 SV=1,0,9.456,14,4,14,1,248,27.8,4.74,33.5,4,0,389615.7188,High,1,
+FALSE,High,Master Protein,Q02218,"2-oxoglutarate dehydrogenase, mitochondrial OS=Homo sapiens OX=9606 GN=OGDH PE=1 SV=3",0,29.275,12,8,14,8,1023,115.9,6.86,34.67,8,0,6708325,High,1,
+FALSE,High,Master Protein,P60660,Myosin light polypeptide 6 OS=Homo sapiens OX=9606 GN=MYL6 PE=1 SV=2,0,19.807,46,6,14,6,151,16.9,4.65,30.5,6,0,15080926.88,High,1,
+FALSE,High,Master Protein,P61254,60S ribosomal protein L26 OS=Homo sapiens OX=9606 GN=RPL26 PE=1 SV=1,0,16.553,38,7,14,7,145,17.2,10.55,21.92,7,0,25025443.5,High,1,
+FALSE,High,Master Protein,P62244,40S ribosomal protein S15a OS=Homo sapiens OX=9606 GN=RPS15A PE=1 SV=2,0,10.629,25,4,14,4,130,14.8,10.13,26.17,4,0,48381293.5,High,1,
+FALSE,High,Master Protein,P30050,60S ribosomal protein L12 OS=Homo sapiens OX=9606 GN=RPL12 PE=1 SV=1,0,25.503,34,4,13,4,165,17.8,9.42,47.42,4,0,34740628,High,1,
+FALSE,High,Master Protein,P46783,40S ribosomal protein S10 OS=Homo sapiens OX=9606 GN=RPS10 PE=1 SV=1,0,8.747,15,2,13,2,165,18.9,10.15,37.83,2,0,28012233.5,High,1,
+FALSE,High,Master Protein,P62917,60S ribosomal protein L8 OS=Homo sapiens OX=9606 GN=RPL8 PE=1 SV=2,0,32.782,28,6,13,6,257,28,11.03,35.43,6,0,68891827.19,High,1,
+FALSE,High,Master Protein,P62847,40S ribosomal protein S24 OS=Homo sapiens OX=9606 GN=RPS24 PE=1 SV=1,0,11.758,26,3,13,3,133,15.4,10.78,28.01,3,0,9003981.5,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,Q9H7D7,WD repeat-containing protein 26 OS=Homo sapiens OX=9606 GN=WDR26 PE=1 SV=3,0,23.769,14,6,13,6,661,72.1,6.16,29.4,6,0,7523538.188,High,1,
+FALSE,High,Master Protein,P62910,60S ribosomal protein L32 OS=Homo sapiens OX=9606 GN=RPL32 PE=1 SV=2,0,21.78,28,3,13,3,135,15.9,11.33,41.53,3,0,10100458.13,High,1,
+FALSE,High,Master Protein,P14868,"Aspartate--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=DARS1 PE=1 SV=2",0,26.088,20,8,13,8,501,57.1,6.55,27.22,8,0,5818962.688,High,1,
+FALSE,High,Master Protein,P05787,"Keratin, type II cytoskeletal 8 OS=Homo sapiens OX=9606 GN=KRT8 PE=1 SV=7",0,16.001,14,8,13,4,483,53.7,5.59,21.75,8,1,3848748.594,High,1,
+FALSE,High,Master Protein,P62857,40S ribosomal protein S28 OS=Homo sapiens OX=9606 GN=RPS28 PE=1 SV=1,0,11.564,36,3,13,3,69,7.8,10.7,47.36,3,0,22240179.75,High,1,
+FALSE,High,Master Protein,O15479,Melanoma-associated antigen B2 OS=Homo sapiens OX=9606 GN=MAGEB2 PE=1 SV=3,0,20.777,13,4,12,4,319,35.3,8.76,23.73,4,0,5709744.563,High,1,
+FALSE,High,Master Protein,P08727,"Keratin, type I cytoskeletal 19 OS=Homo sapiens OX=9606 GN=KRT19 PE=1 SV=4",0,14.967,14,6,12,2,400,44.1,5.14,27,6,1,2410362.5,High,1,
+FALSE,High,Master Protein,Q92734,Protein TFG OS=Homo sapiens OX=9606 GN=TFG PE=1 SV=2,0,26.979,20,5,11,5,400,43.4,5.1,31.71,5,0,9566934,High,1,
+FALSE,Medium,Master Protein,P13423,Protective antigen OS=Bacillus anthracis OX=1392 GN=pagA PE=1 SV=2,0.028,1.83,1,1,11,1,764,85.8,6.21,10,1,0,38069597.63,High,1,
+FALSE,High,Master Protein,P16989,Y-box-binding protein 3 OS=Homo sapiens OX=9606 GN=YBX3 PE=1 SV=4,0,27.218,22,6,11,3,372,40.1,9.77,24.88,6,0,3035360.656,High,1,
+FALSE,High,Master Protein,P07237,Protein disulfide-isomerase OS=Homo sapiens OX=9606 GN=P4HB PE=1 SV=3,0,22.104,15,6,11,6,508,57.1,4.87,13.37,6,0,7686325,High,1,
+FALSE,High,Master Protein,P22234,Multifunctional protein ADE2 OS=Homo sapiens OX=9606 GN=PAICS PE=1 SV=3,0,30.628,36,9,11,9,425,47,7.23,23.81,9,0,10520779.88,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P11441,Ubiquitin-like protein 4A OS=Homo sapiens OX=9606 GN=UBL4A PE=1 SV=1,0,18.63,39,6,11,6,157,17.8,8.66,28.63,6,0,19572760,High,1,
+FALSE,High,Master Protein,P47897,Glutamine--tRNA ligase OS=Homo sapiens OX=9606 GN=QARS1 PE=1 SV=1,0,32.281,17,8,11,7,775,87.7,7.15,27.79,8,0,5952421.719,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P32969,60S ribosomal protein L9 OS=Homo sapiens OX=9606 GN=RPL9 PE=1 SV=1,0,26.057,28,4,11,4,192,21.9,9.95,39.8,4,0,8171725.5,High,1,
+FALSE,High,Master Protein,P05198,Eukaryotic translation initiation factor 2 subunit 1 OS=Homo sapiens OX=9606 GN=EIF2S1 PE=1 SV=3,0,17.958,19,6,11,6,315,36.1,5.08,23.43,6,0,15568309.25,High,1,
+FALSE,High,Master Protein,P46776,60S ribosomal protein L27a OS=Homo sapiens OX=9606 GN=RPL27A PE=1 SV=2,0,11.919,22,3,11,3,148,16.6,11,28.04,3,0,27478221.5,High,1,
+FALSE,High,Master Protein,O76080,AN1-type zinc finger protein 5 OS=Homo sapiens OX=9606 GN=ZFAND5 PE=1 SV=1,0,32.008,50,6,10,6,213,23.1,8.51,24.52,6,0,6139094.984,High,1,Phospho [S48]
+FALSE,High,Master Protein,P15531,Nucleoside diphosphate kinase A OS=Homo sapiens OX=9606 GN=NME1 PE=1 SV=1,0,15.51,34,4,10,4,152,17.1,6.19,22.81,4,0,8291930.281,High,1,
+FALSE,High,Master Protein,Q99536,Synaptic vesicle membrane protein VAT-1 homolog OS=Homo sapiens OX=9606 GN=VAT1 PE=1 SV=2,0,27.43,27,7,10,7,393,41.9,6.29,21.95,7,0,4446124,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P62491,Ras-related protein Rab-11A OS=Homo sapiens OX=9606 GN=RAB11A PE=1 SV=3,0,10.973,24,5,10,5,216,24.4,6.57,21.6,5,0,5200951.75,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q9Y3U8,60S ribosomal protein L36 OS=Homo sapiens OX=9606 GN=RPL36 PE=1 SV=3,0,9.668,34,4,10,4,105,12.2,11.59,15.25,4,0,19004830.75,High,1,
+FALSE,High,Master Protein,P61006,Ras-related protein Rab-8A OS=Homo sapiens OX=9606 GN=RAB8A PE=1 SV=1,0,7.092,11,2,10,1,207,23.7,9.07,24.47,2,0,509153.7188,High,1,
+FALSE,Low,Master Protein,O00221,NF-kappa-B inhibitor epsilon OS=Homo sapiens OX=9606 GN=NFKBIE PE=1 SV=3,0.072,1.349,4,1,10,1,500,52.8,6.68,24.47,1,0,48955648,High,1,
+FALSE,High,Master Protein,Q8NC51,Plasminogen activator inhibitor 1 RNA-binding protein OS=Homo sapiens OX=9606 GN=SERBP1 PE=1 SV=2,0,18.14,16,6,10,6,408,44.9,8.65,16.34,6,0,14049209.69,High,1,
+FALSE,High,Master Protein,Q01813,"ATP-dependent 6-phosphofructokinase, platelet type OS=Homo sapiens OX=9606 GN=PFKP PE=1 SV=2",0,30.153,14,8,10,8,784,85.5,7.55,24.27,8,0,2287274.063,High,1,
+FALSE,High,Master Protein,Q92530,Proteasome inhibitor PI31 subunit OS=Homo sapiens OX=9606 GN=PSMF1 PE=1 SV=2,0,19.34,24,3,10,3,271,29.8,5.74,29.9,3,0,9912890.375,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P35268,60S ribosomal protein L22 OS=Homo sapiens OX=9606 GN=RPL22 PE=1 SV=2,0,22.493,44,4,10,4,128,14.8,9.19,23.48,4,0,9495410.375,High,1,
+FALSE,High,Master Protein,O60884,DnaJ homolog subfamily A member 2 OS=Homo sapiens OX=9606 GN=DNAJA2 PE=1 SV=1,0,29.524,19,5,10,5,412,45.7,6.48,18.59,5,0,4121087.063,High,1,
+FALSE,High,Master Protein,P20042,Eukaryotic translation initiation factor 2 subunit 2 OS=Homo sapiens OX=9606 GN=EIF2S2 PE=1 SV=2,0,20.48,20,7,10,7,333,38.4,5.8,11.77,7,0,9233856.375,High,1,
+FALSE,High,Master Protein,Q15393,Splicing factor 3B subunit 3 OS=Homo sapiens OX=9606 GN=SF3B3 PE=1 SV=4,0,12.449,6,6,9,6,1217,135.5,5.26,14.05,6,0,2169267.5,High,1,
+FALSE,High,Master Protein,Q9UBQ5,Eukaryotic translation initiation factor 3 subunit K OS=Homo sapiens OX=9606 GN=EIF3K PE=1 SV=1,0,11.515,23,4,9,4,218,25,4.93,13.96,4,0,5057060.375,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q9BV68,E3 ubiquitin-protein ligase RNF126 OS=Homo sapiens OX=9606 GN=RNF126 PE=1 SV=2,0,19.911,17,4,9,4,311,33.8,5.47,23.25,4,0,7111946.375,High,1,
+FALSE,High,Master Protein,P62899,60S ribosomal protein L31 OS=Homo sapiens OX=9606 GN=RPL31 PE=1 SV=1,0,10.83,30,4,9,4,125,14.5,10.54,17.27,4,0,28052387.69,High,1,
+FALSE,High,Master Protein,P34932,Heat shock 70 kDa protein 4 OS=Homo sapiens OX=9606 GN=HSPA4 PE=1 SV=4,0,27.242,13,7,9,7,840,94.3,5.19,22.16,7,0,1444520.656,High,1,
+FALSE,High,Master Protein,P62913,60S ribosomal protein L11 OS=Homo sapiens OX=9606 GN=RPL11 PE=1 SV=2,0,7.705,19,4,9,4,178,20.2,9.6,8.8,4,0,13452709.59,High,1,
+FALSE,High,Master Protein,Q9P032,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4 OS=Homo sapiens OX=9606 GN=NDUFAF4 PE=1 SV=1,0,4.112,9,1,9,1,175,20.3,8.82,16.46,1,0,84547136,High,1,Phospho [S115]; Methyl [K113]
+FALSE,Low,Master Protein,Q99715,Collagen alpha-1(XII) chain OS=Homo sapiens OX=9606 GN=COL12A1 PE=1 SV=2,0.118,1.132,1,1,9,1,3063,332.9,5.53,29.04,1,0,5018299.375,High,1,
+FALSE,High,Master Protein,P02794,Ferritin heavy chain OS=Homo sapiens OX=9606 GN=FTH1 PE=1 SV=2,0,13.803,25,5,9,5,183,21.2,5.55,9.23,5,0,7674404.313,High,1,
+FALSE,High,Master Protein,Q969Q0,60S ribosomal protein L36a-like OS=Homo sapiens OX=9606 GN=RPL36AL PE=1 SV=3,0,10.511,36,4,9,1,106,12.5,10.65,10.94,4,0,676713.5,High,1,Methyl [K53]
+FALSE,High,Master Protein,O43681,ATPase GET3 OS=Homo sapiens OX=9606 GN=GET3 PE=1 SV=2,0,18.73,23,5,9,5,348,38.8,4.91,22.12,5,0,22085125.25,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P09496,Clathrin light chain A OS=Homo sapiens OX=9606 GN=CLTA PE=1 SV=1,0,7.068,13,4,9,4,248,27.1,4.51,12.43,4,0,14684746.25,High,1,
+FALSE,High,Master Protein,P04075,Fructose-bisphosphate aldolase A OS=Homo sapiens OX=9606 GN=ALDOA PE=1 SV=2,0,29.133,17,5,8,5,364,39.4,8.09,22.28,5,0,9833658.75,High,1,
+FALSE,High,Master Protein,Q16531,DNA damage-binding protein 1 OS=Homo sapiens OX=9606 GN=DDB1 PE=1 SV=1,0,15.639,7,6,8,6,1140,126.9,5.26,11.26,6,0,1734942,High,1,
+FALSE,High,Master Protein,P56192,"Methionine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=MARS1 PE=1 SV=2",0,20.209,9,6,8,6,900,101.1,6.16,16.3,6,0,4256744.984,High,1,
+FALSE,High,Master Protein,Q01105,Protein SET OS=Homo sapiens OX=9606 GN=SET PE=1 SV=3,0,13.975,18,3,8,3,290,33.5,4.32,17.63,3,0,5476737.125,High,1,
+FALSE,High,Master Protein,Q8WV99,AN1-type zinc finger protein 2B OS=Homo sapiens OX=9606 GN=ZFAND2B PE=1 SV=1,0,11.959,19,3,8,3,257,28,6.92,16.11,3,0,5688795.75,High,1,
+FALSE,High,Master Protein,O75822,Eukaryotic translation initiation factor 3 subunit J OS=Homo sapiens OX=9606 GN=EIF3J PE=1 SV=2,0,19.707,34,5,8,5,258,29,4.83,26.15,5,0,7426146.5,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P55327,Tumor protein D52 OS=Homo sapiens OX=9606 GN=TPD52 PE=1 SV=2,0,28.133,51,6,8,6,224,24.3,4.83,18.72,6,0,4925087.609,High,1,
+FALSE,High,Master Protein,P26599,Polypyrimidine tract-binding protein 1 OS=Homo sapiens OX=9606 GN=PTBP1 PE=1 SV=1,0,28.659,19,6,8,6,531,57.2,9.17,20.28,6,0,1793352.625,High,1,
+FALSE,High,Master Protein,P28065,Proteasome subunit beta type-9 OS=Homo sapiens OX=9606 GN=PSMB9 PE=1 SV=2,0,7.913,11,2,8,2,219,23.3,5.03,16.99,2,0,14856450.25,High,1,
+FALSE,High,Master Protein,P12277,Creatine kinase B-type OS=Homo sapiens OX=9606 GN=CKB PE=1 SV=1,0,18.258,18,5,8,5,381,42.6,5.59,13.54,5,0,3528391,High,1,
+FALSE,High,Master Protein,P06733,Alpha-enolase OS=Homo sapiens OX=9606 GN=ENO1 PE=1 SV=2,0,19.459,13,4,8,4,434,47.1,7.39,16.03,4,0,4019329.625,High,1,
+FALSE,High,Master Protein,P52272,Heterogeneous nuclear ribonucleoprotein M OS=Homo sapiens OX=9606 GN=HNRNPM PE=1 SV=3,0,15.87,10,6,8,6,730,77.5,8.7,16.45,6,0,8122871.625,High,1,
+FALSE,High,Master Protein,P83881,60S ribosomal protein L36a OS=Homo sapiens OX=9606 GN=RPL36A PE=1 SV=2,0,10.861,36,4,8,1,106,12.4,10.58,9.03,4,3,14285812.13,High,1,Methyl [K53]
+FALSE,Low,Master Protein,Q08AM6,Protein VAC14 homolog OS=Homo sapiens OX=9606 GN=VAC14 PE=1 SV=1,0.085,1.279,2,1,7,1,782,87.9,6.13,2.14,1,0,1483323.094,High,1,
+FALSE,High,Master Protein,P27695,DNA-(apurinic or apyrimidinic site) lyase OS=Homo sapiens OX=9606 GN=APEX1 PE=1 SV=2,0,21.534,26,5,7,5,318,35.5,8.12,19.98,5,0,12941250.88,High,1,
+FALSE,High,Master Protein,Q12906,Interleukin enhancer-binding factor 3 OS=Homo sapiens OX=9606 GN=ILF3 PE=1 SV=3,0,21.144,7,5,7,5,894,95.3,8.76,16.59,5,0,2941217.25,High,1,
+FALSE,High,Master Protein,Q04837,"Single-stranded DNA-binding protein, mitochondrial OS=Homo sapiens OX=9606 GN=SSBP1 PE=1 SV=1",0,12.292,32,4,7,4,148,17.2,9.6,16.55,4,0,5101753.375,High,1,
+FALSE,High,Master Protein,P49591,"Serine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=SARS1 PE=1 SV=3",0,10.956,6,3,7,3,514,58.7,6.43,14.59,3,0,1103030.875,High,1,Met-loss [N-Term]
+FALSE,High,Master Protein,P62273,40S ribosomal protein S29 OS=Homo sapiens OX=9606 GN=RPS29 PE=1 SV=2,0,5.513,36,3,7,3,56,6.7,10.13,8.38,3,0,14150388.25,High,1,Met-loss [N-Term]
+FALSE,High,Master Protein,O43615,Mitochondrial import inner membrane translocase subunit TIM44 OS=Homo sapiens OX=9606 GN=TIMM44 PE=1 SV=2,0,14.484,14,6,7,6,452,51.3,8.32,11.15,6,0,12357666.48,High,1,
+FALSE,Low,Master Protein,Q2KHT3,Protein CLEC16A OS=Homo sapiens OX=9606 GN=CLEC16A PE=1 SV=2,0.125,1.105,1,1,7,1,1053,117.6,5.86,1.65,1,0,121786032,High,1,
+FALSE,High,Master Protein,Q8N6T3,ADP-ribosylation factor GTPase-activating protein 1 OS=Homo sapiens OX=9606 GN=ARFGAP1 PE=1 SV=2,0,19.365,16,5,7,5,406,44.6,5.66,14.77,5,0,762907.6875,High,1,
+FALSE,High,Master Protein,P60842,Eukaryotic initiation factor 4A-I OS=Homo sapiens OX=9606 GN=EIF4A1 PE=1 SV=1,0,18.616,13,5,7,5,406,46.1,5.48,14.21,5,0,5140267.25,High,1,
+FALSE,High,Master Protein,P42677,40S ribosomal protein S27 OS=Homo sapiens OX=9606 GN=RPS27 PE=1 SV=3,0,14.226,38,3,7,1,84,9.5,9.45,16.71,3,1,14053690.25,High,1,
+FALSE,High,Master Protein,Q15365,Poly(rC)-binding protein 1 OS=Homo sapiens OX=9606 GN=PCBP1 PE=1 SV=2,0,15.839,17,4,7,2,356,37.5,7.09,18.03,4,0,2224291.5,High,1,
+FALSE,High,Master Protein,Q12905,Interleukin enhancer-binding factor 2 OS=Homo sapiens OX=9606 GN=ILF2 PE=1 SV=2,0,5.53,6,2,7,2,390,43,5.26,14.88,2,0,1586302,High,1,
+FALSE,Medium,Master Protein,P63173,60S ribosomal protein L38 OS=Homo sapiens OX=9606 GN=RPL38 PE=1 SV=2,0.028,1.834,24,2,7,2,70,8.2,10.1,7.03,2,0,6925211.75,High,1,
+FALSE,High,Master Protein,Q9UBT6,DNA polymerase kappa OS=Homo sapiens OX=9606 GN=POLK PE=1 SV=1,0.003,2.875,2,2,7,1,870,98.7,8.13,6.64,2,0,2322736,High,1,Methyl [R512]
+FALSE,High,Master Protein,P53396,ATP-citrate synthase OS=Homo sapiens OX=9606 GN=ACLY PE=1 SV=3,0,23.259,8,7,7,7,1101,120.8,7.33,9.72,7,0,2061355.375,High,1,
+FALSE,High,Master Protein,P46778,60S ribosomal protein L21 OS=Homo sapiens OX=9606 GN=RPL21 PE=1 SV=2,0,9.637,36,5,7,5,160,18.6,10.49,13.32,5,0,12996242.44,High,1,
+FALSE,High,Master Protein,P31689,DnaJ homolog subfamily A member 1 OS=Homo sapiens OX=9606 GN=DNAJA1 PE=1 SV=2,0,6.759,12,5,7,3,397,44.8,7.08,5.79,5,1,2778764.625,High,1,
+FALSE,High,Master Protein,P83731,60S ribosomal protein L24 OS=Homo sapiens OX=9606 GN=RPL24 PE=1 SV=1,0,10.069,20,3,7,3,157,17.8,11.25,14.02,3,0,19628053,High,1,
+FALSE,High,Master Protein,O43707,Alpha-actinin-4 OS=Homo sapiens OX=9606 GN=ACTN4 PE=1 SV=2,0,13.058,5,4,7,4,911,104.8,5.44,12.6,4,0,5615418.094,High,1,
+FALSE,High,Master Protein,P62854,40S ribosomal protein S26 OS=Homo sapiens OX=9606 GN=RPS26 PE=1 SV=3,0,11.405,34,3,7,3,115,13,11,19.64,3,0,23805602,High,1,
+FALSE,High,Master Protein,Q14103,Heterogeneous nuclear ribonucleoprotein D0 OS=Homo sapiens OX=9606 GN=HNRNPD PE=1 SV=1,0,7.443,6,2,7,2,355,38.4,7.81,14.68,2,0,9480988.375,High,1,
+FALSE,High,Master Protein,Q9NSD9,Phenylalanine--tRNA ligase beta subunit OS=Homo sapiens OX=9606 GN=FARSB PE=1 SV=3,0,13.382,11,5,6,5,589,66.1,6.84,11.57,5,0,1983060.125,High,1,
+FALSE,Low,Master Protein,Q5H9B9,Putative BMP-2-inducible kinase-like protein OS=Homo sapiens OX=9606 GN=BMP2KL PE=5 SV=2,0.065,1.423,1,1,6,1,411,46.1,5.63,0,1,0,4392096.75,High,1,
+FALSE,High,Master Protein,O43765,Small glutamine-rich tetratricopeptide repeat-containing protein alpha OS=Homo sapiens OX=9606 GN=SGTA PE=1 SV=1,0,12.73,15,4,6,4,313,34,4.87,9.67,4,0,3394385.406,High,1,
+FALSE,High,Master Protein,Q04637,Eukaryotic translation initiation factor 4 gamma 1 OS=Homo sapiens OX=9606 GN=EIF4G1 PE=1 SV=4,0,11.613,3,4,6,4,1599,175.4,5.33,7.35,4,0,2472403.5,High,1,
+FALSE,High,Master Protein,O43324,Eukaryotic translation elongation factor 1 epsilon-1 OS=Homo sapiens OX=9606 GN=EEF1E1 PE=1 SV=1,0,13.968,33,4,6,4,174,19.8,8.54,17.49,4,0,3890327.313,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P05783,"Keratin, type I cytoskeletal 18 OS=Homo sapiens OX=9606 GN=KRT18 PE=1 SV=2",0,10.918,10,5,6,3,430,48,5.45,10.43,5,0,1681699.563,High,1,
+FALSE,High,Master Protein,Q15366,Poly(rC)-binding protein 2 OS=Homo sapiens OX=9606 GN=PCBP2 PE=1 SV=1,0,13.508,17,4,6,2,365,38.6,6.79,14.06,4,1,5989073.75,High,1,
+FALSE,High,Master Protein,Q9NSB2,"Keratin, type II cuticular Hb4 OS=Homo sapiens OX=9606 GN=KRT84 PE=2 SV=2",0,5.771,6,4,6,1,600,64.8,7.56,11.91,4,0,,High,1,Methyl [K191]
+FALSE,High,Master Protein,Q9UL63,Muskelin OS=Homo sapiens OX=9606 GN=MKLN1 PE=1 SV=2,0,14.342,7,4,6,4,735,84.7,6.34,13.89,4,0,1451881.5,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P62877,E3 ubiquitin-protein ligase RBX1 OS=Homo sapiens OX=9606 GN=RBX1 PE=1 SV=1,0,16.227,19,2,6,2,108,12.3,6.96,15.87,2,0,2920693.125,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P61978,Heterogeneous nuclear ribonucleoprotein K OS=Homo sapiens OX=9606 GN=HNRNPK PE=1 SV=1,0,15.555,13,5,6,5,463,50.9,5.54,11.01,5,0,,High,1,
+FALSE,High,Master Protein,P54136,"Arginine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=RARS1 PE=1 SV=2",0,19.514,13,6,6,6,660,75.3,6.68,10.37,6,0,2939043.375,High,1,
+FALSE,High,Master Protein,Q07021,"Complement component 1 Q subcomponent-binding protein, mitochondrial OS=Homo sapiens OX=9606 GN=C1QBP PE=1 SV=1",0,17.323,15,2,6,2,282,31.3,4.84,19.9,2,0,,High,1,
+FALSE,High,Master Protein,Q92841,Probable ATP-dependent RNA helicase DDX17 OS=Homo sapiens OX=9606 GN=DDX17 PE=1 SV=2,0,11.678,6,4,6,4,729,80.2,8.27,15.63,4,0,5101517.125,High,1,
+FALSE,High,Master Protein,O14744,Protein arginine N-methyltransferase 5 OS=Homo sapiens OX=9606 GN=PRMT5 PE=1 SV=4,0,9.722,8,5,6,5,637,72.6,6.29,10.77,5,0,2439268.563,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q96S59,Ran-binding protein 9 OS=Homo sapiens OX=9606 GN=RANBP9 PE=1 SV=1,0,16.597,11,6,6,6,729,77.8,6.79,11.57,6,0,,High,1,
+FALSE,High,Master Protein,Q13442,28 kDa heat- and acid-stable phosphoprotein OS=Homo sapiens OX=9606 GN=PDAP1 PE=1 SV=1,0,13.074,13,3,6,3,181,20.6,8.87,16.09,3,0,2459756.688,High,1,
+FALSE,High,Master Protein,Q08211,ATP-dependent RNA helicase A OS=Homo sapiens OX=9606 GN=DHX9 PE=1 SV=4,0,14.069,4,4,6,4,1270,140.9,6.84,14.63,4,0,11079840.31,High,1,
+FALSE,High,Master Protein,Q9Y3I1,F-box only protein 7 OS=Homo sapiens OX=9606 GN=FBXO7 PE=1 SV=1,0,11.134,8,3,6,3,522,58.5,6.55,15.28,3,0,6442762,High,1,
+FALSE,High,Master Protein,P27797,Calreticulin OS=Homo sapiens OX=9606 GN=CALR PE=1 SV=1,0,15.324,14,4,6,4,417,48.1,4.44,14.28,4,0,1240669.375,High,1,
+FALSE,High,Master Protein,P47914,60S ribosomal protein L29 OS=Homo sapiens OX=9606 GN=RPL29 PE=1 SV=2,0,11.152,14,2,6,2,159,17.7,11.66,8.38,2,0,22232731.88,High,1,
+FALSE,High,Master Protein,Q969U7,Proteasome assembly chaperone 2 OS=Homo sapiens OX=9606 GN=PSMG2 PE=1 SV=1,0,7.815,13,3,6,3,264,29.4,6.98,13.01,3,0,4722868.25,High,1,
+FALSE,High,Master Protein,Q7L5Y9,E3 ubiquitin-protein transferase MAEA OS=Homo sapiens OX=9606 GN=MAEA PE=1 SV=1,0,11.899,10,5,5,5,396,45.3,8.69,7.83,5,0,2045462.438,High,1,Phospho [Y26]
+FALSE,High,Master Protein,P42766,60S ribosomal protein L35 OS=Homo sapiens OX=9606 GN=RPL35 PE=1 SV=2,0,4.905,15,2,5,2,123,14.5,11.05,9.26,2,0,12400392.25,High,1,
+FALSE,High,Master Protein,Q9NWU2,Glucose-induced degradation protein 8 homolog OS=Homo sapiens OX=9606 GN=GID8 PE=1 SV=1,0,19.598,32,4,5,4,228,26.7,4.97,16.18,4,0,836993.6875,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q92616,eIF-2-alpha kinase activator GCN1 OS=Homo sapiens OX=9606 GN=GCN1 PE=1 SV=6,0,8.343,2,5,5,5,2671,292.6,7.47,5.7,5,0,76084376,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q9H871,E3 ubiquitin-protein transferase RMND5A OS=Homo sapiens OX=9606 GN=RMND5A PE=1 SV=1,0,10.108,11,4,5,3,391,44,6.06,7.93,4,0,618716.9375,High,1,
+FALSE,High,Master Protein,P26639,"Threonine--tRNA ligase 1, cytoplasmic OS=Homo sapiens OX=9606 GN=TARS1 PE=1 SV=3",0,9.624,7,5,5,5,723,83.4,6.67,4.6,5,0,4120676.813,High,1,
+FALSE,High,Master Protein,Q6EEV6,Small ubiquitin-related modifier 4 OS=Homo sapiens OX=9606 GN=SUMO4 PE=1 SV=2,0,8.735,13,1,5,1,95,10.7,7.18,16.16,1,0,9785526,High,1,
+FALSE,High,Master Protein,O60841,Eukaryotic translation initiation factor 5B OS=Homo sapiens OX=9606 GN=EIF5B PE=1 SV=4,0,9.401,3,3,5,3,1220,138.7,5.49,12.9,3,0,2040027,High,1,
+FALSE,Medium,Master Protein,Q9Y3A5,Ribosome maturation protein SBDS OS=Homo sapiens OX=9606 GN=SBDS PE=1 SV=4,0.024,1.893,4,1,5,1,250,28.7,8.75,6.19,1,0,2577166.625,High,1,
+FALSE,High,Master Protein,Q12933,TNF receptor-associated factor 2 OS=Homo sapiens OX=9606 GN=TRAF2 PE=1 SV=2,0,12.459,9,4,5,4,501,55.8,7.53,11.55,4,0,2657831.813,High,1,
+FALSE,High,Master Protein,P37108,Signal recognition particle 14 kDa protein OS=Homo sapiens OX=9606 GN=SRP14 PE=1 SV=2,0,7.372,21,2,5,2,136,14.6,10.04,15.44,2,0,4568277.375,High,1,Met-loss [N-Term]
+FALSE,High,Master Protein,Q07666,"KH domain-containing, RNA-binding, signal transduction-associated protein 1 OS=Homo sapiens OX=9606 GN=KHDRBS1 PE=1 SV=1",0,6.103,10,4,5,4,443,48.2,8.66,4.05,4,0,1110095.625,High,1,Phospho [S18; S20]
+FALSE,High,Master Protein,P63208,S-phase kinase-associated protein 1 OS=Homo sapiens OX=9606 GN=SKP1 PE=1 SV=2,0,14.009,39,5,5,5,163,18.6,4.54,9.72,5,0,6216814.938,High,1,
+FALSE,Low,Master Protein,Q9NQ89,Protein C12orf4 OS=Homo sapiens OX=9606 GN=C12orf4 PE=1 SV=1,0.207,0.854,1,1,5,1,552,63.8,6.37,1.61,1,0,242700336,High,1,
+FALSE,High,Master Protein,P23526,Adenosylhomocysteinase OS=Homo sapiens OX=9606 GN=AHCY PE=1 SV=4,0,12.1,8,3,5,3,432,47.7,6.34,12.23,3,0,2693257.75,High,1,
+FALSE,High,Master Protein,Q09028,Histone-binding protein RBBP4 OS=Homo sapiens OX=9606 GN=RBBP4 PE=1 SV=3,0,9.31,8,3,5,3,425,47.6,4.89,8.04,3,0,3909040.813,High,1,
+FALSE,High,Master Protein,P07384,Calpain-1 catalytic subunit OS=Homo sapiens OX=9606 GN=CAPN1 PE=1 SV=1,0,9.975,5,4,5,4,714,81.8,5.67,8.38,4,0,3359878.375,High,1,
+FALSE,High,Master Protein,P06454,Prothymosin alpha OS=Homo sapiens OX=9606 GN=PTMA PE=1 SV=2,0,9.488,23,2,5,2,111,12.2,3.78,17.14,2,0,9465394.281,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P09622,"Dihydrolipoyl dehydrogenase, mitochondrial OS=Homo sapiens OX=9606 GN=DLD PE=1 SV=2",0,17.036,9,4,5,4,509,54.1,7.85,6.53,4,0,2476503.875,High,1,
+FALSE,High,Master Protein,Q9Y285,Phenylalanine--tRNA ligase alpha subunit OS=Homo sapiens OX=9606 GN=FARSA PE=1 SV=3,0,10.177,9,4,5,4,508,57.5,7.8,6.22,4,0,7190145.156,High,1,Met-loss+Acetyl [N-Term]; Phospho [S131; Y469]
+FALSE,High,Master Protein,P04632,Calpain small subunit 1 OS=Homo sapiens OX=9606 GN=CAPNS1 PE=1 SV=1,0,7.89,9,2,4,2,268,28.3,5.2,10.41,2,0,2433399,High,1,Acetyl [N-Term]
+FALSE,High,Master Protein,Q00341,Vigilin OS=Homo sapiens OX=9606 GN=HDLBP PE=1 SV=2,0,6.769,4,4,4,4,1268,141.4,6.87,7.62,4,0,864172.75,High,1,
+FALSE,High,Master Protein,Q14203,Dynactin subunit 1 OS=Homo sapiens OX=9606 GN=DCTN1 PE=1 SV=3,0,8.437,2,3,4,2,1278,141.6,5.81,8.3,3,0,2007679.375,High,1,
+FALSE,High,Master Protein,Q01844,RNA-binding protein EWS OS=Homo sapiens OX=9606 GN=EWSR1 PE=1 SV=1,0,6.896,4,2,4,2,656,68.4,9.33,8.33,2,0,2394161.438,High,1,
+FALSE,High,Master Protein,Q71UM5,40S ribosomal protein S27-like OS=Homo sapiens OX=9606 GN=RPS27L PE=1 SV=3,0,8.728,38,3,4,1,84,9.5,9.45,9.12,3,0,,High,1,
+FALSE,Low,Master Protein,Q9Y4A0,Jerky protein homolog-like OS=Homo sapiens OX=9606 GN=JRKL PE=2 SV=2,0.069,1.394,1,2,4,1,524,59.9,8.09,7.28,2,0,1238210.625,High,1,
+FALSE,Low,Master Protein,Q9BRR3,Transmembrane protein 246 OS=Homo sapiens OX=9606 GN=TMEM246 PE=1 SV=1,0.219,0.787,1,1,4,1,403,46.6,7.59,3.32,1,0,7488102.5,High,1,
+FALSE,High,Master Protein,Q13283,Ras GTPase-activating protein-binding protein 1 OS=Homo sapiens OX=9606 GN=G3BP1 PE=1 SV=1,0,9.308,8,3,4,2,466,52.1,5.52,6.04,3,1,2376375.25,High,1,
+FALSE,Medium,Master Protein,Q01581,"Hydroxymethylglutaryl-CoA synthase, cytoplasmic OS=Homo sapiens OX=9606 GN=HMGCS1 PE=1 SV=2",0.033,1.764,4,1,4,1,520,57.3,5.41,15.11,1,0,17236730,High,1,Methyl [R415]
+FALSE,High,Master Protein,O95456,Proteasome assembly chaperone 1 OS=Homo sapiens OX=9606 GN=PSMG1 PE=1 SV=1,0,8.154,11,3,4,2,288,32.8,7.17,7.37,3,0,2953171.5,High,1,Met-loss+Acetyl [N-Term]
+FALSE,Low,Master Protein,Q5T200,Zinc finger CCCH domain-containing protein 13 OS=Homo sapiens OX=9606 GN=ZC3H13 PE=1 SV=1,0.158,1.026,0,1,4,1,1668,196.5,9.42,11.2,1,0,2463426.5,High,1,
+FALSE,High,Master Protein,P41567,Eukaryotic translation initiation factor 1 OS=Homo sapiens OX=9606 GN=EIF1 PE=1 SV=1,0,8.533,34,2,4,2,113,12.7,7.44,10.85,2,0,,High,1,
+FALSE,High,Master Protein,P51148,Ras-related protein Rab-5C OS=Homo sapiens OX=9606 GN=RAB5C PE=1 SV=2,0,8.897,17,3,4,2,216,23.5,8.41,6.33,3,0,1669749.875,High,1,
+FALSE,High,Master Protein,O60763,General vesicular transport factor p115 OS=Homo sapiens OX=9606 GN=USO1 PE=1 SV=2,0,11.991,6,4,4,4,962,107.8,4.91,6.27,4,0,719865,High,1,
+FALSE,High,Master Protein,P55209,Nucleosome assembly protein 1-like 1 OS=Homo sapiens OX=9606 GN=NAP1L1 PE=1 SV=1,0,8.385,7,2,4,2,391,45.3,4.46,7.66,2,0,1577123.625,High,1,
+FALSE,High,Master Protein,P62699,Protein yippee-like 5 OS=Homo sapiens OX=9606 GN=YPEL5 PE=1 SV=1,0,11.714,33,3,4,3,121,13.8,7.31,6.92,3,0,3634961.75,High,1,
+FALSE,Low,Master Protein,Q8WZ42,Titin OS=Homo sapiens OX=9606 GN=TTN PE=1 SV=4,0.067,1.403,0,2,4,1,34350,3813.7,6.35,3.39,2,0,303935936,Medium,1,
+FALSE,Low,Master Protein,O60292,Signal-induced proliferation-associated 1-like protein 3 OS=Homo sapiens OX=9606 GN=SIPA1L3 PE=1 SV=3,0.086,1.277,1,1,4,1,1781,194.5,8.32,8.48,1,0,660682.625,High,1,
+FALSE,High,Master Protein,P30153,Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform OS=Homo sapiens OX=9606 GN=PPP2R1A PE=1 SV=4,0,7.958,5,2,4,2,589,65.3,5.11,7.94,2,0,432475.25,High,1,
+FALSE,High,Master Protein,Q32MZ4,Leucine-rich repeat flightless-interacting protein 1 OS=Homo sapiens OX=9606 GN=LRRFIP1 PE=1 SV=2,0,22.627,7,4,4,4,808,89.2,4.65,10.93,4,0,1864136,High,1,
+FALSE,High,Master Protein,P51149,Ras-related protein Rab-7a OS=Homo sapiens OX=9606 GN=RAB7A PE=1 SV=1,0,9.167,18,3,4,3,207,23.5,6.7,5.56,3,0,,High,1,
+FALSE,High,Master Protein,Q6VN20,Ran-binding protein 10 OS=Homo sapiens OX=9606 GN=RANBP10 PE=1 SV=1,0,11.798,7,3,4,3,620,67.2,6.77,8.41,3,0,428207.4688,High,1,
+FALSE,High,Master Protein,P52815,"39S ribosomal protein L12, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL12 PE=1 SV=2",0,7.532,23,2,4,2,198,21.3,8.87,12.75,2,0,1503736,High,1,
+FALSE,High,Master Protein,P35637,RNA-binding protein FUS OS=Homo sapiens OX=9606 GN=FUS PE=1 SV=1,0,6.234,6,2,4,2,526,53.4,9.36,9.73,2,0,1509234.25,High,1,
+FALSE,High,Master Protein,P62805,Histone H4 OS=Homo sapiens OX=9606 GN=H4C1 PE=1 SV=2,0,5.458,21,2,4,2,103,11.4,11.36,7.73,2,0,130672.3516,High,1,
+FALSE,High,Master Protein,O43776,"Asparagine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=NARS1 PE=1 SV=1",0,6.13,4,2,4,2,548,62.9,6.25,9.1,2,0,753592.0625,High,1,
+FALSE,High,Master Protein,P23246,"Splicing factor, proline- and glutamine-rich OS=Homo sapiens OX=9606 GN=SFPQ PE=1 SV=2",0,10.079,7,4,4,3,707,76.1,9.44,6.93,4,1,2655178.125,High,1,
+FALSE,High,Master Protein,P62306,Small nuclear ribonucleoprotein F OS=Homo sapiens OX=9606 GN=SNRPF PE=1 SV=1,0,6.435,24,2,4,2,86,9.7,4.67,10.9,2,0,1465175.5,High,1,
+FALSE,High,Master Protein,O94782,Ubiquitin carboxyl-terminal hydrolase 1 OS=Homo sapiens OX=9606 GN=USP1 PE=1 SV=1,0,5.235,2,2,4,2,785,88.2,5.45,6.48,2,0,716898.125,High,1,Phospho [T558]
+FALSE,Low,Master Protein,Q9UPN3,"Microtubule-actin cross-linking factor 1, isoforms 1/2/3/5 OS=Homo sapiens OX=9606 GN=MACF1 PE=1 SV=4",0.251,0.715,0,1,4,1,7388,837.8,5.39,5.79,1,0,17958414.31,High,1,
+FALSE,High,Master Protein,Q9P2E9,Ribosome-binding protein 1 OS=Homo sapiens OX=9606 GN=RRBP1 PE=1 SV=5,0,12.256,3,3,4,3,1410,152.4,8.6,6.95,3,0,1433897.719,High,1,
+FALSE,High,Master Protein,P54577,"Tyrosine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=YARS1 PE=1 SV=4",0,9.405,8,4,4,4,528,59.1,7.05,8.86,4,0,1885327.375,High,1,
+FALSE,High,Master Protein,Q99456,"Keratin, type I cytoskeletal 12 OS=Homo sapiens OX=9606 GN=KRT12 PE=1 SV=1",0,3.222,5,2,4,1,494,53.5,4.78,8.89,2,0,,High,1,
+FALSE,Low,Master Protein,Q9BVW5,TIMELESS-interacting protein OS=Homo sapiens OX=9606 GN=TIPIN PE=1 SV=2,0.2,0.886,5,1,4,1,301,34.5,4.82,5.58,1,0,2326319,High,1,Methyl [R71]
+FALSE,High,Master Protein,P09497,Clathrin light chain B OS=Homo sapiens OX=9606 GN=CLTB PE=1 SV=1,0,7.574,12,4,4,4,229,25.2,4.64,7.94,4,0,2799211.125,High,1,
+FALSE,High,Master Protein,P10809,"60 kDa heat shock protein, mitochondrial OS=Homo sapiens OX=9606 GN=HSPD1 PE=1 SV=2",0,13.22,10,4,4,4,573,61,5.87,9.72,4,0,,High,1,Phospho [S253; S256]
+FALSE,High,Master Protein,P78527,DNA-dependent protein kinase catalytic subunit OS=Homo sapiens OX=9606 GN=PRKDC PE=1 SV=3,0,7.292,1,4,4,4,4128,468.8,7.12,7.65,4,0,824852.5625,High,1,
+FALSE,High,Master Protein,P14618,Pyruvate kinase PKM OS=Homo sapiens OX=9606 GN=PKM PE=1 SV=4,0,14.468,6,3,4,3,531,57.9,7.84,9.11,3,0,997340.375,High,1,
+FALSE,High,Master Protein,P53621,Coatomer subunit alpha OS=Homo sapiens OX=9606 GN=COPA PE=1 SV=2,0,5.833,4,4,4,4,1224,138.3,7.66,6.98,4,0,2549003.531,High,1,
+FALSE,High,Master Protein,Q6NZI2,Caveolae-associated protein 1 OS=Homo sapiens OX=9606 GN=CAVIN1 PE=1 SV=1,0,19.121,13,3,4,3,390,43.5,5.6,12.59,3,0,,High,1,
+FALSE,High,Master Protein,Q9NUJ1,"Mycophenolic acid acyl-glucuronide esterase, mitochondrial OS=Homo sapiens OX=9606 GN=ABHD10 PE=1 SV=1",0,15.17,16,3,4,3,306,33.9,8.57,10.94,3,0,,High,1,
+FALSE,High,Master Protein,P36776,"Lon protease homolog, mitochondrial OS=Homo sapiens OX=9606 GN=LONP1 PE=1 SV=2",0,6.908,4,4,4,4,959,106.4,6.39,6.91,4,0,497390,High,1,
+FALSE,High,Master Protein,P07602,Prosaposin OS=Homo sapiens OX=9606 GN=PSAP PE=1 SV=2,0,5.755,5,2,4,2,524,58.1,5.17,10.87,2,0,5215207.625,High,1,
+FALSE,High,Master Protein,Q08380,Galectin-3-binding protein OS=Homo sapiens OX=9606 GN=LGALS3BP PE=1 SV=1,0,7.002,6,3,4,3,585,65.3,5.27,5.8,3,0,902038.0625,High,1,
+FALSE,High,Master Protein,Q9P0J7,E3 ubiquitin-protein ligase KCMF1 OS=Homo sapiens OX=9606 GN=KCMF1 PE=1 SV=2,0,11.151,7,2,4,2,381,41.9,5.66,10.91,2,0,,High,1,
+FALSE,High,Master Protein,Q99729,Heterogeneous nuclear ribonucleoprotein A/B OS=Homo sapiens OX=9606 GN=HNRNPAB PE=1 SV=2,0,6.932,6,2,3,2,332,36.2,8.21,2.1,2,0,1914211.438,High,1,
+FALSE,High,Master Protein,Q9BWJ5,Splicing factor 3B subunit 5 OS=Homo sapiens OX=9606 GN=SF3B5 PE=1 SV=1,0,3.318,17,1,3,1,86,10.1,6.35,6.45,1,0,856882.5625,High,1,
+FALSE,High,Master Protein,Q13561,Dynactin subunit 2 OS=Homo sapiens OX=9606 GN=DCTN2 PE=1 SV=4,0,9.048,6,2,3,2,401,44.2,5.21,6.17,2,0,,High,1,
+FALSE,High,Master Protein,Q9Y6M1,Insulin-like growth factor 2 mRNA-binding protein 2 OS=Homo sapiens OX=9606 GN=IGF2BP2 PE=1 SV=2,0,6.766,6,3,3,3,599,66.1,8.46,4.14,3,0,1306634.75,High,1,
+FALSE,High,Master Protein,Q9NR30,Nucleolar RNA helicase 2 OS=Homo sapiens OX=9606 GN=DDX21 PE=1 SV=5,0,4.371,4,3,3,3,783,87.3,9.28,4.78,3,0,1172644,High,1,
+FALSE,High,Master Protein,P09382,Galectin-1 OS=Homo sapiens OX=9606 GN=LGALS1 PE=1 SV=2,0,8.595,14,1,3,1,135,14.7,5.5,8.56,1,0,1347100.625,High,1,Met-loss+Acetyl [N-Term]
+FALSE,Low,Master Protein,Q96P31,Fc receptor-like protein 3 OS=Homo sapiens OX=9606 GN=FCRL3 PE=1 SV=1,0.26,0.7,1,1,3,1,734,80.8,7.03,6.04,1,0,27504198,High,1,
+FALSE,High,Master Protein,Q9UN86,Ras GTPase-activating protein-binding protein 2 OS=Homo sapiens OX=9606 GN=G3BP2 PE=1 SV=2,0,6.558,4,2,3,1,482,54.1,5.55,5.14,2,0,839831.6875,High,1,
+FALSE,Low,Master Protein,Q8IUD2,ELKS/Rab6-interacting/CAST family member 1 OS=Homo sapiens OX=9606 GN=ERC1 PE=1 SV=1,0.05,1.475,1,2,3,2,1116,128,5.97,1.62,2,0,1590421,High,1,
+FALSE,High,Master Protein,P49207,60S ribosomal protein L34 OS=Homo sapiens OX=9606 GN=RPL34 PE=1 SV=3,0,5.976,21,3,3,3,117,13.3,11.47,5.72,3,0,12993536,High,1,
+FALSE,High,Master Protein,Q14444,Caprin-1 OS=Homo sapiens OX=9606 GN=CAPRIN1 PE=1 SV=2,0,8.378,5,3,3,3,709,78.3,5.25,5.2,3,0,5472158.5,High,1,
+FALSE,High,Master Protein,Q9GZP4,PITH domain-containing protein 1 OS=Homo sapiens OX=9606 GN=PITHD1 PE=1 SV=1,0,12.919,23,3,3,3,211,24.2,5.74,8.12,3,0,1107143.625,High,1,
+FALSE,Low,Master Protein,Q96SI1,BTB/POZ domain-containing protein KCTD15 OS=Homo sapiens OX=9606 GN=KCTD15 PE=1 SV=1,0.088,1.256,3,1,3,1,283,31.9,7.44,0,1,0,3595226,High,1,
+FALSE,High,Master Protein,P18077,60S ribosomal protein L35a OS=Homo sapiens OX=9606 GN=RPL35A PE=1 SV=2,0,4.202,14,2,3,2,110,12.5,11.06,4.22,2,0,3956609.25,High,1,
+FALSE,Low,Master Protein,Q13733,Sodium/potassium-transporting ATPase subunit alpha-4 OS=Homo sapiens OX=9606 GN=ATP1A4 PE=1 SV=3,0.102,1.198,1,1,3,1,1029,114.1,6.64,6.66,1,0,2569802,High,1,Methyl [R438]
+FALSE,Medium,Master Protein,Q9H672,Ankyrin repeat and SOCS box protein 7 OS=Homo sapiens OX=9606 GN=ASB7 PE=1 SV=2,0.041,1.678,5,2,3,1,318,36,8.29,4.19,2,0,,High,1,Methyl [K140]
+FALSE,Low,Master Protein,Q6EMB2,Tubulin polyglutamylase TTLL5 OS=Homo sapiens OX=9606 GN=TTLL5 PE=1 SV=3,0.251,0.716,1,1,3,1,1281,143.5,8.63,5.15,1,0,,High,1,
+FALSE,High,Master Protein,Q9UHB9,Signal recognition particle subunit SRP68 OS=Homo sapiens OX=9606 GN=SRP68 PE=1 SV=2,0.005,2.589,3,2,3,2,627,70.7,8.56,4.48,2,0,,High,1,Methyl [R417; R420]
+FALSE,High,Master Protein,Q9Y3I0,RNA-splicing ligase RtcB homolog OS=Homo sapiens OX=9606 GN=RTCB PE=1 SV=1,0,7.201,6,3,3,3,505,55.2,7.23,5.89,3,0,,High,1,
+FALSE,High,Master Protein,P31943,Heterogeneous nuclear ribonucleoprotein H OS=Homo sapiens OX=9606 GN=HNRNPH1 PE=1 SV=4,0,9.714,11,3,3,3,449,49.2,6.3,7.72,3,0,11534043,High,1,
+FALSE,Low,Master Protein,O95271,Poly [ADP-ribose] polymerase tankyrase-1 OS=Homo sapiens OX=9606 GN=TNKS PE=1 SV=2,0.226,0.748,1,1,3,1,1327,142,7.05,6.4,1,0,40311668,High,1,
+FALSE,Medium,Master Protein,Q09666,Neuroblast differentiation-associated protein AHNAK OS=Homo sapiens OX=9606 GN=AHNAK PE=1 SV=2,0.041,1.658,2,1,3,1,5890,628.7,6.15,1.66,1,0,1068372.75,High,1,
+FALSE,High,Master Protein,P50748,Kinetochore-associated protein 1 OS=Homo sapiens OX=9606 GN=KNTC1 PE=1 SV=1,0,3.222,1,2,3,2,2209,250.6,5.97,5.26,2,0,,High,1,
+FALSE,Low,Master Protein,O94886,CSC1-like protein 1 OS=Homo sapiens OX=9606 GN=TMEM63A PE=1 SV=3,0.201,0.883,1,1,3,1,807,92.1,7.27,0,1,0,4073266.25,High,1,
+FALSE,Low,Master Protein,Q9H0Q0,CYFIP-related Rac1 interactor A OS=Homo sapiens OX=9606 GN=CYRIA PE=2 SV=1,0.11,1.165,6,1,3,1,323,37.3,6.01,6.83,1,0,,High,1,Methyl [K231]
+FALSE,Low,Master Protein,Q9ULE0,Protein WWC3 OS=Homo sapiens OX=9606 GN=WWC3 PE=1 SV=3,0.233,0.733,1,1,3,1,1092,122.6,6.37,7,1,0,3348276.25,High,1,Phospho [T1069]
+FALSE,High,Master Protein,Q13155,Aminoacyl tRNA synthase complex-interacting multifunctional protein 2 OS=Homo sapiens OX=9606 GN=AIMP2 PE=1 SV=2,0,7.732,7,2,3,2,320,35.3,8.22,8.33,2,0,4004826.625,High,1,
+FALSE,High,Master Protein,Q709C8,Vacuolar protein sorting-associated protein 13C OS=Homo sapiens OX=9606 GN=VPS13C PE=1 SV=1,0,7.574,1,3,3,3,3753,422.1,6.83,6.31,3,0,,High,1,
+FALSE,Low,Master Protein,O15021,Microtubule-associated serine/threonine-protein kinase 4 OS=Homo sapiens OX=9606 GN=MAST4 PE=1 SV=4,0.08,1.303,1,1,3,1,2623,283.9,8.62,6.93,1,0,2186697,High,1,Phospho [T2429]; Methyl [K2426]
+FALSE,High,Master Protein,Q13501,Sequestosome-1 OS=Homo sapiens OX=9606 GN=SQSTM1 PE=1 SV=1,0,9.061,13,3,3,3,440,47.7,5.22,6.86,3,0,761624.3125,High,1,
+FALSE,Medium,Master Protein,Q9H7F0,Probable cation-transporting ATPase 13A3 OS=Homo sapiens OX=9606 GN=ATP13A3 PE=1 SV=4,0.042,1.701,1,1,3,1,1226,138,6.64,6.09,1,0,2334901.5,High,1,Phospho [Y191]
+FALSE,High,Master Protein,Q06830,Peroxiredoxin-1 OS=Homo sapiens OX=9606 GN=PRDX1 PE=1 SV=1,0,3.6,9,2,3,2,199,22.1,8.13,3.97,2,0,438959.5,High,1,
+FALSE,Low,Master Protein,P02792,Ferritin light chain OS=Homo sapiens OX=9606 GN=FTL PE=1 SV=2,0.215,0.798,3,1,3,1,175,20,5.78,0,1,0,354777.1875,High,1,
+FALSE,High,Master Protein,P61019,Ras-related protein Rab-2A OS=Homo sapiens OX=9606 GN=RAB2A PE=1 SV=1,0,5.701,14,2,3,2,212,23.5,6.54,5.93,2,0,,High,1,
+FALSE,Low,Master Protein,Q8N9H9,Uncharacterized protein C1orf127 OS=Homo sapiens OX=9606 GN=C1orf127 PE=2 SV=2,0.125,1.104,6,1,3,1,656,69.7,5.43,11.1,1,0,2493684.125,High,1,Phospho [S236; S250]; Methyl [R251]
+FALSE,High,Master Protein,Q9UHD8,Septin-9 OS=Homo sapiens OX=9606 GN=SEPTIN9 PE=1 SV=2,0,8.545,6,3,3,3,586,65.4,8.97,4.58,3,0,,High,1,
+FALSE,High,Master Protein,Q15233,Non-POU domain-containing octamer-binding protein OS=Homo sapiens OX=9606 GN=NONO PE=1 SV=4,0,6.856,8,3,3,2,471,54.2,8.95,6.71,3,0,,High,1,
+FALSE,High,Master Protein,P05455,Lupus La protein OS=Homo sapiens OX=9606 GN=SSB PE=1 SV=2,0,4.756,3,1,3,1,408,46.8,7.12,2.22,1,0,1476843.125,High,1,
+FALSE,High,Master Protein,O60232,Protein ZNRD2 OS=Homo sapiens OX=9606 GN=ZNRD2 PE=1 SV=1,0,10.083,15,1,3,1,199,21.5,5.24,9.86,1,0,2318461,High,1,
+FALSE,Low,Master Protein,Q8N0X2,Sperm-associated antigen 16 protein OS=Homo sapiens OX=9606 GN=SPAG16 PE=1 SV=2,0.172,0.994,4,1,3,1,631,70.8,6.33,9.79,1,0,7725459,High,1,Phospho [S557]; Methyl [K551]
+FALSE,Low,Master Protein,Q5THJ4,Vacuolar protein sorting-associated protein 13D OS=Homo sapiens OX=9606 GN=VPS13D PE=1 SV=2,0.219,0.772,0,1,3,1,4388,491.6,6.58,6.77,1,0,,High,1,Methyl [R2213]
+FALSE,Low,Master Protein,Q9NSB4,"Keratin, type II cuticular Hb2 OS=Homo sapiens OX=9606 GN=KRT82 PE=1 SV=3",0.08,1.31,1,1,3,1,513,56.6,6.74,5.98,1,0,9335061,High,1,
+FALSE,High,Master Protein,Q8IUQ4,E3 ubiquitin-protein ligase SIAH1 OS=Homo sapiens OX=9606 GN=SIAH1 PE=1 SV=2,0,4.324,8,2,3,2,282,31.1,6.8,6.23,2,0,690540.5,High,1,
+FALSE,Low,Master Protein,P53674,Beta-crystallin B1 OS=Homo sapiens OX=9606 GN=CRYBB1 PE=1 SV=2,0.119,1.126,11,1,3,1,252,28,8.56,11.34,1,0,9866208,High,1,Phospho [T38; T42]; Methyl [K24]
+FALSE,Medium,Master Protein,Q6BDS2,UHRF1-binding protein 1 OS=Homo sapiens OX=9606 GN=UHRF1BP1 PE=1 SV=1,0.041,1.678,0,1,3,1,1440,159.4,6.14,4.21,1,0,42329500,High,1,
+FALSE,Low,Master Protein,Q6Y7W6,GRB10-interacting GYF protein 2 OS=Homo sapiens OX=9606 GN=GIGYF2 PE=1 SV=1,0.16,1.015,1,1,3,1,1299,150,5.54,6.07,1,0,5751471.5,High,1,Methyl [R192]
+FALSE,High,Master Protein,P45974,Ubiquitin carboxyl-terminal hydrolase 5 OS=Homo sapiens OX=9606 GN=USP5 PE=1 SV=2,0,9.294,3,2,2,2,858,95.7,5.03,4.47,2,0,,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q16777,Histone H2A type 2-C OS=Homo sapiens OX=9606 GN=H2AC20 PE=1 SV=4,0,8.298,22,2,2,2,129,14,10.9,5.21,2,0,3188558,High,1,
+FALSE,High,Master Protein,P40306,Proteasome subunit beta type-10 OS=Homo sapiens OX=9606 GN=PSMB10 PE=1 SV=1,0,10.428,11,2,2,2,273,28.9,7.81,3.64,2,0,627527.375,High,1,
+FALSE,Medium,Master Protein,Q8IXJ9,Polycomb group protein ASXL1 OS=Homo sapiens OX=9606 GN=ASXL1 PE=1 SV=4,0.049,1.536,2,2,2,2,1541,165.3,6.21,0,2,0,807056.5625,High,1,Phospho [T1388; S1391]
+FALSE,Low,Master Protein,Q15058,Kinesin-like protein KIF14 OS=Homo sapiens OX=9606 GN=KIF14 PE=1 SV=1,0.177,0.948,1,1,2,1,1648,186.4,7.91,0,1,0,,High,1,Phospho [S173]; Methyl [K194]
+FALSE,Low,Master Protein,Q9HCK8,Chromodomain-helicase-DNA-binding protein 8 OS=Homo sapiens OX=9606 GN=CHD8 PE=1 SV=5,0.208,0.857,0,1,2,1,2581,290.3,6.47,0,1,0,2995314,High,1,
+FALSE,High,Master Protein,P26196,Probable ATP-dependent RNA helicase DDX6 OS=Homo sapiens OX=9606 GN=DDX6 PE=1 SV=2,0,6.541,7,2,2,2,483,54.4,8.66,3.55,2,0,687054.8125,High,1,
+FALSE,Low,Master Protein,Q14683,Structural maintenance of chromosomes protein 1A OS=Homo sapiens OX=9606 GN=SMC1A PE=1 SV=2,0.107,1.181,0,1,2,1,1233,143.1,7.64,0,1,0,1417659.125,High,1,
+FALSE,High,Master Protein,P27816,Microtubule-associated protein 4 OS=Homo sapiens OX=9606 GN=MAP4 PE=1 SV=3,0,7.641,2,2,2,2,1152,120.9,5.43,5.11,2,0,296729.8438,High,1,
+FALSE,Low,Master Protein,Q13202,Dual specificity protein phosphatase 8 OS=Homo sapiens OX=9606 GN=DUSP8 PE=1 SV=2,0.219,0.787,1,1,2,1,625,65.8,8.24,3.83,1,0,2501394.5,High,1,
+FALSE,High,Master Protein,P39687,Acidic leucine-rich nuclear phosphoprotein 32 family member A OS=Homo sapiens OX=9606 GN=ANP32A PE=1 SV=1,0,3.648,7,2,2,2,249,28.6,4.09,0,2,0,1572125.375,High,1,
+FALSE,Low,Master Protein,Q9NTG1,Polycystic kidney disease and receptor for egg jelly-related protein OS=Homo sapiens OX=9606 GN=PKDREJ PE=2 SV=2,0.05,1.472,1,2,2,1,2253,255.3,9.11,1.78,2,0,,High,1,Phospho [S1426]
+FALSE,Low,Master Protein,O94993,Transcription factor SOX-30 OS=Homo sapiens OX=9606 GN=SOX30 PE=1 SV=1,0.218,0.783,5,1,2,1,753,81.8,7.37,0,1,0,414555.7813,High,1,Phospho [S232; S239]; Methyl [R259]
+FALSE,High,Master Protein,A6NMY6,Putative annexin A2-like protein OS=Homo sapiens OX=9606 GN=ANXA2P2 PE=5 SV=2,0,3.43,3,1,2,1,339,38.6,6.95,5.14,1,0,1080753,High,1,
+FALSE,Medium,Master Protein,Q00722,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2 OS=Homo sapiens OX=9606 GN=PLCB2 PE=1 SV=2",0.028,1.861,3,2,2,2,1185,133.9,6.29,4.43,2,0,4040567.75,High,1,Phospho [S849]
+FALSE,High,Master Protein,P01876,Immunoglobulin heavy constant alpha 1 OS=Homo sapiens OX=9606 GN=IGHA1 PE=1 SV=2,0,5.879,6,2,2,2,353,37.6,6.51,4.15,2,0,,High,1,
+FALSE,Low,Master Protein,Q7RTY8,Transmembrane protease serine 7 OS=Homo sapiens OX=9606 GN=TMPRSS7 PE=2 SV=3,0.207,0.829,2,1,2,1,843,94.4,8.48,0,1,0,11390083,High,1,Phospho [S9]
+FALSE,High,Master Protein,Q2NL82,Pre-rRNA-processing protein TSR1 homolog OS=Homo sapiens OX=9606 GN=TSR1 PE=1 SV=1,0,4.425,3,2,2,2,804,91.8,7.42,4.49,2,0,,High,1,
+FALSE,Low,Master Protein,O14827,Ras-specific guanine nucleotide-releasing factor 2 OS=Homo sapiens OX=9606 GN=RASGRF2 PE=1 SV=2,0.252,0.714,1,1,2,1,1237,140.7,7.53,4.21,1,0,4765061.5,High,1,Phospho [S180]
+FALSE,High,Master Protein,P61513,60S ribosomal protein L37a OS=Homo sapiens OX=9606 GN=RPL37A PE=1 SV=2,0.003,2.83,13,1,2,1,92,10.3,10.43,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q86UE8,Serine/threonine-protein kinase tousled-like 2 OS=Homo sapiens OX=9606 GN=TLK2 PE=1 SV=2,0.148,1.047,1,1,2,1,772,87.6,8.41,0,1,0,941413.0625,High,1,
+FALSE,Medium,Master Protein,Q15746,"Myosin light chain kinase, smooth muscle OS=Homo sapiens OX=9606 GN=MYLK PE=1 SV=4",0.049,1.548,0,1,2,1,1914,210.6,6.15,2.8,1,0,34296608,High,1,
+FALSE,Low,Master Protein,Q13111,Chromatin assembly factor 1 subunit A OS=Homo sapiens OX=9606 GN=CHAF1A PE=1 SV=3,0.2,0.888,1,1,2,1,956,106.8,5.94,0,1,0,232281.7656,High,1,
+FALSE,Low,Master Protein,Q9H270,Vacuolar protein sorting-associated protein 11 homolog OS=Homo sapiens OX=9606 GN=VPS11 PE=1 SV=1,0.209,0.811,1,1,2,1,941,107.8,7.05,1.68,1,0,,High,1,
+FALSE,High,Master Protein,Q99666,RANBP2-like and GRIP domain-containing protein 5/6 OS=Homo sapiens OX=9606 GN=RGPD5 PE=1 SV=3,0,6.099,2,2,2,2,1765,198.8,6.42,2.18,2,0,334852.625,High,1,
+FALSE,High,Master Protein,P62316,Small nuclear ribonucleoprotein Sm D2 OS=Homo sapiens OX=9606 GN=SNRPD2 PE=1 SV=1,0,4.355,15,2,2,2,118,13.5,9.91,4.51,2,0,3362847.375,High,1,Met-loss+Acetyl [N-Term]
+FALSE,Medium,Master Protein,Q86WA8,"Lon protease homolog 2, peroxisomal OS=Homo sapiens OX=9606 GN=LONP2 PE=1 SV=1",0.042,1.698,3,2,2,2,852,94.6,7.3,3.85,2,0,32962044,High,1,
+FALSE,High,Master Protein,Q13765,Nascent polypeptide-associated complex subunit alpha OS=Homo sapiens OX=9606 GN=NACA PE=1 SV=1,0,5.818,7,1,2,1,215,23.4,4.56,7.37,1,0,1097918.875,High,1,
+FALSE,High,Master Protein,P21333,Filamin-A OS=Homo sapiens OX=9606 GN=FLNA PE=1 SV=4,0,4.116,1,2,2,2,2647,280.6,6.06,2.06,2,0,1502179.25,High,1,
+FALSE,Low,Master Protein,Q9HAW4,Claspin OS=Homo sapiens OX=9606 GN=CLSPN PE=1 SV=3,0.175,0.987,1,1,2,1,1339,151,4.82,1.85,1,0,34296608,High,1,
+FALSE,Low,Master Protein,Q8WW24,Tektin-4 OS=Homo sapiens OX=9606 GN=TEKT4 PE=1 SV=1,0.132,1.1,4,1,2,1,435,50.6,6.44,4.2,1,0,2676274,High,1,Phospho [S69]
+FALSE,Low,Master Protein,Q92608,Dedicator of cytokinesis protein 2 OS=Homo sapiens OX=9606 GN=DOCK2 PE=1 SV=2,0.213,0.807,1,1,2,1,1830,211.8,6.87,0,1,0,,High,1,Phospho [T787; T788; Y798; S801]; Methyl [K797]
+FALSE,High,Master Protein,Q8IUR7,Armadillo repeat-containing protein 8 OS=Homo sapiens OX=9606 GN=ARMC8 PE=1 SV=2,0,5.551,3,2,2,2,673,75.5,6.73,4.1,2,0,,High,1,
+FALSE,High,Master Protein,Q16890,Tumor protein D53 OS=Homo sapiens OX=9606 GN=TPD52L1 PE=1 SV=1,0,6.749,7,1,2,1,204,22.4,5.62,7.97,1,0,1927989.25,High,1,
+FALSE,Low,Master Protein,Q8N511,Transmembrane protein 199 OS=Homo sapiens OX=9606 GN=TMEM199 PE=1 SV=1,0.26,0.701,2,1,2,1,208,23.1,9.01,0,1,0,2512867.75,High,1,
+FALSE,Medium,Master Protein,Q9Y2F5,Little elongation complex subunit 1 OS=Homo sapiens OX=9606 GN=ICE1 PE=1 SV=5,0.01,2.244,0,1,2,1,2266,247.7,5.48,4.23,1,0,2484281.375,High,1,
+FALSE,Low,Master Protein,Q9Y487,V-type proton ATPase 116 kDa subunit a isoform 2 OS=Homo sapiens OX=9606 GN=ATP6V0A2 PE=1 SV=2,0.085,1.28,3,1,2,1,856,98,6.61,4.51,1,0,,High,1,Phospho [T352]
+FALSE,High,Master Protein,Q99933,BAG family molecular chaperone regulator 1 OS=Homo sapiens OX=9606 GN=BAG1 PE=1 SV=4,0,3.054,3,1,2,1,345,38.8,7.81,4.11,1,0,,High,1,
+FALSE,Medium,Master Protein,Q9BWT7,Caspase recruitment domain-containing protein 10 OS=Homo sapiens OX=9606 GN=CARD10 PE=1 SV=2,0.049,1.564,1,1,2,1,1032,115.9,5.95,1.65,1,0,37013692,High,1,
+FALSE,Medium,Master Protein,P0C7T5,Ataxin-1-like OS=Homo sapiens OX=9606 GN=ATXN1L PE=1 SV=1,0.024,1.947,3,1,2,1,689,73.3,6.6,3.7,1,0,32282935,High,1,Phospho [T330]; Methyl [R328]
+FALSE,High,Master Protein,P61163,Alpha-centractin OS=Homo sapiens OX=9606 GN=ACTR1A PE=1 SV=1,0,7.215,10,2,2,2,376,42.6,6.64,5.98,2,0,1105850.25,High,1,
+FALSE,Low,Master Protein,Q9HCE1,Helicase MOV-10 OS=Homo sapiens OX=9606 GN=MOV10 PE=1 SV=2,0.051,1.478,1,1,2,1,1003,113.6,8.82,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q9H2Y7,Zinc finger protein 106 OS=Homo sapiens OX=9606 GN=ZNF106 PE=1 SV=1,0.088,1.257,0,1,2,1,1883,208.8,7.15,3.61,1,0,3736412,High,1,
+FALSE,Low,Master Protein,Q9HBA9,Putative N-acetylated-alpha-linked acidic dipeptidase OS=Homo sapiens OX=9606 GN=FOLH1B PE=2 SV=1,0.087,1.26,8,1,2,1,442,50,7.02,2.18,1,0,,High,1,Methyl [R155]
+FALSE,Low,Master Protein,Q7L1W4,Volume-regulated anion channel subunit LRRC8D OS=Homo sapiens OX=9606 GN=LRRC8D PE=1 SV=1,0.216,0.798,1,1,2,1,858,98.1,7.72,0,1,0,,High,1,
+FALSE,Medium,Master Protein,Q96RW7,Hemicentin-1 OS=Homo sapiens OX=9606 GN=HMCN1 PE=1 SV=2,0.024,1.913,0,2,2,1,5635,613,6.49,2.4,2,0,30009166,High,1,
+FALSE,High,Master Protein,Q13263,Transcription intermediary factor 1-beta OS=Homo sapiens OX=9606 GN=TRIM28 PE=1 SV=5,0,7.695,5,2,2,2,835,88.5,5.77,3.71,2,0,,High,1,Met-loss+Acetyl [N-Term]
+FALSE,Low,Master Protein,Q15751,Probable E3 ubiquitin-protein ligase HERC1 OS=Homo sapiens OX=9606 GN=HERC1 PE=1 SV=2,0.231,0.742,0,1,2,1,4861,531.9,6.04,3.77,1,0,2131155.75,High,1,
+FALSE,Low,Master Protein,P07477,Trypsin-1 OS=Homo sapiens OX=9606 GN=PRSS1 PE=1 SV=1,0.11,1.165,4,1,2,1,247,26.5,6.51,3.67,1,0,,High,1,
+FALSE,Medium,Master Protein,O43264,Centromere/kinetochore protein zw10 homolog OS=Homo sapiens OX=9606 GN=ZW10 PE=1 SV=3,0.049,1.581,2,2,2,2,779,88.8,6.27,0,2,0,30464856,High,1,Phospho [S243]
+FALSE,Medium,Master Protein,Q9BRP8,Partner of Y14 and mago OS=Homo sapiens OX=9606 GN=PYM1 PE=1 SV=1,0.011,2.341,9,1,2,1,204,22.6,9.45,1.61,1,0,802160.5,High,1,
+FALSE,Medium,Master Protein,P47813,"Eukaryotic translation initiation factor 1A, X-chromosomal OS=Homo sapiens OX=9606 GN=EIF1AX PE=1 SV=2",0.011,2.278,15,2,2,2,144,16.5,5.24,1.61,2,0,1350583.625,High,1,
+FALSE,Low,Master Protein,O00451,GDNF family receptor alpha-2 OS=Homo sapiens OX=9606 GN=GFRA2 PE=1 SV=2,0.187,0.913,4,1,2,1,464,51.5,7.66,2.04,1,0,,High,1,Phospho [S419; T423]
+FALSE,High,Master Protein,P42704,"Leucine-rich PPR motif-containing protein, mitochondrial OS=Homo sapiens OX=9606 GN=LRPPRC PE=1 SV=3",0,7.034,2,2,2,2,1394,157.8,6.13,4.35,2,0,1099310,High,1,
+FALSE,Low,Master Protein,P9WGP3,Protein translocase subunit SecA 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=secA2 PE=1 SV=1,0.218,0.781,1,1,2,1,808,88.9,5.45,3.59,1,0,41822224,High,1,
+FALSE,High,Master Protein,Q13085,Acetyl-CoA carboxylase 1 OS=Homo sapiens OX=9606 GN=ACACA PE=1 SV=2,0.003,2.861,1,2,2,2,2346,265.4,6.37,0,2,0,1367692.625,High,1,
+FALSE,Low,Master Protein,A6NFD8,Hairy and enhancer of split-related protein HELT OS=Homo sapiens OX=9606 GN=HELT PE=2 SV=2,0.117,1.135,4,1,2,1,242,26.9,9.36,0,1,0,1262749.75,High,1,
+FALSE,Medium,Master Protein,P62861,40S ribosomal protein S30 OS=Homo sapiens OX=9606 GN=FAU PE=1 SV=1,0.049,1.576,19,1,2,1,59,6.6,12.15,4.25,1,0,2348596.25,High,1,
+FALSE,Low,Master Protein,O43293,Death-associated protein kinase 3 OS=Homo sapiens OX=9606 GN=DAPK3 PE=1 SV=1,0.221,0.768,4,1,2,1,454,52.5,6.89,2.6,1,0,,High,1,Acetyl [K400]; Phospho [T406; S407]
+FALSE,High,Master Protein,P48163,NADP-dependent malic enzyme OS=Homo sapiens OX=9606 GN=ME1 PE=1 SV=1,0,6.844,4,1,2,1,572,64.1,6.13,2.66,1,0,,High,1,
+FALSE,High,Master Protein,P20810,Calpastatin OS=Homo sapiens OX=9606 GN=CAST PE=1 SV=4,0,6.87,4,2,2,2,708,76.5,5.07,5.28,2,0,513709.7813,High,1,
+FALSE,Low,Master Protein,Q8NGN1,Olfactory receptor 6T1 OS=Homo sapiens OX=9606 GN=OR6T1 PE=2 SV=1,0.236,0.724,4,1,2,1,323,36.3,9.22,0,1,0,45707.50391,High,1,Phospho [S49]
+FALSE,Low,Master Protein,P13682,Zinc finger protein 35 OS=Homo sapiens OX=9606 GN=ZNF35 PE=1 SV=4,0.259,0.702,2,1,2,1,527,59.1,8.09,1.63,1,0,,High,1,
+FALSE,Medium,Master Protein,Q92499,ATP-dependent RNA helicase DDX1 OS=Homo sapiens OX=9606 GN=DDX1 PE=1 SV=2,0.05,1.513,3,2,2,2,740,82.4,7.23,1.63,2,0,1367625.5,High,1,
+FALSE,Medium,Master Protein,O95096,Homeobox protein Nkx-2.2 OS=Homo sapiens OX=9606 GN=NKX2-2 PE=2 SV=1,0.03,1.799,3,1,2,1,273,30.1,8.09,1.9,1,0,30779282,High,1,
+FALSE,Medium,Master Protein,Q8NB66,Protein unc-13 homolog C OS=Homo sapiens OX=9606 GN=UNC13C PE=2 SV=3,0.036,1.756,1,2,2,2,2214,250.8,5.92,0,2,0,9693974.375,High,1,Phospho [S2004]
+FALSE,Low,Master Protein,Q8N9I5,Fatty acid desaturase 6 OS=Homo sapiens OX=9606 GN=FADS6 PE=1 SV=2,0.153,1.042,2,1,2,1,356,40.4,8,0,1,0,1579910.125,High,1,
+FALSE,Low,Master Protein,O75592,E3 ubiquitin-protein ligase MYCBP2 OS=Homo sapiens OX=9606 GN=MYCBP2 PE=1 SV=4,0.225,0.751,0,1,2,1,4678,513.3,7.02,0,1,0,964051.8125,High,1,
+FALSE,Low,Master Protein,Q15131,Cyclin-dependent kinase 10 OS=Homo sapiens OX=9606 GN=CDK10 PE=1 SV=1,0.207,0.843,3,1,2,1,360,41,8.84,4.11,1,0,,High,1,
+FALSE,High,Master Protein,Q99733,Nucleosome assembly protein 1-like 4 OS=Homo sapiens OX=9606 GN=NAP1L4 PE=1 SV=1,0,6.291,7,2,2,2,375,42.8,4.69,2.94,2,0,717148.6875,High,1,
+FALSE,High,Master Protein,P07910,Heterogeneous nuclear ribonucleoproteins C1/C2 OS=Homo sapiens OX=9606 GN=HNRNPC PE=1 SV=4,0,4.106,7,2,2,2,306,33.7,5.08,2.44,2,0,2282306.563,High,1,
+FALSE,High,Master Protein,P43243,Matrin-3 OS=Homo sapiens OX=9606 GN=MATR3 PE=1 SV=2,0.003,2.834,2,1,2,1,847,94.6,6.25,2.35,1,0,,High,1,
+FALSE,Low,Master Protein,P57740,Nuclear pore complex protein Nup107 OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1,0.208,0.822,2,1,2,1,925,106.3,5.43,0,1,0,,High,1,Phospho [T205; S207]
+FALSE,High,Master Protein,P22626,Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Homo sapiens OX=9606 GN=HNRNPA2B1 PE=1 SV=2,0.008,2.405,5,2,2,2,353,37.4,8.95,1.82,2,0,1272050.313,High,1,
+FALSE,Medium,Master Protein,P27815,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A OS=Homo sapiens OX=9606 GN=PDE4A PE=1 SV=3",0.038,1.731,2,1,2,1,886,98.1,5.21,0,1,0,,High,1,Phospho [S125; S128]
+FALSE,High,Master Protein,Q15019,Septin-2 OS=Homo sapiens OX=9606 GN=SEPTIN2 PE=1 SV=1,0,5.177,9,2,2,2,361,41.5,6.6,3.71,2,0,,High,1,
+FALSE,Low,Master Protein,O43708,Maleylacetoacetate isomerase OS=Homo sapiens OX=9606 GN=GSTZ1 PE=1 SV=3,0.173,0.989,3,1,2,1,216,24.2,8.54,1.74,1,0,942966.875,High,1,
+FALSE,High,Master Protein,P78347,General transcription factor II-I OS=Homo sapiens OX=9606 GN=GTF2I PE=1 SV=2,0.002,2.984,4,2,2,2,998,112.3,6.39,3.01,2,0,,High,1,
+FALSE,High,Master Protein,P14866,Heterogeneous nuclear ribonucleoprotein L OS=Homo sapiens OX=9606 GN=HNRNPL PE=1 SV=2,0,7.468,4,2,2,2,589,64.1,8.22,4.48,2,0,1277549,High,1,
+FALSE,Low,Master Protein,Q8NCM8,Cytoplasmic dynein 2 heavy chain 1 OS=Homo sapiens OX=9606 GN=DYNC2H1 PE=1 SV=4,0.183,0.936,1,1,2,1,4307,492.3,6.54,6.96,1,0,,High,1,Methyl [R55; K72; K74]
+FALSE,Low,Master Protein,P07478,Trypsin-2 OS=Homo sapiens OX=9606 GN=PRSS2 PE=1 SV=1,0.215,0.801,4,1,2,1,247,26.5,4.92,0,1,0,,High,1,
+FALSE,High,Master Protein,P12081,"Histidine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=HARS1 PE=1 SV=2",0.003,2.887,4,2,2,2,509,57.4,5.88,1.62,2,0,2072997.375,High,1,
+FALSE,Low,Master Protein,Q96LT4,Sphingomyelin synthase-related protein 1 OS=Homo sapiens OX=9606 GN=SAMD8 PE=1 SV=2,0.071,1.378,1,1,2,1,415,48.3,8.07,0,1,0,2985544.375,High,1,
+FALSE,High,Master Protein,P29144,Tripeptidyl-peptidase 2 OS=Homo sapiens OX=9606 GN=TPP2 PE=1 SV=4,0,5.445,2,2,2,2,1249,138.3,6.32,2.47,2,0,659331.5625,High,1,
+FALSE,Low,Master Protein,Q16585,Beta-sarcoglycan OS=Homo sapiens OX=9606 GN=SGCB PE=1 SV=1,0.208,0.822,7,1,2,1,318,34.8,8.62,6.46,1,0,,High,1,Methyl [K159; R174]
+FALSE,Low,Master Protein,Q5JT25,Ras-related protein Rab-41 OS=Homo sapiens OX=9606 GN=RAB41 PE=1 SV=2,0.096,1.215,3,1,2,1,222,25,5.22,0,1,0,3016641,High,1,
+FALSE,Medium,Master Protein,Q9BUP0,EF-hand domain-containing protein D1 OS=Homo sapiens OX=9606 GN=EFHD1 PE=1 SV=1,0.05,1.515,4,1,2,1,239,26.9,5.39,4.1,1,0,2265919.75,High,1,
+FALSE,Low,Master Protein,Q15427,Splicing factor 3B subunit 4 OS=Homo sapiens OX=9606 GN=SF3B4 PE=1 SV=1,0.219,0.787,1,1,2,1,424,44.4,8.56,3.63,1,0,9871405,High,1,
+FALSE,Low,Master Protein,Q9P202,Whirlin OS=Homo sapiens OX=9606 GN=WHRN PE=1 SV=4,0.119,1.125,1,1,2,1,907,96.5,8.63,3.89,1,0,,High,1,
+FALSE,Low,Master Protein,P55265,Double-stranded RNA-specific adenosine deaminase OS=Homo sapiens OX=9606 GN=ADAR PE=1 SV=4,0.106,1.176,1,1,2,1,1226,136,8.65,4.96,1,0,2793105.5,High,1,
+FALSE,Low,Master Protein,Q8WWX0,Ankyrin repeat and SOCS box protein 5 OS=Homo sapiens OX=9606 GN=ASB5 PE=2 SV=1,0.213,0.805,5,1,2,1,329,36.3,6.81,5.33,1,0,5554159.5,High,1,Acetyl [K45]; Phospho [S34]
+FALSE,Medium,Master Protein,P61020,Ras-related protein Rab-5B OS=Homo sapiens OX=9606 GN=RAB5B PE=1 SV=1,0.042,1.711,12,2,2,1,215,23.7,8.13,0,2,0,,High,1,Acetyl [K179]; Phospho [T166]
+FALSE,Medium,Master Protein,Q9BXF3,Cat eye syndrome critical region protein 2 OS=Homo sapiens OX=9606 GN=CECR2 PE=1 SV=2,0.015,2.178,3,2,2,2,1484,164.1,6.98,4.84,2,0,1405972.875,High,1,Phospho [Y88; S1454]
+FALSE,Low,Master Protein,Q96GA7,Serine dehydratase-like OS=Homo sapiens OX=9606 GN=SDSL PE=1 SV=1,0.085,1.292,4,1,2,1,329,34.7,6.89,0,1,0,533102.875,High,1,Phospho [T218; T223; S224]
+FALSE,High,Master Protein,P09211,Glutathione S-transferase P OS=Homo sapiens OX=9606 GN=GSTP1 PE=1 SV=2,0,4.556,9,2,2,2,210,23.3,5.64,2.9,2,0,610563.5,High,1,Met-loss [N-Term]
+FALSE,High,Master Protein,P09661,U2 small nuclear ribonucleoprotein A' OS=Homo sapiens OX=9606 GN=SNRPA1 PE=1 SV=2,0,4.076,5,1,2,1,255,28.4,8.62,4.56,1,0,,High,1,
+FALSE,High,Master Protein,Q92598,Heat shock protein 105 kDa OS=Homo sapiens OX=9606 GN=HSPH1 PE=1 SV=1,0,3.993,3,2,2,2,858,96.8,5.39,2.23,2,0,755509.375,High,1,
+FALSE,Low,Master Protein,O14901,Krueppel-like factor 11 OS=Homo sapiens OX=9606 GN=KLF11 PE=1 SV=2,0.132,1.098,6,1,2,1,512,55.1,8.09,0,1,0,,High,1,Phospho [T272; T273]; Methyl [K304]
+FALSE,Medium,Master Protein,Q00975,Voltage-dependent N-type calcium channel subunit alpha-1B OS=Homo sapiens OX=9606 GN=CACNA1B PE=1 SV=1,0.033,1.766,3,2,2,2,2339,262.3,8.51,4.08,2,0,1205597.125,High,1,Phospho [S753]; Methyl [R2263]
+FALSE,High,Master Protein,Q8N1G4,Leucine-rich repeat-containing protein 47 OS=Homo sapiens OX=9606 GN=LRRC47 PE=1 SV=1,0,5.261,4,2,2,2,583,63.4,8.28,4.13,2,0,321073.9375,High,1,
+FALSE,High,Master Protein,Q14980,Nuclear mitotic apparatus protein 1 OS=Homo sapiens OX=9606 GN=NUMA1 PE=1 SV=2,0.005,2.547,1,1,2,1,2115,238.1,5.78,6.55,1,0,7266499,High,1,Methyl [R1312]
+FALSE,Low,Master Protein,Q86X45,Protein tilB homolog OS=Homo sapiens OX=9606 GN=LRRC6 PE=1 SV=3,0.209,0.851,2,1,2,1,466,54.2,6.51,1.83,1,0,13030941,High,1,
+FALSE,Low,Master Protein,Q53HC0,Coiled-coil domain-containing protein 92 OS=Homo sapiens OX=9606 GN=CCDC92 PE=1 SV=2,0.053,1.462,2,1,2,1,331,36.9,8.9,3.31,1,0,,High,1,
+FALSE,High,Master Protein,P20839,Inosine-5'-monophosphate dehydrogenase 1 OS=Homo sapiens OX=9606 GN=IMPDH1 PE=1 SV=2,0,4.884,4,2,2,2,514,55.4,6.9,4.37,2,0,,High,1,
+FALSE,High,Master Protein,P12270,Nucleoprotein TPR OS=Homo sapiens OX=9606 GN=TPR PE=1 SV=3,0,3.559,1,2,2,2,2363,267.1,5.02,2.41,2,0,1125654.75,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P41250,Glycine--tRNA ligase OS=Homo sapiens OX=9606 GN=GARS1 PE=1 SV=3,0,4.584,2,2,2,2,739,83.1,7.03,0,2,0,1657376.188,High,1,
+FALSE,High,Master Protein,Q7Z6Z7,E3 ubiquitin-protein ligase HUWE1 OS=Homo sapiens OX=9606 GN=HUWE1 PE=1 SV=3,0.005,2.817,1,2,2,2,4374,481.6,5.22,4.49,2,0,,High,1,
+FALSE,High,Master Protein,Q9Y6G9,Cytoplasmic dynein 1 light intermediate chain 1 OS=Homo sapiens OX=9606 GN=DYNC1LI1 PE=1 SV=3,0,4.974,4,2,2,2,523,56.5,6.42,4.25,2,0,608949.5625,High,1,
+FALSE,Medium,Master Protein,Q96JB1,"Dynein heavy chain 8, axonemal OS=Homo sapiens OX=9606 GN=DNAH8 PE=1 SV=2",0.049,1.535,1,2,2,2,4490,514.3,6.32,4.56,2,0,,High,1,Acetyl [K1009; K1011; K1280; K1307]; Phospho [Y1285]
+FALSE,Low,Master Protein,Q5T5N4,Uncharacterized protein C6orf118 OS=Homo sapiens OX=9606 GN=C6orf118 PE=2 SV=1,0.208,0.859,7,1,2,1,469,53.7,8.37,2.44,1,0,,High,1,Phospho [T415; S432]; Methyl [R429; K431]
+FALSE,Low,Master Protein,Q92889,DNA repair endonuclease XPF OS=Homo sapiens OX=9606 GN=ERCC4 PE=1 SV=3,0.208,0.822,2,1,2,1,916,104.4,6.93,0,1,0,,High,1,Phospho [S312]; Methyl [R314]
+FALSE,Low,Master Protein,O00192,Armadillo repeat protein deleted in velo-cardio-facial syndrome OS=Homo sapiens OX=9606 GN=ARVCF PE=1 SV=1,0.22,0.77,2,1,2,1,962,104.6,6.81,3.7,1,0,,High,1,Phospho [Y474]
+FALSE,High,Master Protein,P49642,DNA primase small subunit OS=Homo sapiens OX=9606 GN=PRIM1 PE=1 SV=1,0.008,2.43,3,2,2,2,420,49.9,8.21,1.69,2,0,8601924.688,High,1,
+FALSE,Low,Master Protein,P10745,Retinol-binding protein 3 OS=Homo sapiens OX=9606 GN=RBP3 PE=1 SV=2,0.099,1.205,3,1,2,1,1247,135.3,5.11,2.31,1,0,,High,1,Phospho [T976; S977]
+FALSE,High,Master Protein,O00410,Importin-5 OS=Homo sapiens OX=9606 GN=IPO5 PE=1 SV=4,0,3.47,2,2,2,2,1097,123.6,4.94,3.87,2,0,1120767.125,High,1,
+FALSE,Low,Master Protein,Q9C0J8,pre-mRNA 3' end processing protein WDR33 OS=Homo sapiens OX=9606 GN=WDR33 PE=1 SV=2,0.225,0.754,0,1,1,1,1336,145.8,9.17,0,1,0,,High,1,
+FALSE,Low,Master Protein,O75132,Zinc finger BED domain-containing protein 4 OS=Homo sapiens OX=9606 GN=ZBED4 PE=1 SV=2,0.104,1.184,2,1,1,1,1171,130.2,6.83,3,1,0,,High,1,Phospho [T543]; Methyl [K547]
+FALSE,Low,Master Protein,Q86XN8,RNA-binding protein MEX3D OS=Homo sapiens OX=9606 GN=MEX3D PE=1 SV=3,0.208,0.845,1,1,1,1,651,64.8,5.35,1.74,1,0,8850108,High,1,
+FALSE,Low,Master Protein,O43815,Striatin OS=Homo sapiens OX=9606 GN=STRN PE=1 SV=4,0.209,0.847,1,1,1,1,780,86.1,5.27,0,1,0,,High,1,
+FALSE,Medium,Master Protein,Q8NGA1,Olfactory receptor 1M1 OS=Homo sapiens OX=9606 GN=OR1M1 PE=2 SV=1,0.036,1.746,2,1,1,1,313,34.8,8.91,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q12996,Cleavage stimulation factor subunit 3 OS=Homo sapiens OX=9606 GN=CSTF3 PE=1 SV=1,0.174,0.973,1,1,1,1,717,82.9,8.12,1.6,1,0,1115140.75,High,1,
+FALSE,Low,Master Protein,P0C7W6,Coiled-coil domain-containing protein 172 OS=Homo sapiens OX=9606 GN=CCDC172 PE=1 SV=1,0.106,1.177,4,1,1,1,258,31,5.02,2.41,1,0,1654388.25,High,1,Acetyl [K49]; Phospho [T42]
+FALSE,Medium,Master Protein,O75449,Katanin p60 ATPase-containing subunit A1 OS=Homo sapiens OX=9606 GN=KATNA1 PE=1 SV=1,0.01,2.259,2,1,1,1,491,55.9,6.9,2.09,1,0,1414776.25,High,1,
+FALSE,Low,Master Protein,P0C874,Spermatogenesis-associated protein 31D3 OS=Homo sapiens OX=9606 GN=SPATA31D3 PE=2 SV=1,0.208,0.814,2,1,1,1,917,102.4,8.07,2.46,1,0,,High,1,Phospho [S866]; Methyl [K863]
+FALSE,Low,Master Protein,Q9NZV1,Cysteine-rich motor neuron 1 protein OS=Homo sapiens OX=9606 GN=CRIM1 PE=1 SV=1,0.229,0.742,1,1,1,1,1036,113.7,5.21,1.88,1,0,,High,1,
+FALSE,Low,Master Protein,Q8TEH3,DENN domain-containing protein 1A OS=Homo sapiens OX=9606 GN=DENND1A PE=1 SV=2,0.173,0.991,1,1,1,1,1009,110.5,6.96,1.73,1,0,1222430.625,High,1,
+FALSE,Medium,Master Protein,P24844,Myosin regulatory light polypeptide 9 OS=Homo sapiens OX=9606 GN=MYL9 PE=1 SV=4,0.046,1.613,5,1,1,1,172,19.8,4.92,1.64,1,0,,High,1,
+FALSE,Low,Master Protein,A6NI56,Coiled-coil domain-containing protein 154 OS=Homo sapiens OX=9606 GN=CCDC154 PE=2 SV=5,0.102,1.199,1,1,1,1,667,75.4,8.24,0,1,0,992906.25,High,1,
+FALSE,Low,Master Protein,Q9UH73,Transcription factor COE1 OS=Homo sapiens OX=9606 GN=EBF1 PE=1 SV=2,0.113,1.144,2,1,1,1,591,64.4,8.76,0,1,0,,High,1,Met-loss [N-Term]
+FALSE,Low,Master Protein,Q8NFZ4,Neuroligin-2 OS=Homo sapiens OX=9606 GN=NLGN2 PE=1 SV=1,0.123,1.112,2,1,1,1,835,90.8,6.18,0,1,0,596200.5625,High,1,Phospho [S571]
+FALSE,Low,Master Protein,Q9NZQ9,Tropomodulin-4 OS=Homo sapiens OX=9606 GN=TMOD4 PE=1 SV=1,0.225,0.75,6,1,1,1,345,39.3,4.75,0,1,0,652513.125,High,1,Phospho [S261; S265]
+FALSE,Low,Master Protein,Q13064,Probable E3 ubiquitin-protein ligase makorin-3 OS=Homo sapiens OX=9606 GN=MKRN3 PE=1 SV=1,0.087,1.272,1,1,1,1,507,55.6,5.73,0,1,0,4362322.5,High,1,
+FALSE,Medium,Master Protein,P47895,Aldehyde dehydrogenase family 1 member A3 OS=Homo sapiens OX=9606 GN=ALDH1A3 PE=1 SV=2,0.011,2.272,3,1,1,1,512,56.1,7.25,2.11,1,0,,High,1,
+FALSE,Low,Master Protein,Q9UBU9,Nuclear RNA export factor 1 OS=Homo sapiens OX=9606 GN=NXF1 PE=1 SV=1,0.207,0.83,2,1,1,1,619,70.1,8.51,2.29,1,0,2171291.75,High,1,
+FALSE,Low,Master Protein,Q8IWZ3,Ankyrin repeat and KH domain-containing protein 1 OS=Homo sapiens OX=9606 GN=ANKHD1 PE=1 SV=1,0.233,0.735,1,1,1,1,2542,269.3,5.73,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q9BQA1,Methylosome protein 50 OS=Homo sapiens OX=9606 GN=WDR77 PE=1 SV=1,0.233,0.737,4,1,1,1,342,36.7,5.17,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q2M3G0,ATP-binding cassette sub-family B member 5 OS=Homo sapiens OX=9606 GN=ABCB5 PE=1 SV=4,0.219,0.786,1,1,1,1,1257,138.6,7.53,0,1,0,350360.7813,High,1,
+FALSE,Low,Master Protein,Q92614,Unconventional myosin-XVIIIa OS=Homo sapiens OX=9606 GN=MYO18A PE=1 SV=3,0.209,0.82,0,1,1,1,2054,233,6.3,0,1,0,6141374.5,High,1,
+FALSE,Medium,Master Protein,P61201,COP9 signalosome complex subunit 2 OS=Homo sapiens OX=9606 GN=COPS2 PE=1 SV=1,0.016,2.077,4,1,1,1,443,51.6,5.53,0,1,0,152815.5938,High,1,
+FALSE,Low,Master Protein,O15315,DNA repair protein RAD51 homolog 2 OS=Homo sapiens OX=9606 GN=RAD51B PE=1 SV=2,0.203,0.881,2,1,1,1,384,42.2,5.69,1.73,1,0,4757993,High,1,
+FALSE,Low,Master Protein,Q8NE71,ATP-binding cassette sub-family F member 1 OS=Homo sapiens OX=9606 GN=ABCF1 PE=1 SV=2,0.054,1.459,1,1,1,1,845,95.9,6.8,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q9UJX2,Cell division cycle protein 23 homolog OS=Homo sapiens OX=9606 GN=CDC23 PE=1 SV=3,0.141,1.072,1,1,1,1,597,68.8,7.02,1.64,1,0,2225372.75,High,1,
+FALSE,Low,Master Protein,Q8TAF3,WD repeat-containing protein 48 OS=Homo sapiens OX=9606 GN=WDR48 PE=1 SV=1,0.156,1.036,1,1,1,1,677,76.2,7.03,1.69,1,0,6141374.5,High,1,
+FALSE,Low,Master Protein,Q7Z7G0,Target of Nesh-SH3 OS=Homo sapiens OX=9606 GN=ABI3BP PE=1 SV=1,0.143,1.055,2,1,1,1,1075,118.6,9.44,0,1,0,2881423.5,High,1,Phospho [T925]
+FALSE,Low,Master Protein,P57057,Glucose-6-phosphate exchanger SLC37A1 OS=Homo sapiens OX=9606 GN=SLC37A1 PE=2 SV=2,0.111,1.157,7,1,1,1,533,57.6,8.31,0,1,0,,High,1,Phospho [T450]
+FALSE,High,Master Protein,P13667,Protein disulfide-isomerase A4 OS=Homo sapiens OX=9606 GN=PDIA4 PE=1 SV=2,0,4.146,2,1,1,1,645,72.9,5.07,2.66,1,0,,High,1,
+FALSE,Low,Master Protein,Q13232,Nucleoside diphosphate kinase 3 OS=Homo sapiens OX=9606 GN=NME3 PE=1 SV=2,0.204,0.875,7,1,1,1,169,19,7.84,0,1,0,3505513.5,High,1,Methyl [K29]
+FALSE,High,Master Protein,Q16778,Histone H2B type 2-E OS=Homo sapiens OX=9606 GN=H2BC21 PE=1 SV=3,0,4.849,12,1,1,1,126,13.9,10.32,2.65,1,0,,High,1,
+FALSE,Low,Master Protein,Q9Y2T1,Axin-2 OS=Homo sapiens OX=9606 GN=AXIN2 PE=1 SV=1,0.222,0.759,2,1,1,1,843,93.5,7.78,2.31,1,0,,High,1,Phospho [S573]
+FALSE,Low,Master Protein,Q7Z4S6,Kinesin-like protein KIF21A OS=Homo sapiens OX=9606 GN=KIF21A PE=1 SV=2,0.184,0.933,0,1,1,1,1674,187.1,6.42,0,1,0,806197.625,High,1,
+FALSE,Low,Master Protein,O60784,Target of Myb protein 1 OS=Homo sapiens OX=9606 GN=TOM1 PE=1 SV=2,0.111,1.161,4,1,1,1,492,53.8,4.7,3.43,1,0,,High,1,Methyl [K147]
+FALSE,Low,Master Protein,Q14244,Ensconsin OS=Homo sapiens OX=9606 GN=MAP7 PE=1 SV=1,0.177,0.951,1,1,1,1,749,84,9.61,0,1,0,121326.7656,High,1,Phospho [S365]
+FALSE,Low,Master Protein,Q9NR50,Translation initiation factor eIF-2B subunit gamma OS=Homo sapiens OX=9606 GN=EIF2B3 PE=1 SV=1,0.054,1.458,4,1,1,1,452,50.2,6.47,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q5T440,"Putative transferase CAF17, mitochondrial OS=Homo sapiens OX=9606 GN=IBA57 PE=1 SV=1",0.222,0.764,3,1,1,1,356,38.1,9.83,2.36,1,0,1813575.625,High,1,
+FALSE,High,Master Protein,P09012,U1 small nuclear ribonucleoprotein A OS=Homo sapiens OX=9606 GN=SNRPA PE=1 SV=3,0.002,2.93,4,1,1,1,282,31.3,9.83,2.14,1,0,551133.375,High,1,
+FALSE,Medium,Master Protein,P23515,Oligodendrocyte-myelin glycoprotein OS=Homo sapiens OX=9606 GN=OMG PE=1 SV=2,0.033,1.761,3,1,1,1,440,49.6,7.94,2.62,1,0,,High,1,Phospho [S147]
+FALSE,Medium,Master Protein,P02768,Serum albumin OS=Homo sapiens OX=9606 GN=ALB PE=1 SV=2,0.041,1.672,1,1,1,1,609,69.3,6.28,1.78,1,0,,High,1,
+FALSE,Low,Master Protein,P17948,Vascular endothelial growth factor receptor 1 OS=Homo sapiens OX=9606 GN=FLT1 PE=1 SV=2,0.208,0.845,1,1,1,1,1338,150.7,8.38,0,1,0,3303668.5,High,1,Phospho [Y642; T643]
+FALSE,Low,Master Protein,P01730,T-cell surface glycoprotein CD4 OS=Homo sapiens OX=9606 GN=CD4 PE=1 SV=1,0.216,0.796,1,1,1,1,458,51.1,9.54,1.67,1,0,,High,1,
+FALSE,Low,Master Protein,O60313,"Dynamin-like 120 kDa protein, mitochondrial OS=Homo sapiens OX=9606 GN=OPA1 PE=1 SV=3",0.184,0.931,1,1,1,1,960,111.6,7.87,0,1,0,1839695.875,High,1,Phospho [S508]
+FALSE,Low,Master Protein,Q4G0N4,"NAD kinase 2, mitochondrial OS=Homo sapiens OX=9606 GN=NADK2 PE=1 SV=2",0.174,0.985,1,1,1,1,442,49.4,8.18,0,1,0,4757993,High,1,
+FALSE,Medium,Master Protein,P62318,Small nuclear ribonucleoprotein Sm D3 OS=Homo sapiens OX=9606 GN=SNRPD3 PE=1 SV=1,0.038,1.73,7,1,1,1,126,13.9,10.32,0,1,0,2772581,High,1,
+FALSE,High,Master Protein,P33176,Kinesin-1 heavy chain OS=Homo sapiens OX=9606 GN=KIF5B PE=1 SV=1,0.006,2.437,1,1,1,1,963,109.6,6.51,2.06,1,0,407513.4375,High,1,
+FALSE,Low,Master Protein,P43364,Melanoma-associated antigen 11 OS=Homo sapiens OX=9606 GN=MAGEA11 PE=1 SV=2,0.051,1.476,6,1,1,1,429,48.1,4.75,4.91,1,0,5972665.5,High,1,Phospho [T95; T100]
+FALSE,High,Master Protein,O15145,Actin-related protein 2/3 complex subunit 3 OS=Homo sapiens OX=9606 GN=ARPC3 PE=1 SV=3,0,4.236,6,1,1,1,178,20.5,8.59,2.37,1,0,,High,1,
+FALSE,Low,Master Protein,P0DPK5,Histone H3.X OS=Homo sapiens OX=9606 GN=H3Y2 PE=5 SV=1,0.064,1.434,5,1,1,1,147,16.5,11.39,1.98,1,0,1225924.625,High,1,
+FALSE,Low,Master Protein,Q96QU1,Protocadherin-15 OS=Homo sapiens OX=9606 GN=PCDH15 PE=1 SV=2,0.259,0.702,1,1,1,1,1955,215.9,5.07,2.88,1,0,39076296,High,1,Phospho [T667; T671]
+FALSE,Medium,Master Protein,P04792,Heat shock protein beta-1 OS=Homo sapiens OX=9606 GN=HSPB1 PE=1 SV=2,0.01,2.257,8,1,1,1,205,22.8,6.4,2.81,1,0,,High,1,
+FALSE,Low,Master Protein,Q8NDX5,Polyhomeotic-like protein 3 OS=Homo sapiens OX=9606 GN=PHC3 PE=1 SV=1,0.207,0.842,3,1,1,1,983,106.1,6.62,6.39,1,0,,High,1,Acetyl [K222]
+FALSE,Low,Master Protein,Q9NQG7,Hermansky-Pudlak syndrome 4 protein OS=Homo sapiens OX=9606 GN=HPS4 PE=1 SV=2,0.174,0.976,3,1,1,1,708,76.9,5.45,2.31,1,0,,High,1,Phospho [T623]
+FALSE,Low,Master Protein,Q8N7Q3,Zinc finger protein 676 OS=Homo sapiens OX=9606 GN=ZNF676 PE=2 SV=2,0.227,0.748,4,1,1,1,588,67.6,8.87,2.88,1,0,1412377.25,High,1,Phospho [T241; T353; T585]; Methyl [R236; K244; R348; K356; R580; K588]
+FALSE,Medium,Master Protein,Q8IZP2,Putative protein FAM10A4 OS=Homo sapiens OX=9606 GN=ST13P4 PE=5 SV=1,0.016,2.133,5,1,1,1,240,27.4,5.08,2.36,1,0,,High,1,
+FALSE,Low,Master Protein,Q6ZNB7,Alkylglycerol monooxygenase OS=Homo sapiens OX=9606 GN=AGMO PE=1 SV=1,0.237,0.726,5,1,1,1,445,51.5,7.91,3.03,1,0,,High,1,Phospho [S49; S58]
+FALSE,Low,Master Protein,Q9UK32,Ribosomal protein S6 kinase alpha-6 OS=Homo sapiens OX=9606 GN=RPS6KA6 PE=1 SV=1,0.208,0.853,2,1,1,1,745,83.8,6.34,2.3,1,0,1029520.938,High,1,Phospho [T94; Y102]
+FALSE,Medium,Master Protein,Q9NR31,GTP-binding protein SAR1a OS=Homo sapiens OX=9606 GN=SAR1A PE=1 SV=1,0.032,1.779,6,1,1,1,198,22.4,6.68,0,1,0,215554.75,High,1,
+FALSE,Low,Master Protein,P98168,Zinc finger X-linked protein ZXDA OS=Homo sapiens OX=9606 GN=ZXDA PE=1 SV=2,0.168,0.997,1,1,1,1,799,84.7,7.52,0,1,0,384421.5625,High,1,Acetyl [K326]; Phospho [S323]
+FALSE,Low,Master Protein,Q8N428,Polypeptide N-acetylgalactosaminyltransferase 16 OS=Homo sapiens OX=9606 GN=GALNT16 PE=1 SV=2,0.091,1.241,5,1,1,1,558,63,9.13,2.21,1,0,,High,1,
+FALSE,Medium,Master Protein,Q9ULT8,E3 ubiquitin-protein ligase HECTD1 OS=Homo sapiens OX=9606 GN=HECTD1 PE=1 SV=3,0.024,1.939,1,1,1,1,2610,289.2,5.35,0,1,0,,High,1,
+FALSE,Low,Master Protein,P36507,Dual specificity mitogen-activated protein kinase kinase 2 OS=Homo sapiens OX=9606 GN=MAP2K2 PE=1 SV=1,0.221,0.761,9,1,1,1,400,44.4,6.55,0,1,0,,High,1,Phospho [T17; T25]; Methyl [K6]
+FALSE,Low,Master Protein,P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,0.259,0.705,1,1,1,1,2468,270.5,4.81,0,1,0,,High,1,Phospho [S1205; S1208]
+FALSE,Low,Master Protein,P51828,Adenylate cyclase type 7 OS=Homo sapiens OX=9606 GN=ADCY7 PE=1 SV=1,0.206,0.838,1,1,1,1,1080,120.2,8.12,0,1,0,893417.125,High,1,
+FALSE,Low,Master Protein,Q9UBS0,Ribosomal protein S6 kinase beta-2 OS=Homo sapiens OX=9606 GN=RPS6KB2 PE=1 SV=2,0.132,1.1,5,1,1,1,482,53.4,7.34,3.32,1,0,,High,1,Phospho [Y260]
+FALSE,Low,Master Protein,Q96QU8,Exportin-6 OS=Homo sapiens OX=9606 GN=XPO6 PE=1 SV=1,0.219,0.791,2,1,1,1,1125,128.8,6.35,0,1,0,,High,1,Methyl [R871]
+FALSE,Low,Master Protein,Q8NGR8,Olfactory receptor 1L8 OS=Homo sapiens OX=9606 GN=OR1L8 PE=2 SV=1,0.176,0.972,6,1,1,1,309,35.1,8.66,0,1,0,,High,1,Phospho [S19; S20]
+FALSE,Medium,Master Protein,Q7Z2Z1,Treslin OS=Homo sapiens OX=9606 GN=TICRR PE=1 SV=2,0.024,1.937,1,1,1,1,1910,210.7,8.78,3.89,1,0,3931727.5,High,1,Phospho [T670]
+FALSE,Low,Master Protein,Q3V6T2,Girdin OS=Homo sapiens OX=9606 GN=CCDC88A PE=1 SV=2,0.113,1.148,0,1,1,1,1871,215.9,6.21,0,1,0,4234115.5,High,1,
+FALSE,Low,Master Protein,Q8NF91,Nesprin-1 OS=Homo sapiens OX=9606 GN=SYNE1 PE=1 SV=4,0.205,0.867,0,1,1,1,8797,1010.5,5.53,1.68,1,0,557719.4375,High,1,Methyl [R1659; K1662]
+FALSE,High,Master Protein,O75390,"Citrate synthase, mitochondrial OS=Homo sapiens OX=9606 GN=CS PE=1 SV=2",0,3.118,2,1,1,1,466,51.7,8.32,2.46,1,0,,High,1,
+FALSE,Low,Master Protein,Q60I27,ALS2 C-terminal-like protein OS=Homo sapiens OX=9606 GN=ALS2CL PE=1 SV=1,0.141,1.082,1,1,1,1,953,107.7,6.15,0,1,0,1045158.063,High,1,Acetyl [K676]
+FALSE,Low,Master Protein,P16885,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2 OS=Homo sapiens OX=9606 GN=PLCG2 PE=1 SV=4",0.156,1.036,1,1,1,1,1265,147.8,6.64,0,1,0,,High,1,Methyl [K862]
+FALSE,Low,Master Protein,Q5CZC0,Fibrous sheath-interacting protein 2 OS=Homo sapiens OX=9606 GN=FSIP2 PE=2 SV=4,0.208,0.824,0,1,1,1,6907,780.1,6.71,2.35,1,0,,High,1,
+FALSE,Low,Master Protein,Q0VD86,Protein INCA1 OS=Homo sapiens OX=9606 GN=INCA1 PE=1 SV=1,0.173,0.99,3,1,1,1,236,26.8,7.34,0,1,0,1018449.313,High,1,
+FALSE,Low,Master Protein,O95835,Serine/threonine-protein kinase LATS1 OS=Homo sapiens OX=9606 GN=LATS1 PE=1 SV=1,0.229,0.746,1,1,1,1,1130,126.8,8.7,1.67,1,0,1127167.5,High,1,
+FALSE,High,Master Protein,Q9Y4L1,Hypoxia up-regulated protein 1 OS=Homo sapiens OX=9606 GN=HYOU1 PE=1 SV=1,0,4.397,2,1,1,1,999,111.3,5.22,2.54,1,0,574143.5625,High,1,
+FALSE,Low,Master Protein,Q86YF9,Zinc finger protein DZIP1 OS=Homo sapiens OX=9606 GN=DZIP1 PE=1 SV=1,0.133,1.095,2,1,1,1,867,98.6,6.15,0,1,0,,High,1,Phospho [S327]; Methyl [K318]
+FALSE,Medium,Master Protein,P62314,Small nuclear ribonucleoprotein Sm D1 OS=Homo sapiens OX=9606 GN=SNRPD1 PE=1 SV=1,0.011,2.305,11,1,1,1,119,13.3,11.56,2.5,1,0,,High,1,
+FALSE,Medium,Master Protein,O00233,26S proteasome non-ATPase regulatory subunit 9 OS=Homo sapiens OX=9606 GN=PSMD9 PE=1 SV=3,0.049,1.528,9,1,1,1,223,24.7,6.95,2.31,1,0,958425.3125,High,1,Acetyl [K38]
+FALSE,High,Master Protein,O75874,Isocitrate dehydrogenase [NADP] cytoplasmic OS=Homo sapiens OX=9606 GN=IDH1 PE=1 SV=2,0.005,2.533,3,1,1,1,414,46.6,7.01,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q01850,Cerebellar degeneration-related protein 2 OS=Homo sapiens OX=9606 GN=CDR2 PE=1 SV=2,0.22,0.773,4,1,1,1,454,51.8,5.06,0,1,0,,High,1,Phospho [S344; S354]
+FALSE,Low,Master Protein,P07947,Tyrosine-protein kinase Yes OS=Homo sapiens OX=9606 GN=YES1 PE=1 SV=3,0.206,0.866,3,1,1,1,543,60.8,6.74,2.23,1,0,,High,1,Phospho [T257]; Methyl [K259]
+FALSE,Low,Master Protein,P67870,Casein kinase II subunit beta OS=Homo sapiens OX=9606 GN=CSNK2B PE=1 SV=1,0.087,1.262,4,1,1,1,215,24.9,5.55,2.48,1,0,,High,1,
+FALSE,Medium,Master Protein,P38159,"RNA-binding motif protein, X chromosome OS=Homo sapiens OX=9606 GN=RBMX PE=1 SV=3",0.019,2.002,3,1,1,1,391,42.3,10.05,2.02,1,0,450857.3438,High,1,
+FALSE,Medium,Master Protein,P34897,"Serine hydroxymethyltransferase, mitochondrial OS=Homo sapiens OX=9606 GN=SHMT2 PE=1 SV=3",0.049,1.536,2,1,1,1,504,56,8.53,1.9,1,0,643389.4375,High,1,
+FALSE,Low,Master Protein,P55055,Oxysterols receptor LXR-beta OS=Homo sapiens OX=9606 GN=NR1H2 PE=1 SV=2,0.26,0.701,1,1,1,1,460,50.9,7.74,0,1,0,1544102.875,High,1,
+FALSE,Low,Master Protein,P24043,Laminin subunit alpha-2 OS=Homo sapiens OX=9606 GN=LAMA2 PE=1 SV=4,0.206,0.866,0,1,1,1,3122,343.7,6.4,0,1,0,249901.2344,High,1,
+FALSE,High,Master Protein,Q15020,Squamous cell carcinoma antigen recognized by T-cells 3 OS=Homo sapiens OX=9606 GN=SART3 PE=1 SV=1,0.005,2.595,1,1,1,1,963,109.9,5.57,1.79,1,0,,High,1,
+FALSE,Low,Master Protein,P17540,"Creatine kinase S-type, mitochondrial OS=Homo sapiens OX=9606 GN=CKMT2 PE=1 SV=2",0.07,1.383,1,1,1,1,419,47.5,8.19,1.84,1,0,1434668.375,High,1,
+FALSE,Medium,Master Protein,O00458,Interferon-related developmental regulator 1 OS=Homo sapiens OX=9606 GN=IFRD1 PE=1 SV=4,0.019,2.017,5,1,1,1,451,50.2,7.18,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q8IVT2,Mitotic interactor and substrate of PLK1 OS=Homo sapiens OX=9606 GN=MISP PE=1 SV=1,0.201,0.884,4,1,1,1,679,75.3,6.83,0,1,0,1122751.375,High,1,Phospho [S395]
+FALSE,Low,Master Protein,Q9H2S1,Small conductance calcium-activated potassium channel protein 2 OS=Homo sapiens OX=9606 GN=KCNN2 PE=1 SV=2,0.173,0.992,2,1,1,1,579,63.7,9.52,0,1,0,260575.5156,High,1,Phospho [Y166; S167]
+FALSE,Low,Master Protein,Q92878,DNA repair protein RAD50 OS=Homo sapiens OX=9606 GN=RAD50 PE=1 SV=1,0.207,0.839,1,1,1,1,1312,153.8,6.89,0,1,0,2420831.25,High,1,
+FALSE,Low,Master Protein,P06744,Glucose-6-phosphate isomerase OS=Homo sapiens OX=9606 GN=GPI PE=1 SV=4,0.23,0.744,2,1,1,1,558,63.1,8.32,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q8N8N7,Prostaglandin reductase 2 OS=Homo sapiens OX=9606 GN=PTGR2 PE=1 SV=1,0.226,0.757,11,1,1,1,351,38.5,5.41,0,1,0,,High,1,Phospho [T62]; Methyl [K86]
+FALSE,High,Master Protein,Q15370,Elongin-B OS=Homo sapiens OX=9606 GN=ELOB PE=1 SV=1,0.005,2.638,21,1,1,1,118,13.1,4.88,2.27,1,0,,High,1,
+FALSE,Low,Master Protein,Q9P1Z9,Coiled-coil domain-containing protein 180 OS=Homo sapiens OX=9606 GN=CCDC180 PE=2 SV=3,0.205,0.879,0,1,1,1,1701,197.2,6.04,0,1,0,,High,1,Phospho [T1267]
+FALSE,Low,Master Protein,Q15036,Sorting nexin-17 OS=Homo sapiens OX=9606 GN=SNX17 PE=1 SV=1,0.251,0.716,7,1,1,1,470,52.9,7.46,0,1,0,,High,1,Phospho [S440]
+FALSE,Medium,Master Protein,Q68E01,Integrator complex subunit 3 OS=Homo sapiens OX=9606 GN=INTS3 PE=1 SV=1,0.045,1.635,1,1,1,1,1043,118,5.8,0,1,0,437049.7188,High,1,
+FALSE,Low,Master Protein,Q13618,Cullin-3 OS=Homo sapiens OX=9606 GN=CUL3 PE=1 SV=2,0.238,0.72,1,1,1,1,768,88.9,8.48,0,1,0,,High,1,
+FALSE,High,Master Protein,O95816,BAG family molecular chaperone regulator 2 OS=Homo sapiens OX=9606 GN=BAG2 PE=1 SV=1,0,3.491,5,1,1,1,211,23.8,6.7,2.77,1,0,570911.0625,High,1,
+FALSE,Low,Master Protein,Q86UU1,Pleckstrin homology-like domain family B member 1 OS=Homo sapiens OX=9606 GN=PHLDB1 PE=1 SV=1,0.084,1.287,1,1,1,1,1377,151.1,8.63,1.8,1,0,1384470.625,High,1,
+FALSE,Low,Master Protein,Q5XKR4,Homeobox protein orthopedia OS=Homo sapiens OX=9606 GN=OTP PE=1 SV=1,0.205,0.878,5,1,1,1,325,34.1,9.47,0,1,0,370198.0625,High,1,Methyl [R121]
+FALSE,Low,Master Protein,Q96L91,E1A-binding protein p400 OS=Homo sapiens OX=9606 GN=EP400 PE=1 SV=4,0.22,0.775,0,1,1,1,3159,343.3,9.19,2.53,1,0,,High,1,
+FALSE,Low,Master Protein,Q8TB72,Pumilio homolog 2 OS=Homo sapiens OX=9606 GN=PUM2 PE=1 SV=2,0.187,0.92,1,1,1,1,1066,114.1,7.08,0,1,0,4180641,High,1,Phospho [T1030]
+FALSE,High,Master Protein,Q15369,Elongin-C OS=Homo sapiens OX=9606 GN=ELOC PE=1 SV=1,0,4.491,13,1,1,1,112,12.5,4.78,2.5,1,0,,High,1,
+FALSE,Low,Master Protein,Q5VZK9,F-actin-uncapping protein LRRC16A OS=Homo sapiens OX=9606 GN=CARMIL1 PE=1 SV=1,0.182,0.939,1,1,1,1,1371,151.5,7.85,0,1,0,510416.0625,High,1,
+FALSE,High,Master Protein,P49458,Signal recognition particle 9 kDa protein OS=Homo sapiens OX=9606 GN=SRP9 PE=1 SV=2,0.002,2.894,14,1,1,1,86,10.1,7.97,2.33,1,0,1023563.625,High,1,Met-loss [N-Term]
+FALSE,Low,Master Protein,P58550,Putative FXYD domain-containing ion transport regulator 8 OS=Homo sapiens OX=9606 GN=FXYD6P3 PE=5 SV=2,0.073,1.351,18,1,1,1,94,10.6,7.34,2.22,1,0,1220775.625,High,1,Acetyl [K87]
+FALSE,Low,Master Protein,A5YKK6,CCR4-NOT transcription complex subunit 1 OS=Homo sapiens OX=9606 GN=CNOT1 PE=1 SV=2,0.175,0.98,0,1,1,1,2376,266.8,7.11,1.61,1,0,2072772.625,High,1,
+FALSE,High,Master Protein,O75533,Splicing factor 3B subunit 1 OS=Homo sapiens OX=9606 GN=SF3B1 PE=1 SV=3,0,5.498,1,1,1,1,1304,145.7,7.09,2.24,1,0,,High,1,
+FALSE,Medium,Master Protein,P62308,Small nuclear ribonucleoprotein G OS=Homo sapiens OX=9606 GN=SNRPG PE=1 SV=1,0.028,1.821,17,1,1,1,76,8.5,8.88,2.23,1,0,,High,1,
+FALSE,Low,Master Protein,Q9NPF5,DNA methyltransferase 1-associated protein 1 OS=Homo sapiens OX=9606 GN=DMAP1 PE=1 SV=1,0.23,0.743,3,1,1,1,467,53,9.5,1.81,1,0,,High,1,Phospho [T307]
+FALSE,Low,Master Protein,Q9UKU9,Angiopoietin-related protein 2 OS=Homo sapiens OX=9606 GN=ANGPTL2 PE=1 SV=1,0.183,0.934,4,1,1,1,493,57.1,7.53,0,1,0,32458024,High,1,Methyl [R399]
+FALSE,Low,Master Protein,P59044,"NACHT, LRR and PYD domains-containing protein 6 OS=Homo sapiens OX=9606 GN=NLRP6 PE=1 SV=2",0.258,0.706,1,1,1,1,892,98.7,8.07,0,1,0,6634058,High,1,
+FALSE,Low,Master Protein,Q5SXM2,snRNA-activating protein complex subunit 4 OS=Homo sapiens OX=9606 GN=SNAPC4 PE=1 SV=1,0.19,0.907,1,1,1,1,1469,159.3,8.28,3.03,1,0,,High,1,Methyl [R365]
+FALSE,High,Master Protein,Q14697,Neutral alpha-glucosidase AB OS=Homo sapiens OX=9606 GN=GANAB PE=1 SV=3,0,3.803,2,1,1,1,944,106.8,6.14,2.76,1,0,,High,1,
+FALSE,Low,Master Protein,O00602,Ficolin-1 OS=Homo sapiens OX=9606 GN=FCN1 PE=1 SV=2,0.223,0.759,6,1,1,1,326,35.1,6.86,0,1,0,,High,1,Methyl [R75]
+FALSE,Low,Master Protein,P41218,Myeloid cell nuclear differentiation antigen OS=Homo sapiens OX=9606 GN=MNDA PE=1 SV=1,0.132,1.099,1,1,1,1,407,45.8,9.76,0,1,0,3354084,High,1,
+FALSE,High,Master Protein,O14579,Coatomer subunit epsilon OS=Homo sapiens OX=9606 GN=COPE PE=1 SV=3,0,4.094,5,1,1,1,308,34.5,5.12,2.78,1,0,,High,1,
+FALSE,Low,Master Protein,Q53G59,Kelch-like protein 12 OS=Homo sapiens OX=9606 GN=KLHL12 PE=1 SV=2,0.259,0.705,2,1,1,1,568,63.2,5.44,0,1,0,5828035.5,High,1,Acetyl [K28]; Phospho [T36]; Methyl [R38]
+FALSE,Low,Master Protein,Q53GI3,Zinc finger protein 394 OS=Homo sapiens OX=9606 GN=ZNF394 PE=1 SV=2,0.183,0.937,1,1,1,1,561,64.2,7.9,0,1,0,1425775,High,1,
+FALSE,Medium,Master Protein,O75475,PC4 and SFRS1-interacting protein OS=Homo sapiens OX=9606 GN=PSIP1 PE=1 SV=1,0.041,1.661,2,1,1,1,530,60.1,9.13,0,1,0,26223182,High,1,Methyl [K239]
+FALSE,Low,Master Protein,Q6UUV7,CREB-regulated transcription coactivator 3 OS=Homo sapiens OX=9606 GN=CRTC3 PE=1 SV=2,0.232,0.735,3,1,1,1,619,66.9,6.84,0,1,0,,High,1,Phospho [S391; S396]
+FALSE,Low,Master Protein,Q9Y664,KICSTOR complex protein kaptin OS=Homo sapiens OX=9606 GN=KPTN PE=1 SV=2,0.144,1.049,4,1,1,1,436,48.1,5.26,2.31,1,0,1727866.25,High,1,Phospho [S251]
+FALSE,Low,Master Protein,Q9H0J9,Protein mono-ADP-ribosyltransferase PARP12 OS=Homo sapiens OX=9606 GN=PARP12 PE=1 SV=1,0.207,0.813,1,1,1,1,701,79,8.51,1.87,1,0,1979764.125,High,1,
+FALSE,High,Master Protein,P25686,DnaJ homolog subfamily B member 2 OS=Homo sapiens OX=9606 GN=DNAJB2 PE=1 SV=3,0,3.727,4,1,1,1,324,35.6,5.95,2.32,1,0,,High,1,
+FALSE,Low,Master Protein,Q495M3,Proton-coupled amino acid transporter 2 OS=Homo sapiens OX=9606 GN=SLC36A2 PE=1 SV=1,0.209,0.851,7,1,1,1,483,53.2,8.12,2.85,1,0,,High,1,Phospho [S228; S234; S238]
+FALSE,Medium,Master Protein,Q00653,Nuclear factor NF-kappa-B p100 subunit OS=Homo sapiens OX=9606 GN=NFKB2 PE=1 SV=4,0.016,2.138,2,1,1,1,900,96.7,6.25,0,1,0,,High,1,
+FALSE,High,Master Protein,Q5RKV6,Exosome complex component MTR3 OS=Homo sapiens OX=9606 GN=EXOSC6 PE=1 SV=1,0.008,2.416,3,1,1,1,272,28.2,6.28,2.16,1,0,505719,High,1,
+FALSE,High,Master Protein,P29401,Transketolase OS=Homo sapiens OX=9606 GN=TKT PE=1 SV=3,0,4.384,3,1,1,1,623,67.8,7.66,2,1,0,,High,1,
+FALSE,Low,Master Protein,O76094,Signal recognition particle subunit SRP72 OS=Homo sapiens OX=9606 GN=SRP72 PE=1 SV=3,0.071,1.372,3,1,1,1,671,74.6,9.26,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q86VE3,Spermidine/spermine N(1)-acetyltransferase-like protein 1 OS=Homo sapiens OX=9606 GN=SATL1 PE=2 SV=4,0.221,0.762,6,1,1,1,695,75.8,5.31,2.62,1,0,1313251.5,High,1,
+FALSE,Low,Master Protein,Q9ULW0,Targeting protein for Xklp2 OS=Homo sapiens OX=9606 GN=TPX2 PE=1 SV=2,0.184,0.927,2,1,1,1,747,85.6,9.23,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q9UPA5,Protein bassoon OS=Homo sapiens OX=9606 GN=BSN PE=1 SV=4,0.066,1.406,0,1,1,1,3926,416.2,7.55,2.11,1,0,500946.5313,High,1,
+FALSE,Medium,Master Protein,Q92973,Transportin-1 OS=Homo sapiens OX=9606 GN=TNPO1 PE=1 SV=2,0.011,2.311,1,1,1,1,898,102.3,4.98,1.66,1,0,,High,1,
+FALSE,Low,Master Protein,P57678,Gem-associated protein 4 OS=Homo sapiens OX=9606 GN=GEMIN4 PE=1 SV=2,0.172,0.993,1,1,1,1,1058,120,6.04,0,1,0,7283523.5,High,1,
+FALSE,Low,Master Protein,Q4LE39,AT-rich interactive domain-containing protein 4B OS=Homo sapiens OX=9606 GN=ARID4B PE=1 SV=2,0.208,0.847,1,1,1,1,1312,147.7,5.12,1.71,1,0,,High,1,Phospho [Y75]
+FALSE,Low,Master Protein,P51692,Signal transducer and activator of transcription 5B OS=Homo sapiens OX=9606 GN=STAT5B PE=1 SV=2,0.177,0.954,3,1,1,1,787,89.8,6.05,0,1,0,,High,1,
+FALSE,High,Master Protein,Q8N5N7,"39S ribosomal protein L50, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL50 PE=1 SV=2",0.005,2.604,7,1,1,1,158,18.3,7.88,1.7,1,0,11640862,High,1,
+FALSE,Low,Master Protein,O60925,Prefoldin subunit 1 OS=Homo sapiens OX=9606 GN=PFDN1 PE=1 SV=2,0.107,1.181,9,1,1,1,122,14.2,6.81,2.08,1,0,,High,1,
+FALSE,Low,Master Protein,Q07890,Son of sevenless homolog 2 OS=Homo sapiens OX=9606 GN=SOS2 PE=1 SV=2,0.254,0.711,2,1,1,1,1332,152.9,6.84,2.36,1,0,13375423,High,1,
+FALSE,Low,Master Protein,Q02383,Semenogelin-2 OS=Homo sapiens OX=9606 GN=SEMG2 PE=1 SV=1,0.066,1.412,3,1,1,1,582,65.4,9.07,0,1,0,,High,1,Phospho [S315; S435; S746]
+FALSE,Low,Master Protein,Q9NWS1,PCNA-interacting partner OS=Homo sapiens OX=9606 GN=PARPBP PE=1 SV=3,0.185,0.926,1,1,1,1,579,65,8.79,0,1,0,1634943.5,High,1,
+FALSE,Low,Master Protein,Q92817,Envoplakin OS=Homo sapiens OX=9606 GN=EVPL PE=1 SV=3,0.071,1.372,0,1,1,1,2033,231.5,6.96,1.79,1,0,6428875.5,High,1,
+FALSE,Medium,Master Protein,O76021,Ribosomal L1 domain-containing protein 1 OS=Homo sapiens OX=9606 GN=RSL1D1 PE=1 SV=3,0.01,2.251,3,1,1,1,490,54.9,10.13,1.7,1,0,573130.4375,High,1,
+FALSE,High,Master Protein,Q9Y4L5,E3 ubiquitin-protein ligase RNF115 OS=Homo sapiens OX=9606 GN=RNF115 PE=1 SV=2,0,8.144,6,1,1,1,304,33.7,5.69,3.3,1,0,,High,1,Met-loss+Acetyl [N-Term]
+FALSE,Low,Master Protein,Q9Y4D8,Probable E3 ubiquitin-protein ligase HECTD4 OS=Homo sapiens OX=9606 GN=HECTD4 PE=1 SV=5,0.219,0.786,0,1,1,1,3996,439.1,6.19,0,1,0,1107662.125,High,1,
+FALSE,Low,Master Protein,Q9UP95,Solute carrier family 12 member 4 OS=Homo sapiens OX=9606 GN=SLC12A4 PE=1 SV=2,0.238,0.728,3,1,1,1,1085,120.6,6.44,0,1,0,,High,1,Methyl [K750]
+FALSE,Low,Master Protein,P11532,Dystrophin OS=Homo sapiens OX=9606 GN=DMD PE=1 SV=3,0.176,0.967,0,1,1,1,3685,426.5,5.88,2.1,1,0,,High,1,Phospho [S894]
+FALSE,Low,Master Protein,P49736,DNA replication licensing factor MCM2 OS=Homo sapiens OX=9606 GN=MCM2 PE=1 SV=4,0.141,1.07,1,1,1,1,904,101.8,5.52,1.93,1,0,,High,1,
+FALSE,Medium,Master Protein,Q8TEQ6,Gem-associated protein 5 OS=Homo sapiens OX=9606 GN=GEMIN5 PE=1 SV=3,0.042,1.685,1,1,1,1,1508,168.5,6.62,1.63,1,0,,High,1,
+FALSE,High,Master Protein,P09874,Poly [ADP-ribose] polymerase 1 OS=Homo sapiens OX=9606 GN=PARP1 PE=1 SV=4,0.005,2.652,1,1,1,1,1014,113,8.88,2.49,1,0,,High,1,
+FALSE,High,Master Protein,O14980,Exportin-1 OS=Homo sapiens OX=9606 GN=XPO1 PE=1 SV=1,0,4.3,2,1,1,1,1071,123.3,6.06,4.16,1,0,,High,1,
+FALSE,Medium,Master Protein,P56159,GDNF family receptor alpha-1 OS=Homo sapiens OX=9606 GN=GFRA1 PE=1 SV=2,0.049,1.581,1,1,1,1,465,51.4,7.91,0,1,0,491878.9063,High,1,
+FALSE,Low,Master Protein,P46013,Proliferation marker protein Ki-67 OS=Homo sapiens OX=9606 GN=MKI67 PE=1 SV=2,0.26,0.702,1,1,1,1,3256,358.5,9.45,2.54,1,0,,High,1,Methyl [K1367]
+FALSE,Low,Master Protein,A0A1B0GUA6,Putative coiled-coil domain-containing protein 195 OS=Homo sapiens OX=9606 GN=CCDC195 PE=5 SV=1,0.144,1.054,3,1,1,1,201,21.9,8.18,1.61,1,0,3375790.25,High,1,
+FALSE,Low,Master Protein,Q9NYC9,"Dynein heavy chain 9, axonemal OS=Homo sapiens OX=9606 GN=DNAH9 PE=1 SV=3",0.092,1.229,0,1,1,1,4486,511.6,5.91,0,1,0,370055.25,High,1,
+FALSE,Low,Master Protein,P06681,Complement C2 OS=Homo sapiens OX=9606 GN=C2 PE=1 SV=2,0.203,0.88,1,1,1,1,752,83.2,7.42,1.79,1,0,3382512,High,1,
+FALSE,Low,Master Protein,O00139,Kinesin-like protein KIF2A OS=Homo sapiens OX=9606 GN=KIF2A PE=1 SV=3,0.251,0.713,2,1,1,1,706,79.9,6.68,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q96S55,ATPase WRNIP1 OS=Homo sapiens OX=9606 GN=WRNIP1 PE=1 SV=2,0.168,0.997,1,1,1,1,665,72.1,6.1,0,1,0,553927.625,High,1,
+FALSE,Medium,Master Protein,Q9UNS2,COP9 signalosome complex subunit 3 OS=Homo sapiens OX=9606 GN=COPS3 PE=1 SV=3,0.036,1.749,3,1,1,1,423,47.8,6.65,2.7,1,0,,High,1,Met-loss+Acetyl [N-Term]
+FALSE,Low,Master Protein,Q09472,Histone acetyltransferase p300 OS=Homo sapiens OX=9606 GN=EP300 PE=1 SV=2,0.216,0.796,0,1,1,1,2414,264,8.5,0,1,0,3127870.25,High,1,
+FALSE,High,Master Protein,P28799,Progranulin OS=Homo sapiens OX=9606 GN=GRN PE=1 SV=2,0.002,2.986,3,1,1,1,593,63.5,6.83,2.11,1,0,,High,1,
+FALSE,Medium,Master Protein,P17096,High mobility group protein HMG-I/HMG-Y OS=Homo sapiens OX=9606 GN=HMGA1 PE=1 SV=3,0.017,2.058,8,1,1,1,107,11.7,10.32,1.84,1,0,624398.125,High,1,
+FALSE,Low,Master Protein,Q9Y2G5,GDP-fucose protein O-fucosyltransferase 2 OS=Homo sapiens OX=9606 GN=POFUT2 PE=1 SV=3,0.222,0.761,2,1,1,1,429,49.9,6.6,0,1,0,581056.3125,High,1,
+FALSE,Low,Master Protein,Q96D03,DNA damage-inducible transcript 4-like protein OS=Homo sapiens OX=9606 GN=DDIT4L PE=1 SV=1,0.14,1.077,9,1,1,1,193,21.7,7.53,0,1,0,,High,1,Phospho [T137]; Methyl [K141]
+FALSE,Low,Master Protein,P21453,Sphingosine 1-phosphate receptor 1 OS=Homo sapiens OX=9606 GN=S1PR1 PE=1 SV=2,0.084,1.29,2,1,1,1,382,42.8,9.5,0,1,0,1600278.375,High,1,
+FALSE,Low,Master Protein,Q2LD37,Transmembrane protein KIAA1109 OS=Homo sapiens OX=9606 GN=KIAA1109 PE=1 SV=2,0.223,0.753,0,1,1,1,5005,555.1,6.58,2.26,1,0,,High,1,Phospho [T2588]
+FALSE,Medium,Master Protein,O15355,Protein phosphatase 1G OS=Homo sapiens OX=9606 GN=PPM1G PE=1 SV=1,0.011,2.268,3,1,1,1,546,59.2,4.36,2.44,1,0,,High,1,
+FALSE,Low,Master Protein,Q8NB16,Mixed lineage kinase domain-like protein OS=Homo sapiens OX=9606 GN=MLKL PE=1 SV=1,0.215,0.799,2,1,1,1,471,54.4,8.82,0,1,0,15200.58984,High,1,Acetyl [K16]; Phospho [T9]
+FALSE,High,Master Protein,Q13409,Cytoplasmic dynein 1 intermediate chain 2 OS=Homo sapiens OX=9606 GN=DYNC1I2 PE=1 SV=3,0,3.991,2,1,1,1,638,71.4,5.2,2.52,1,0,640510.625,High,1,
+FALSE,Medium,Master Protein,Q5UIP0,Telomere-associated protein RIF1 OS=Homo sapiens OX=9606 GN=RIF1 PE=1 SV=2,0.028,1.859,1,1,1,1,2472,274.3,5.52,2.42,1,0,4352385,High,1,Phospho [S507]; Methyl [K510]
+FALSE,Low,Master Protein,O75901,Ras association domain-containing protein 9 OS=Homo sapiens OX=9606 GN=RASSF9 PE=2 SV=2,0.176,0.965,4,1,1,1,435,50,5.31,2.29,1,0,,High,1,
+FALSE,Low,Master Protein,P49247,Ribose-5-phosphate isomerase OS=Homo sapiens OX=9606 GN=RPIA PE=1 SV=3,0.168,0.997,5,1,1,1,311,33.2,8.54,2.06,1,0,,High,1,Phospho [T145]
+FALSE,Low,Master Protein,Q8IYA2,Putative coiled-coil domain-containing protein 144C OS=Homo sapiens OX=9606 GN=CCDC144CP PE=5 SV=3,0.157,1.031,2,1,1,1,1237,143,5.69,3.06,1,0,,High,1,Acetyl [K605]
+FALSE,High,Master Protein,Q13620,Cullin-4B OS=Homo sapiens OX=9606 GN=CUL4B PE=1 SV=4,0.002,2.994,1,1,1,1,913,103.9,7.37,0,1,0,,High,1,
+FALSE,Medium,Master Protein,Q8IV77,Cyclic nucleotide-gated cation channel alpha-4 OS=Homo sapiens OX=9606 GN=CNGA4 PE=1 SV=3,0.049,1.577,2,1,1,1,575,66,5.55,2.08,1,0,,High,1,
+FALSE,Low,Master Protein,Q9H254,"Spectrin beta chain, non-erythrocytic 4 OS=Homo sapiens OX=9606 GN=SPTBN4 PE=1 SV=2",0.204,0.878,0,1,1,1,2564,288.8,6.01,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q9UBT7,Alpha-catulin OS=Homo sapiens OX=9606 GN=CTNNAL1 PE=1 SV=2,0.225,0.757,2,1,1,1,734,81.8,6.64,0,1,0,,High,1,Phospho [S399; T400]; Methyl [K395]
+FALSE,Medium,Master Protein,Q16643,Drebrin OS=Homo sapiens OX=9606 GN=DBN1 PE=1 SV=4,0.048,1.607,1,1,1,1,649,71.4,4.45,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q9UK73,Protein fem-1 homolog B OS=Homo sapiens OX=9606 GN=FEM1B PE=1 SV=1,0.053,1.465,3,1,1,1,627,70.2,6.61,2.25,1,0,1244522,High,1,
+FALSE,Medium,Master Protein,Q9NZL4,Hsp70-binding protein 1 OS=Homo sapiens OX=9606 GN=HSPBP1 PE=1 SV=2,0.011,2.264,4,1,1,1,359,39.3,5.21,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q15477,Helicase SKI2W OS=Homo sapiens OX=9606 GN=SKIV2L PE=1 SV=3,0.26,0.7,1,1,1,1,1246,137.7,6.06,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q96JM2,Zinc finger protein 462 OS=Homo sapiens OX=9606 GN=ZNF462 PE=1 SV=3,0.095,1.213,0,1,1,1,2506,284.5,7.58,0,1,0,151341.7813,High,1,
+FALSE,Medium,Master Protein,Q14324,"Myosin-binding protein C, fast-type OS=Homo sapiens OX=9606 GN=MYBPC2 PE=1 SV=2",0.028,1.842,1,1,1,1,1141,128,7.52,0,1,0,784934,High,1,
+FALSE,Medium,Master Protein,Q8TEK3,"Histone-lysine N-methyltransferase, H3 lysine-79 specific OS=Homo sapiens OX=9606 GN=DOT1L PE=1 SV=3",0.048,1.522,1,1,1,1,1537,164.8,9.19,0,1,0,424747.0313,High,1,
+FALSE,High,Master Protein,P23588,Eukaryotic translation initiation factor 4B OS=Homo sapiens OX=9606 GN=EIF4B PE=1 SV=2,0.005,2.677,2,1,1,1,611,69.1,5.73,1.94,1,0,,High,1,
+FALSE,Low,Master Protein,P09630,Homeobox protein Hox-C6 OS=Homo sapiens OX=9606 GN=HOXC6 PE=2 SV=3,0.141,1.07,10,1,1,1,235,26.9,9.1,3.31,1,0,2501727.5,High,1,Methyl [K198]
+FALSE,Low,Master Protein,Q14123,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1C OS=Homo sapiens OX=9606 GN=PDE1C PE=1 SV=1",0.255,0.709,2,1,1,1,709,80.7,8.82,2.59,1,0,,High,1,Methyl [K567]
+FALSE,High,Master Protein,O43169,Cytochrome b5 type B OS=Homo sapiens OX=9606 GN=CYB5B PE=1 SV=3,0,3.515,11,1,1,1,150,16.7,4.97,2.33,1,0,,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q9Y276,Mitochondrial chaperone BCS1 OS=Homo sapiens OX=9606 GN=BCS1L PE=1 SV=1,0,3.824,2,1,1,1,419,47.5,8.5,2.56,1,0,3474463.75,High,1,
+FALSE,Low,Master Protein,Q7L4P6,BEN domain-containing protein 5 OS=Homo sapiens OX=9606 GN=BEND5 PE=1 SV=1,0.174,0.981,3,1,1,1,421,48.2,6.2,1.85,1,0,3386519,High,1,
+FALSE,Low,Master Protein,Q5JQS6,Germinal center-associated signaling and motility-like protein OS=Homo sapiens OX=9606 GN=GCSAML PE=1 SV=1,0.222,0.763,7,1,1,1,135,15.7,6.68,2.23,1,0,,High,1,
+FALSE,Low,Master Protein,Q12789,General transcription factor 3C polypeptide 1 OS=Homo sapiens OX=9606 GN=GTF3C1 PE=1 SV=4,0.201,0.884,1,1,1,1,2109,238.7,7.3,2.98,1,0,,High,1,Phospho [Y675]
+FALSE,Medium,Master Protein,Q9BR76,Coronin-1B OS=Homo sapiens OX=9606 GN=CORO1B PE=1 SV=1,0.029,1.817,2,1,1,1,489,54.2,5.88,1.91,1,0,,High,1,
+FALSE,Low,Master Protein,P49589,"Cysteine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=CARS1 PE=1 SV=3",0.179,0.946,1,1,1,1,748,85.4,6.76,0,1,0,655253.125,High,1,
+FALSE,Low,Master Protein,Q6X4W1,NMDA receptor synaptonuclear signaling and neuronal migration factor OS=Homo sapiens OX=9606 GN=NSMF PE=1 SV=1,0.217,0.794,3,1,1,1,530,60.1,9.07,1.98,1,0,3261060,High,1,
+FALSE,High,Master Protein,Q03252,Lamin-B2 OS=Homo sapiens OX=9606 GN=LMNB2 PE=1 SV=4,0,3.121,2,1,1,1,620,69.9,5.59,2.6,1,0,1326904.25,High,1,
+FALSE,Low,Master Protein,P09131,P3 protein OS=Homo sapiens OX=9606 GN=SLC10A3 PE=2 SV=1,0.175,0.978,6,1,1,1,477,50.3,7.77,0,1,0,,High,1,Phospho [Y240]
+FALSE,High,Master Protein,Q9UL25,Ras-related protein Rab-21 OS=Homo sapiens OX=9606 GN=RAB21 PE=1 SV=3,0.005,2.589,4,1,1,1,225,24.3,7.94,1.91,1,0,830015.4375,High,1,
+FALSE,Medium,Master Protein,P30101,Protein disulfide-isomerase A3 OS=Homo sapiens OX=9606 GN=PDIA3 PE=1 SV=4,0.017,2.056,3,1,1,1,505,56.7,6.35,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q5H8C1,FRAS1-related extracellular matrix protein 1 OS=Homo sapiens OX=9606 GN=FREM1 PE=1 SV=3,0.144,1.053,1,1,1,1,2179,244,5.9,0,1,0,,High,1,Phospho [S5; S22]
+FALSE,Low,Master Protein,Q9Y2V7,Conserved oligomeric Golgi complex subunit 6 OS=Homo sapiens OX=9606 GN=COG6 PE=1 SV=2,0.176,0.965,3,1,1,1,657,73.2,5.76,0,1,0,,High,1,
+FALSE,Medium,Master Protein,P14678,Small nuclear ribonucleoprotein-associated proteins B and B' OS=Homo sapiens OX=9606 GN=SNRPB PE=1 SV=2,0.024,1.902,6,1,1,1,240,24.6,11.19,2.29,1,0,,High,1,
+FALSE,Low,Master Protein,Q9UBC3,DNA (cytosine-5)-methyltransferase 3B OS=Homo sapiens OX=9606 GN=DNMT3B PE=1 SV=1,0.072,1.341,2,1,1,1,853,95.7,8.43,3.22,1,0,1729272.375,High,1,Phospho [T353]
+FALSE,Low,Master Protein,Q96L42,Potassium voltage-gated channel subfamily H member 8 OS=Homo sapiens OX=9606 GN=KCNH8 PE=2 SV=2,0.238,0.728,1,1,1,1,1107,123.7,6.92,2.19,1,0,1502492.75,High,1,
+FALSE,Low,Master Protein,Q9UC06,Zinc finger protein 70 OS=Homo sapiens OX=9606 GN=ZNF70 PE=2 SV=2,0.219,0.772,3,1,1,1,446,50.8,8.31,1.81,1,0,,High,1,
+FALSE,Low,Master Protein,Q96J42,Thioredoxin domain-containing protein 15 OS=Homo sapiens OX=9606 GN=TXNDC15 PE=1 SV=1,0.26,0.7,3,1,1,1,360,39.9,4.83,0,1,0,720325.875,High,1,
+FALSE,Low,Master Protein,P52961,GPI-linked NAD(P)(+)--arginine ADP-ribosyltransferase 1 OS=Homo sapiens OX=9606 GN=ART1 PE=2 SV=2,0.207,0.843,3,1,1,1,327,36.3,8.28,1.86,1,0,,High,1,
+FALSE,Low,Master Protein,Q00496,Botulinum neurotoxin type E OS=Clostridium botulinum OX=1491 GN=botE PE=1 SV=2,0.071,1.373,1,1,1,1,1251,143.8,6.58,0,1,0,,High,1,
+FALSE,High,Master Protein,Q01518,Adenylyl cyclase-associated protein 1 OS=Homo sapiens OX=9606 GN=CAP1 PE=1 SV=5,0,3.659,3,1,1,1,475,51.9,8.06,2.53,1,0,,High,1,
+FALSE,Low,Master Protein,Q8NCX0,Coiled-coil domain-containing protein 150 OS=Homo sapiens OX=9606 GN=CCDC150 PE=1 SV=2,0.229,0.743,3,1,1,1,1101,128.7,7.02,0,1,0,44980.71875,High,1,Phospho [T9; T10]
+FALSE,Low,Master Protein,Q8IYB8,"ATP-dependent RNA helicase SUPV3L1, mitochondrial OS=Homo sapiens OX=9606 GN=SUPV3L1 PE=1 SV=1",0.258,0.706,2,1,1,1,786,87.9,7.99,2.16,1,0,3096419.75,High,1,Phospho [T424]
+FALSE,Low,Master Protein,O15409,Forkhead box protein P2 OS=Homo sapiens OX=9606 GN=FOXP2 PE=1 SV=2,0.072,1.366,3,1,1,1,715,79.9,6.52,2.75,1,0,,High,1,Acetyl [K417]; Phospho [S414]
+FALSE,Low,Master Protein,O15397,Importin-8 OS=Homo sapiens OX=9606 GN=IPO8 PE=1 SV=2,0.171,0.994,1,1,1,1,1037,119.9,5.16,0,1,0,1026676.5,High,1,
+FALSE,High,Master Protein,P22314,Ubiquitin-like modifier-activating enzyme 1 OS=Homo sapiens OX=9606 GN=UBA1 PE=1 SV=3,0,4.299,1,1,1,1,1058,117.8,5.76,2.96,1,0,,High,1,
+FALSE,Medium,Master Protein,P10643,Complement component C7 OS=Homo sapiens OX=9606 GN=C7 PE=1 SV=2,0.045,1.632,2,1,1,1,843,93.5,6.48,2.68,1,0,,High,1,
+FALSE,Low,Master Protein,Q14940,Sodium/hydrogen exchanger 5 OS=Homo sapiens OX=9606 GN=SLC9A5 PE=1 SV=2,0.207,0.831,1,1,1,1,896,98.9,7.56,0,1,0,3756332.5,High,1,Acetyl [K323]; Phospho [Y315]
+FALSE,Low,Master Protein,Q9P2D3,HEAT repeat-containing protein 5B OS=Homo sapiens OX=9606 GN=HEATR5B PE=1 SV=2,0.237,0.725,1,1,1,1,2071,224.2,7.17,2.61,1,0,,High,1,Phospho [T364]
+FALSE,Low,Master Protein,Q9P2Y5,UV radiation resistance-associated gene protein OS=Homo sapiens OX=9606 GN=UVRAG PE=1 SV=1,0.158,1.026,1,1,1,1,699,78.1,8.29,0,1,0,108377.4531,High,1,
+FALSE,Low,Master Protein,O14490,Disks large-associated protein 1 OS=Homo sapiens OX=9606 GN=DLGAP1 PE=1 SV=1,0.209,0.816,2,1,1,1,977,108.8,7.08,0,1,0,,High,1,Methyl [K305]
+FALSE,Low,Master Protein,G3V0H7,Putative solute carrier organic anion transporter family member 1B7 OS=Homo sapiens OX=9606 GN=SLCO1B7 PE=5 SV=1,0.183,0.94,1,1,1,1,640,71.2,8.5,0,1,0,,High,1,
+FALSE,Medium,Master Protein,O43164,E3 ubiquitin-protein ligase Praja-2 OS=Homo sapiens OX=9606 GN=PJA2 PE=1 SV=4,0.017,2.038,2,1,1,1,708,78.2,4.39,0,1,0,382512.4375,High,1,
+FALSE,High,Master Protein,P16403,Histone H1.2 OS=Homo sapiens OX=9606 GN=H1-2 PE=1 SV=2,0,4.394,8,1,1,1,213,21.4,10.93,2.71,1,0,2128908.5,High,1,Met-loss+Acetyl [N-Term]
+FALSE,Low,Master Protein,Q00796,Sorbitol dehydrogenase OS=Homo sapiens OX=9606 GN=SORD PE=1 SV=4,0.181,0.944,3,1,1,1,357,38.3,7.97,0,1,0,562991.1875,High,1,
+FALSE,Low,Master Protein,Q15833,Syntaxin-binding protein 2 OS=Homo sapiens OX=9606 GN=STXBP2 PE=1 SV=2,0.132,1.102,2,1,1,1,593,66.4,6.55,1.73,1,0,,High,1,
+FALSE,High,Master Protein,Q6FIF0,AN1-type zinc finger protein 6 OS=Homo sapiens OX=9606 GN=ZFAND6 PE=1 SV=2,0.008,2.383,4,1,1,1,208,22.5,7.2,0,1,0,483200.2188,High,1,
+FALSE,Low,Master Protein,Q8NHM5,Lysine-specific demethylase 2B OS=Homo sapiens OX=9606 GN=KDM2B PE=1 SV=1,0.156,1.035,2,1,1,1,1336,152.5,8.56,0,1,0,,High,1,Phospho [T267; S280]
+FALSE,Medium,Master Protein,Q99614,Tetratricopeptide repeat protein 1 OS=Homo sapiens OX=9606 GN=TTC1 PE=1 SV=1,0.015,2.179,6,1,1,1,292,33.5,4.84,1.67,1,0,,High,1,
+FALSE,High,Master Protein,P06703,Protein S100-A6 OS=Homo sapiens OX=9606 GN=S100A6 PE=1 SV=1,0.005,2.477,9,1,1,1,90,10.2,5.48,1.94,1,0,2069348.125,High,1,
+FALSE,High,Master Protein,P49588,"Alanine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=AARS1 PE=1 SV=2",0,4.111,1,1,1,1,968,106.7,5.53,1.71,1,0,,High,1,
+FALSE,Low,Master Protein,Q6XZB0,Lipase member I OS=Homo sapiens OX=9606 GN=LIPI PE=1 SV=3,0.175,0.98,2,1,1,1,460,52.9,8.97,0,1,0,1319114.375,High,1,
+FALSE,Medium,Master Protein,Q4KWH8,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-1 OS=Homo sapiens OX=9606 GN=PLCH1 PE=1 SV=1",0.048,1.583,1,1,1,1,1693,189.1,7.74,2.3,1,0,1148763.25,High,1,
+FALSE,Low,Master Protein,O75366,Advillin OS=Homo sapiens OX=9606 GN=AVIL PE=1 SV=3,0.059,1.449,1,1,1,1,819,92,5.71,2.29,1,0,16773629,High,1,
+FALSE,Low,Master Protein,Q9C0F1,Centrosomal protein of 44 kDa OS=Homo sapiens OX=9606 GN=CEP44 PE=1 SV=2,0.216,0.798,3,1,1,1,390,44.1,5.21,0,1,0,237298.6875,High,1,
+FALSE,High,Master Protein,Q9H009,Nascent polypeptide-associated complex subunit alpha-2 OS=Homo sapiens OX=9606 GN=NACA2 PE=1 SV=1,0,5.756,7,1,1,1,215,23.2,4.73,3.87,1,0,1097918.875,High,1,
+FALSE,High,Master Protein,P19388,"DNA-directed RNA polymerases I, II, and III subunit RPABC1 OS=Homo sapiens OX=9606 GN=POLR2E PE=1 SV=4",0,3.772,7,1,1,1,210,24.5,5.95,1.87,1,0,,High,1,
+FALSE,Low,Master Protein,Q03001,Dystonin OS=Homo sapiens OX=9606 GN=DST PE=1 SV=4,0.202,0.881,0,1,1,1,7570,860.1,5.25,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q8WTP8,Apoptosis-enhancing nuclease OS=Homo sapiens OX=9606 GN=AEN PE=1 SV=2,0.153,1.042,7,1,1,1,325,36.3,9.28,1.98,1,0,,High,1,
+FALSE,Low,Master Protein,O95837,Guanine nucleotide-binding protein subunit alpha-14 OS=Homo sapiens OX=9606 GN=GNA14 PE=1 SV=1,0.163,1.008,2,1,1,1,355,41.5,6.07,0,1,0,,High,1,
+FALSE,High,Master Protein,P78406,mRNA export factor OS=Homo sapiens OX=9606 GN=RAE1 PE=1 SV=1,0.005,2.731,4,1,1,1,368,40.9,7.83,2.23,1,0,,High,1,
+FALSE,High,Master Protein,Q13144,Translation initiation factor eIF-2B subunit epsilon OS=Homo sapiens OX=9606 GN=EIF2B5 PE=1 SV=3,0.002,2.967,2,1,1,1,721,80.3,5.08,1.72,1,0,,High,1,
+FALSE,Low,Master Protein,Q8WWL2,Protein spire homolog 2 OS=Homo sapiens OX=9606 GN=SPIRE2 PE=1 SV=3,0.221,0.768,2,1,1,1,714,79.6,7.62,2.61,1,0,,High,1,Phospho [T631]; Methyl [K630]
+FALSE,Medium,Master Protein,Q6P5R6,60S ribosomal protein L22-like 1 OS=Homo sapiens OX=9606 GN=RPL22L1 PE=1 SV=2,0.019,2.004,6,1,1,1,122,14.6,9.38,0,1,0,406490.5,High,1,
+FALSE,Low,Master Protein,Q6NUQ4,Transmembrane protein 214 OS=Homo sapiens OX=9606 GN=TMEM214 PE=1 SV=2,0.108,1.168,1,1,1,1,689,77.1,9.14,1.78,1,0,793030.375,High,1,
+FALSE,Low,Master Protein,P25490,Transcriptional repressor protein YY1 OS=Homo sapiens OX=9606 GN=YY1 PE=1 SV=2,0.208,0.816,5,1,1,1,414,44.7,6.25,1.96,1,0,4161123.25,High,1,
+FALSE,Low,Master Protein,Q9BWU0,Kanadaptin OS=Homo sapiens OX=9606 GN=SLC4A1AP PE=1 SV=1,0.208,0.818,2,1,1,1,796,88.8,5.19,2.32,1,0,2462757.75,High,1,Methyl [R691]
+FALSE,Low,Master Protein,O43490,Prominin-1 OS=Homo sapiens OX=9606 GN=PROM1 PE=1 SV=1,0.257,0.705,3,1,1,1,865,97.1,7.27,0,1,0,310606.0313,High,1,Acetyl [K700]; Phospho [T679]
+FALSE,Low,Master Protein,Q8IZA0,Dyslexia-associated protein KIAA0319-like protein OS=Homo sapiens OX=9606 GN=KIAA0319L PE=1 SV=2,0.15,1.044,1,1,1,1,1049,115.6,6.05,0,1,0,,High,1,Acetyl [K871]; Methyl [K869]
+FALSE,High,Master Protein,Q96IV0,Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase OS=Homo sapiens OX=9606 GN=NGLY1 PE=1 SV=1,0,5.99,5,1,1,1,654,74.3,6.89,3.24,1,0,,High,1,Met-loss+Acetyl [N-Term]
+FALSE,Low,Master Protein,Q5SNV9,Uncharacterized protein C1orf167 OS=Homo sapiens OX=9606 GN=C1orf167 PE=2 SV=2,0.073,1.35,2,1,1,1,1468,162.3,10.7,3.42,1,0,,High,1,
+FALSE,Medium,Master Protein,O60934,Nibrin OS=Homo sapiens OX=9606 GN=NBN PE=1 SV=1,0.049,1.549,2,1,1,1,754,84.9,6.9,2.85,1,0,,High,1,
+FALSE,Low,Master Protein,Q68DE3,Basic helix-loop-helix domain-containing protein USF3 OS=Homo sapiens OX=9606 GN=USF3 PE=1 SV=4,0.22,0.788,1,1,1,1,2245,241.5,7.61,0,1,0,,High,1,
+FALSE,High,Master Protein,P81605,Dermcidin OS=Homo sapiens OX=9606 GN=DCD PE=1 SV=2,0,3.686,10,1,1,1,110,11.3,6.54,2.87,1,0,2821092,High,1,
+FALSE,Low,Master Protein,P26951,Interleukin-3 receptor subunit alpha OS=Homo sapiens OX=9606 GN=IL3RA PE=1 SV=1,0.201,0.884,5,1,1,1,378,43.3,8.25,2.71,1,0,,High,1,
+FALSE,Low,Master Protein,Q8IZF6,Adhesion G-protein coupled receptor G4 OS=Homo sapiens OX=9606 GN=ADGRG4 PE=2 SV=2,0.162,1.005,1,1,1,1,3080,333.2,6.21,3.21,1,0,1305431,High,1,Phospho [S2002]; Methyl [K2003]
+FALSE,Low,Master Protein,Q96G74,OTU domain-containing protein 5 OS=Homo sapiens OX=9606 GN=OTUD5 PE=1 SV=1,0.08,1.307,2,1,1,1,571,60.6,6.54,1.81,1,0,,High,1,
+FALSE,Low,Master Protein,Q02790,Peptidyl-prolyl cis-trans isomerase FKBP4 OS=Homo sapiens OX=9606 GN=FKBP4 PE=1 SV=3,0.141,1.081,3,1,1,1,459,51.8,5.43,0,1,0,365239.0625,High,1,
+FALSE,Low,Master Protein,Q92506,Estradiol 17-beta-dehydrogenase 8 OS=Homo sapiens OX=9606 GN=HSD17B8 PE=1 SV=2,0.183,0.936,5,1,1,1,261,27,6.54,2.21,1,0,2415954,High,1,Phospho [S155; S156]
+FALSE,Low,Master Protein,Q9H426,Regulating synaptic membrane exocytosis protein 4 OS=Homo sapiens OX=9606 GN=RIMS4 PE=1 SV=3,0.08,1.314,3,1,1,1,269,29.3,5.8,0,1,0,,High,1,
+FALSE,High,Master Protein,Q9NZB2,Constitutive coactivator of PPAR-gamma-like protein 1 OS=Homo sapiens OX=9606 GN=FAM120A PE=1 SV=2,0,3.972,2,1,1,1,1118,121.8,8.88,2.26,1,0,,High,1,
+FALSE,Low,Master Protein,Q86WT1,Tetratricopeptide repeat protein 30A OS=Homo sapiens OX=9606 GN=TTC30A PE=2 SV=3,0.207,0.841,2,1,1,1,665,76.1,5.2,2.43,1,0,7300204,High,1,
+FALSE,Low,Master Protein,Q9NU02,Ankyrin repeat and EF-hand domain-containing protein 1 OS=Homo sapiens OX=9606 GN=ANKEF1 PE=2 SV=2,0.176,0.968,2,1,1,1,776,86.6,8.28,2.8,1,0,,High,1,Acetyl [K646]; Methyl [K644]
+FALSE,Low,Master Protein,O95071,E3 ubiquitin-protein ligase UBR5 OS=Homo sapiens OX=9606 GN=UBR5 PE=1 SV=2,0.258,0.706,1,1,1,1,2799,309.2,5.85,0,1,0,,High,1,Phospho [S2150; S2151]
+FALSE,Low,Master Protein,P19827,Inter-alpha-trypsin inhibitor heavy chain H1 OS=Homo sapiens OX=9606 GN=ITIH1 PE=1 SV=3,0.16,1.009,2,1,1,1,911,101.3,6.79,2.57,1,0,11386079,High,1,
+FALSE,Low,Master Protein,Q6ZP82,Coiled-coil domain-containing protein 141 OS=Homo sapiens OX=9606 GN=CCDC141 PE=1 SV=2,0.085,1.282,1,1,1,1,1450,166.2,5.58,3.15,1,0,,High,1,
+FALSE,Low,Master Protein,P09758,Tumor-associated calcium signal transducer 2 OS=Homo sapiens OX=9606 GN=TACSTD2 PE=1 SV=3,0.233,0.734,12,1,1,1,323,35.7,8.87,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q96MF2,SH3 and cysteine-rich domain-containing protein 3 OS=Homo sapiens OX=9606 GN=STAC3 PE=1 SV=1,0.084,1.294,3,1,1,1,364,41.5,6.93,0,1,0,554545.75,High,1,
+FALSE,Low,Master Protein,Q8IVL0,Neuron navigator 3 OS=Homo sapiens OX=9606 GN=NAV3 PE=1 SV=3,0.213,0.803,0,1,1,1,2385,255.5,8.76,0,1,0,24477366,High,1,
+FALSE,Low,Master Protein,Q9NZL6,Ral guanine nucleotide dissociation stimulator-like 1 OS=Homo sapiens OX=9606 GN=RGL1 PE=1 SV=1,0.259,0.703,1,1,1,1,768,86.6,6.09,0,1,0,,High,1,Phospho [Y174]
+FALSE,Medium,Master Protein,P30566,Adenylosuccinate lyase OS=Homo sapiens OX=9606 GN=ADSL PE=1 SV=2,0.031,1.806,3,1,1,1,484,54.9,7.11,0,1,0,,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,Q13895,Bystin OS=Homo sapiens OX=9606 GN=BYSL PE=1 SV=3,0,4.386,5,1,1,1,437,49.6,8.12,3.39,1,0,534693.8125,High,1,
+FALSE,Medium,Master Protein,Q14155,Rho guanine nucleotide exchange factor 7 OS=Homo sapiens OX=9606 GN=ARHGEF7 PE=1 SV=2,0.039,1.722,3,1,1,1,803,90,7.09,0,1,0,331699.7813,High,1,Phospho [S3]
+FALSE,Low,Master Protein,P22694,cAMP-dependent protein kinase catalytic subunit beta OS=Homo sapiens OX=9606 GN=PRKACB PE=1 SV=2,0.203,0.872,4,1,1,1,351,40.6,8.78,2.89,1,0,,High,1,Methyl [R281]
+FALSE,High,Master Protein,Q9H7Z7,Prostaglandin E synthase 2 OS=Homo sapiens OX=9606 GN=PTGES2 PE=1 SV=1,0.008,2.411,3,1,1,1,377,41.9,9.16,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q96RS6,NudC domain-containing protein 1 OS=Homo sapiens OX=9606 GN=NUDCD1 PE=1 SV=2,0.095,1.212,1,1,1,1,583,66.7,5.11,2.04,1,0,10720042,High,1,
+FALSE,Low,Master Protein,O43913,Origin recognition complex subunit 5 OS=Homo sapiens OX=9606 GN=ORC5 PE=1 SV=1,0.208,0.859,2,1,1,1,435,50.3,7.74,0,1,0,386334.4375,High,1,
+FALSE,High,Master Protein,Q9H4P4,E3 ubiquitin-protein ligase NRDP1 OS=Homo sapiens OX=9606 GN=RNF41 PE=1 SV=2,0.005,2.734,4,1,1,1,317,35.9,6.14,2.1,1,0,,High,1,
+FALSE,Low,Master Protein,Q6UX65,DNA damage-regulated autophagy modulator protein 2 OS=Homo sapiens OX=9606 GN=DRAM2 PE=1 SV=1,0.113,1.152,8,1,1,1,266,29.7,8.03,2.66,1,0,3241614,High,1,Phospho [T70; Y72]
+FALSE,High,Master Protein,Q99453,Paired mesoderm homeobox protein 2B OS=Homo sapiens OX=9606 GN=PHOX2B PE=1 SV=2,0,3.728,4,1,1,1,314,31.6,8.84,3.33,1,0,2933921.75,High,1,Acetyl [K155]
+FALSE,High,Master Protein,P23284,Peptidyl-prolyl cis-trans isomerase B OS=Homo sapiens OX=9606 GN=PPIB PE=1 SV=2,0,4.354,6,1,1,1,216,23.7,9.41,2.47,1,0,,High,1,
+FALSE,High,Master Protein,Q92552,"28S ribosomal protein S27, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS27 PE=1 SV=3",0,3.246,2,1,1,1,414,47.6,6.18,0,1,0,,High,1,
+FALSE,High,Master Protein,Q6ZMK1,Cysteine and histidine-rich protein 1 OS=Homo sapiens OX=9606 GN=CYHR1 PE=1 SV=2,0,3.171,4,1,1,1,362,40.7,7.23,2.46,1,0,,High,1,
+FALSE,High,Master Protein,O75607,Nucleoplasmin-3 OS=Homo sapiens OX=9606 GN=NPM3 PE=1 SV=3,0,3.301,10,1,1,1,178,19.3,4.63,3.17,1,0,,High,1,Met-loss+Acetyl [N-Term]
+FALSE,Low,Master Protein,Q02978,Mitochondrial 2-oxoglutarate/malate carrier protein OS=Homo sapiens OX=9606 GN=SLC25A11 PE=1 SV=3,0.069,1.393,5,1,1,1,314,34,9.91,2.43,1,0,,High,1,Met-loss+Acetyl [N-Term]
+FALSE,Low,Master Protein,Q5U649,Uncharacterized protein C12orf60 OS=Homo sapiens OX=9606 GN=C12orf60 PE=1 SV=2,0.182,0.939,2,1,1,1,245,27.6,7.96,1.86,1,0,,High,1,
+FALSE,Low,Master Protein,Q14CM0,FERM and PDZ domain-containing protein 4 OS=Homo sapiens OX=9606 GN=FRMPD4 PE=1 SV=1,0.1,1.202,1,1,1,1,1322,144.3,5.25,1.74,1,0,,High,1,
+FALSE,Low,Master Protein,Q96PE2,Rho guanine nucleotide exchange factor 17 OS=Homo sapiens OX=9606 GN=ARHGEF17 PE=1 SV=1,0.066,1.417,1,1,1,1,2063,221.5,6.29,0,1,0,198875.1875,High,1,Phospho [S1819]
+FALSE,Low,Master Protein,Q9NP71,Carbohydrate-responsive element-binding protein OS=Homo sapiens OX=9606 GN=MLXIPL PE=1 SV=1,0.223,0.753,2,1,1,1,852,93,8.41,0,1,0,,High,1,Phospho [S781]
+FALSE,Low,Master Protein,Q8TEW0,Partitioning defective 3 homolog OS=Homo sapiens OX=9606 GN=PARD3 PE=1 SV=2,0.177,0.963,0,1,1,1,1356,151.3,7.68,0,1,0,,High,1,
+FALSE,Low,Master Protein,O15042,U2 snRNP-associated SURP motif-containing protein OS=Homo sapiens OX=9606 GN=U2SURP PE=1 SV=2,0.209,0.811,1,1,1,1,1029,118.2,8.47,0,1,0,2236945.25,High,1,
+FALSE,Medium,Master Protein,Q7L1Q6,Basic leucine zipper and W2 domain-containing protein 1 OS=Homo sapiens OX=9606 GN=BZW1 PE=1 SV=1,0.048,1.583,2,1,1,1,419,48,5.92,2.6,1,0,,High,1,
+FALSE,Low,Master Protein,O60282,Kinesin heavy chain isoform 5C OS=Homo sapiens OX=9606 GN=KIF5C PE=1 SV=1,0.104,1.184,1,1,1,1,957,109.4,6.19,1.69,1,0,1161065,High,1,
+FALSE,Low,Master Protein,P27037,Activin receptor type-2A OS=Homo sapiens OX=9606 GN=ACVR2A PE=1 SV=1,0.077,1.322,4,1,1,1,513,57.8,5.92,0,1,0,,High,1,Methyl [R384]
+FALSE,Low,Master Protein,Q5T4T6,Synaptonemal complex protein 2-like OS=Homo sapiens OX=9606 GN=SYCP2L PE=1 SV=2,0.182,0.943,1,1,1,1,812,93.5,5.8,2.67,1,0,5708692,High,1,Phospho [Y368]
+FALSE,High,Master Protein,Q9NRX1,RNA-binding protein PNO1 OS=Homo sapiens OX=9606 GN=PNO1 PE=1 SV=1,0.005,2.725,6,1,1,1,252,27.9,9.73,1.92,1,0,,High,1,
+FALSE,Medium,Master Protein,P52907,F-actin-capping protein subunit alpha-1 OS=Homo sapiens OX=9606 GN=CAPZA1 PE=1 SV=3,0.019,2.015,5,1,1,1,286,32.9,5.69,1.85,1,0,1129974.25,High,1,
+FALSE,Low,Master Protein,Q13435,Splicing factor 3B subunit 2 OS=Homo sapiens OX=9606 GN=SF3B2 PE=1 SV=2,0.157,1.033,1,1,1,1,895,100.2,5.67,0,1,0,558538.625,High,1,
+FALSE,Medium,Master Protein,P02786,Transferrin receptor protein 1 OS=Homo sapiens OX=9606 GN=TFRC PE=1 SV=2,0.015,2.155,2,1,1,1,760,84.8,6.61,0,1,0,,High,1,
+FALSE,Low,Master Protein,Q14126,Desmoglein-2 OS=Homo sapiens OX=9606 GN=DSG2 PE=1 SV=2,0.199,0.895,1,1,1,1,1118,122.2,5.24,1.61,1,0,300774.2188,High,1,
+FALSE,Medium,Master Protein,Q6P179,Endoplasmic reticulum aminopeptidase 2 OS=Homo sapiens OX=9606 GN=ERAP2 PE=1 SV=2,0.016,2.13,1,1,1,1,960,110.4,6.71,1.81,1,0,,High,1,
+FALSE,Medium,Master Protein,Q9NQC3,Reticulon-4 OS=Homo sapiens OX=9606 GN=RTN4 PE=1 SV=2,0.02,1.991,1,1,1,1,1192,129.9,4.5,0,1,0,,High,1,
+FALSE,High,Master Protein,Q7KZF4,Staphylococcal nuclease domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SND1 PE=1 SV=1,0,3.646,1,1,1,1,910,101.9,7.17,2.09,1,0,,High,1,
+FALSE,Low,Master Protein,Q9UGQ3,"Solute carrier family 2, facilitated glucose transporter member 6 OS=Homo sapiens OX=9606 GN=SLC2A6 PE=1 SV=2",0.259,0.703,6,1,1,1,507,54.5,8.63,2.33,1,0,,High,1,Phospho [Y185]
+FALSE,Low,Master Protein,Q53GL7,Protein mono-ADP-ribosyltransferase PARP10 OS=Homo sapiens OX=9606 GN=PARP10 PE=1 SV=2,0.257,0.708,1,1,1,1,1025,109.9,4.97,0,1,0,2044846.875,High,1,
+FALSE,Low,Master Protein,Q9P260,RAB11-binding protein RELCH OS=Homo sapiens OX=9606 GN=RELCH PE=1 SV=2,0.177,0.957,2,1,1,1,1216,134.5,5.45,0,1,0,,High,1,
+FALSE,Low,Master Protein,P47989,Xanthine dehydrogenase/oxidase OS=Homo sapiens OX=9606 GN=XDH PE=1 SV=4,0.208,0.846,0,1,1,1,1333,146.3,7.66,0,1,0,,High,1,
+FALSE,High,Master Protein,P52434,"DNA-directed RNA polymerases I, II, and III subunit RPABC3 OS=Homo sapiens OX=9606 GN=POLR2H PE=1 SV=4",0,5.058,9,1,1,1,150,17.1,4.68,2.55,1,0,,High,1,Met-loss+Acetyl [N-Term]
+FALSE,High,Master Protein,P29966,Myristoylated alanine-rich C-kinase substrate OS=Homo sapiens OX=9606 GN=MARCKS PE=1 SV=4,0,3.594,6,1,1,1,332,31.5,4.45,2.82,1,0,576150.5625,High,1,
+FALSE,Low,Master Protein,Q08554,Desmocollin-1 OS=Homo sapiens OX=9606 GN=DSC1 PE=1 SV=2,0.168,0.998,2,1,1,1,894,99.9,5.43,0,1,0,16283439,High,1,Phospho [S58]; Methyl [K57]
+FALSE,Low,Master Protein,Q75V66,Anoctamin-5 OS=Homo sapiens OX=9606 GN=ANO5 PE=1 SV=1,0.143,1.06,2,1,1,1,913,107.1,6.8,2.53,1,0,274275.4688,High,1,Acetyl [K110]; Phospho [T106]
+FALSE,Low,Master Protein,O60287,Nucleolar pre-ribosomal-associated protein 1 OS=Homo sapiens OX=9606 GN=URB1 PE=1 SV=4,0.232,0.74,1,1,1,1,2271,254.2,6.47,0,1,0,,High,1,Phospho [T706]
+FALSE,Low,Master Protein,P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,0.222,0.764,1,1,1,1,1824,206.7,6.47,2.14,1,0,,High,1,Phospho [S1779]
+FALSE,Low,Master Protein,Q14258,E3 ubiquitin/ISG15 ligase TRIM25 OS=Homo sapiens OX=9606 GN=TRIM25 PE=1 SV=2,0.066,1.421,2,1,1,1,630,70.9,8.09,2.54,1,0,,High,1,
+FALSE,Medium,Master Protein,Q9NUU7,ATP-dependent RNA helicase DDX19A OS=Homo sapiens OX=9606 GN=DDX19A PE=1 SV=1,0.048,1.584,2,1,1,1,478,53.9,6.58,1.7,1,0,,High,1,
+FALSE,Low,Master Protein,P13725,Oncostatin-M OS=Homo sapiens OX=9606 GN=OSM PE=1 SV=2,0.066,1.409,6,1,1,1,252,28.5,10.71,2.68,1,0,,High,1,Phospho [S126]; Methyl [K135]
+FALSE,Low,Master Protein,Q9UBB9,Tuftelin-interacting protein 11 OS=Homo sapiens OX=9606 GN=TFIP11 PE=1 SV=1,0.051,1.479,2,1,1,1,837,96.8,5.67,2.72,1,0,1244522,High,1,Methyl [R274]
+FALSE,Low,Master Protein,Q9ULI3,Protein HEG homolog 1 OS=Homo sapiens OX=9606 GN=HEG1 PE=1 SV=3,0.204,0.873,2,1,1,1,1381,147.4,6.18,2.56,1,0,,High,1,Acetyl [K327]
+FALSE,High,Master Protein,P08579,U2 small nuclear ribonucleoprotein B'' OS=Homo sapiens OX=9606 GN=SNRPB2 PE=1 SV=1,0,3.691,4,1,1,1,225,25.5,9.72,2.2,1,0,,High,1,
+FALSE,Low,Master Protein,P56715,Oxygen-regulated protein 1 OS=Homo sapiens OX=9606 GN=RP1 PE=1 SV=1,0.109,1.168,0,1,1,1,2156,240.5,5.8,0,1,0,3529863.5,High,1,
+FALSE,Low,Master Protein,Q9NWL6,Asparagine synthetase domain-containing protein 1 OS=Homo sapiens OX=9606 GN=ASNSD1 PE=2 SV=2,0.157,1.031,2,1,1,1,643,72,6.83,1.87,1,0,5456954,High,1,
+FALSE,Low,Master Protein,O94822,E3 ubiquitin-protein ligase listerin OS=Homo sapiens OX=9606 GN=LTN1 PE=1 SV=6,0.084,1.287,0,1,1,1,1766,200.4,6.25,2.3,1,0,26293304,High,1,
+FALSE,Medium,Master Protein,Q8N1F7,Nuclear pore complex protein Nup93 OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=2,0.017,2.039,3,1,1,1,819,93.4,5.72,2.94,1,0,2182171.5,High,1,Phospho [S647; S654]
+FALSE,Low,Master Protein,A8K855,EF-hand calcium-binding domain-containing protein 7 OS=Homo sapiens OX=9606 GN=EFCAB7 PE=1 SV=1,0.2,0.884,2,1,1,1,629,71.9,6.38,2.03,1,0,435665.0938,High,1,Methyl [K260]
+FALSE,Low,Master Protein,Q13428,Treacle protein OS=Homo sapiens OX=9606 GN=TCOF1 PE=1 SV=3,0.123,1.115,1,1,1,1,1488,152,9.04,0,1,0,,High,1,
+FALSE,Low,Master Protein,A6NC57,Ankyrin repeat domain-containing protein 62 OS=Homo sapiens OX=9606 GN=ANKRD62 PE=2 SV=4,0.199,0.893,2,1,1,1,917,106.4,6.67,0,1,0,,High,1,Acetyl [K796]; Phospho [T803]; Methyl [K802]
+FALSE,Low,Master Protein,Q9HD33,"39S ribosomal protein L47, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL47 PE=1 SV=2",0.073,1.354,4,1,1,1,250,29.4,10.37,0,1,0,,High,1,
+FALSE,Medium,Master Protein,P23443,Ribosomal protein S6 kinase beta-1 OS=Homo sapiens OX=9606 GN=RPS6KB1 PE=1 SV=2,0.046,1.613,5,1,1,1,525,59.1,6.65,0,1,0,7691596.5,High,1,
+FALSE,Medium,Master Protein,P11387,DNA topoisomerase 1 OS=Homo sapiens OX=9606 GN=TOP1 PE=1 SV=2,0.013,2.193,2,1,1,1,765,90.7,9.31,0,1,0,386936.9688,High,1,
